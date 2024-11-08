@@ -39,5 +39,5 @@ def find(scraper, num_pages):
         scraper.quit()
 
 if __name__ == "__main__":
-    # Initialize the Scraper
+    # Initialize the Scraper web
     scraper = RitchieBrosScraper()
