@@ -7,6 +7,7 @@ import json
 import time
 
 class RitchieBrosScraper:
+    ''' Scraper of prices in the ritchie bros auction website'''
     def __init__(self):
         self.driver = webdriver.Chrome()
         with open("../config.json", "r") as f:
@@ -15,6 +16,7 @@ class RitchieBrosScraper:
 
 
     def log_in(self):
+        ''' Deals with the login process. '''
         # Open login page
         self.driver.get(self.config["login_url"])
 
@@ -55,6 +57,7 @@ class RitchieBrosScraper:
         self.driver.refresh()
 
     def quit(self):
+        ''' Close the automated browser'''
         if self.driver:
             self.driver.quit()
 
@@ -68,6 +71,7 @@ class RitchieBrosScraper:
 
 
     def find_prices(self, url, pages):
+        ''' Find a number of pages of the prices of an asset defined by the url equals to the pages parameters'''
         data = []
 
         # Open the target URL
