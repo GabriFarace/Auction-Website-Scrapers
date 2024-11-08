@@ -1,0 +1,7 @@
+{
+  "ritchie_bros" : {
+    "user": "gabriele.farace@mail.polimi.it",
+    "passw": "DU@2aUU26GS8aZg",
+    "login_url": "https://id.marketplace.ritchiebros.com/login?state=hKFo2SAzTzJUZkE3YlNPdFVOeDZGVHdGVU1RamRUZXJMYTdneKFupWxvZ2luo3RpZNkgel9OdWNmNmFWZ21KanNVUHdtY0Q4Y0VfcEhGREtYWkijY2lk2SBuajlTOUlkd2ZLVU03UUtHcjF3OWNuc0xXS1Rjd3lzNg&client=nj9S9IdwfKUM7QKGr1w9cnsLWKTcwys6&protocol=oauth2&scope=offline_access%20openid%20profile%20email%20credentials%3Averify&response_type=code&redirect_uri=https%3A%2F%2Fwww.rbauction.com%2Fapi%2Fauth%2Fcallback&audience=https%3A%2F%2Fapi.marketplace.ritchiebros.com&ajs_aid=0c04f1bc-c704-46c4-aa0b-ec4cc673fcad&_gl=1*28p998*&error_code=&nonce=jSmRj0G0sPiiieN_En3bP8e18VyuIXqKNhkgxRLPqdk&code_challenge_method=S256&code_challenge=SR-qHhG9zcrCswB0zQwxU7bpspd_5wEWlah5ctdyeSg"
+  }
+}
