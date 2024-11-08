@@ -30,8 +30,6 @@ def find(scraper, num_pages):
                 first_cat["subcategories"].append(second_cat)
             data.append(first_cat)
 
-
-
         with open("data.json", "w") as file:
             json.dump(data, file, indent=4)
 
