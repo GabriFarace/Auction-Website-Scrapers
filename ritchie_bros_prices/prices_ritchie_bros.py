@@ -152,7 +152,6 @@ class RitchieBrosScraper:
 
             except Exception as e:
                 print(f"No more pages or unable to click Next button for url{url}")
-                print(e)
                 break  # Exit the loop if no more pages
 
         print(f"Finished extracting all pages for url : {url}")
