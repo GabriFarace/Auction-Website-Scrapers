@@ -5,6 +5,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.action_chains import ActionChains
 import json
 import time
+import requests
 
 class RitchieBrosScraper:
     ''' Scraper of prices in the ritchie bros auction website'''
@@ -73,7 +74,7 @@ class RitchieBrosScraper:
     def find_prices(self, url, pages):
         ''' Find a number of pages of the prices of an asset defined by the url equals to the pages parameters'''
         data = []
-
+        url = url+"?listingStatuses=Sold"
         # Open the target URL
         time.sleep(3)
         self.driver.get(url)
@@ -161,3 +162,69 @@ class RitchieBrosScraper:
         print(f"Finished extracting all pages for url : {url}")
         return data
 
+class RitchieBrosScraperAPI:
+    ''' Scraper of prices in the ritchie bros auction website'''
+    def __init__(self):
+        with open("../config.json", "r") as f:
+            c = json.load(f)
+            self.config = c["ritchie_bros"]
+
+    def log_in(self):
+        pass
+
+
+
+    # After logging in
+    def save_cookie(self):
+        pass
+
+    # Before accessing a logged-in page
+    def load_cookie(self):
+        pass
+
+    def quit(self):
+        pass
+
+    # R3cuzslrvdqhtrEb0yY4Z
+    def find_prices(self, url, pages):
+        ''' Find a number of pages of the prices of an asset defined by the url equals to the pages parameters'''
+        data = []
+        category = url.split("/")[-1]
+        extracted = 0
+        referer = f'https://www.rbauction.com/cp/{category}?listingStatuses=Sold'
+        while extracted < pages:
+            url = f"https://www.rbauction.com/_next/data/R3cuzslrvdqhtrEb0yY4Z/en-US/cp/{category}.json?listingStatuses=Sold&industries={category}&from={extracted * 30}"
+
+            payload = {}
+            headers = {
+                'accept': '*/*',
+                'accept-language': 'it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7',
+                'cookie': self.config["cookie"],
+                'priority': 'u=1, i',
+                'referer': referer,
+                'sec-ch-ua': '"Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"',
+                'sec-ch-ua-mobile': '?0',
+                'sec-ch-ua-platform': '"Windows"',
+                'sec-fetch-dest': 'empty',
+                'sec-fetch-mode': 'cors',
+                'sec-fetch-site': 'same-origin',
+                'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36',
+                'x-nextjs-data': '1'
+            }
+
+            response = requests.request("GET", url, headers=headers, data=payload)
+
+            returned = response.json()["pageProps"]["data"]["results"]
+            if returned["returnedAmount"] < 30:
+                if returned == 0:
+                    print(f"Page contains nothing for category: {category}")
+                else:
+                    data.extend(returned["records"])
+                    print(f"Extracted page number:{extracted + 1} for category : {category}, Page contains less than 30 elements ")
+                break
+
+            data.extend(returned["records"])
+            print(f"Extracted page number:{extracted + 1} for category : {category}")
+            referer = url
+            extracted += 1
+        return data

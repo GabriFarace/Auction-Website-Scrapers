@@ -1,4 +1,4 @@
-from ritchie_bros_prices.prices_ritchie_bros import RitchieBrosScraper
+from ritchie_bros_prices.prices_ritchie_bros import RitchieBrosScraper, RitchieBrosScraperAPI
 import time
 import json
 
@@ -8,7 +8,7 @@ def find_all(scraper, data, num_pages):
     for first_level_category in data:
         for second_level_category in first_level_category["subcategories"]:
             for third_level_category in second_level_category["subcategories"]:
-                third_level_category["price_elements"] = scraper.find_prices(third_level_category["url"]+"?listingStatuses=Sold", num_pages)
+                third_level_category["price_elements"] = scraper.find_prices(third_level_category["url"], num_pages)
 
     with open("data.json", "w") as file:
         json.dump(data, file, indent=4)
@@ -19,9 +19,9 @@ def find_first_level(scraper, data, num_pages):
 
     for second_level_category in data["subcategories"]:
         for third_level_category in second_level_category["subcategories"]:
-            third_level_category["price_elements"] = scraper.find_prices(third_level_category["url"]+"?listingStatuses=Sold", num_pages)
+            third_level_category["price_elements"] = scraper.find_prices(third_level_category["url"], num_pages)
 
-    with open(data["name"]+".json", "w") as file:
+    with open("data.json", "w") as file:
         json.dump(data, file, indent=4)
 
 
@@ -29,24 +29,24 @@ def find_first_level(scraper, data, num_pages):
 def find_second_level(scraper, data, num_pages):
     ''' Find prices for all assets in a second level category in the ritchie bros website'''
     for third_level_category in data["subcategories"]:
-        third_level_category["price_elements"] = scraper.find_prices(third_level_category["url"]+"?listingStatuses=Sold", num_pages)
+        third_level_category["price_elements"] = scraper.find_prices(third_level_category["url"], num_pages)
 
-    with open(data["name"]+".json", "w") as file:
+    with open("data.json", "w") as file:
         json.dump(data, file, indent=4)
 
 def find_third_level(scraper, data, num_pages):
     ''' Find prices for all assets in  third level category in the ritchie bros website'''
 
-    data["price_elements"] = scraper.find_prices(data["url"]+"?listingStatuses=Sold", num_pages)
+    data["price_elements"] = scraper.find_prices(data["url"], num_pages)
 
-    with open(data["name"]+".json", "w") as file:
+    with open("data.json", "w") as file:
         json.dump(data, file, indent=4)
 
 
 def find_main():
     ''' Initialize the scraper and then starts a loop that ask for which asset category the prices will be exctracted'''
     # Initialize the Scraper web
-    scraper = RitchieBrosScraper()
+    scraper = RitchieBrosScraperAPI()
     try:
 
         scraper.log_in()
