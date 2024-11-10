@@ -74,7 +74,6 @@ def get_complete_taxonomy(file_taxonomy, url, response):
 
                 third_cat["url"] = url + "/cp/" + third_level_category["seoValue"]
 
-                third_cat["docCount"] = third_level_category["docCount"]
                 if "imageLurl" in third_level_category:
                     third_cat["image_url"] = third_level_category["imageLurl"]
                 elif "imageMurl" in third_level_category:
