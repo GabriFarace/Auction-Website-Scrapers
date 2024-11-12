@@ -1,0 +1,1546 @@
+[
+    {
+        "name": "Aggregate Equipment",
+        "value": "1001",
+        "url": "https://www.machinerytrader.com/listings/search?Category=1001&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Conveyor / Feeder / Stacker Aggregate Equipment",
+                "value": "1002",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1002&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Crusher Aggregate Equipment",
+                "value": "1003",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1003&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Other Aggregate Equipment",
+                "value": "1004",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1004&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Screen Aggregate Equipment",
+                "value": "1005",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1005&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Air Compressors",
+        "value": "1006",
+        "url": "https://www.machinerytrader.com/listings/search?Category=1006&ListingType=Auction%20Results&page=1"
+    },
+    {
+        "name": "Asphalt / Pavers / Concrete Equipment",
+        "value": "1007",
+        "url": "https://www.machinerytrader.com/listings/search?Category=1007&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Asphalt Equipment",
+                "value": "31508",
+                "url": "https://www.machinerytrader.com/listings/search?Category=31508&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Asphalt Pavers",
+                        "value": "31509",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31509&ListingType=Auction%20Results&page=1",
+                        "sub_categories": [
+                            {
+                                "name": "Track Asphalt Pavers",
+                                "value": "31510",
+                                "url": "https://www.machinerytrader.com/listings/search?Category=31510&ListingType=Auction%20Results&page=1"
+                            },
+                            {
+                                "name": "Wheel Asphalt Pavers",
+                                "value": "31511",
+                                "url": "https://www.machinerytrader.com/listings/search?Category=31511&ListingType=Auction%20Results&page=1"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Asphalt Plants",
+                        "value": "31512",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31512&ListingType=Auction%20Results&page=1",
+                        "sub_categories": [
+                            {
+                                "name": "Portable Asphalt Plants",
+                                "value": "31513",
+                                "url": "https://www.machinerytrader.com/listings/search?Category=31513&ListingType=Auction%20Results&page=1"
+                            },
+                            {
+                                "name": "Stationary Asphalt Plants",
+                                "value": "31514",
+                                "url": "https://www.machinerytrader.com/listings/search?Category=31514&ListingType=Auction%20Results&page=1"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Road Wideners",
+                        "value": "31515",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31515&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Cold Planers",
+                        "value": "31516",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31516&ListingType=Auction%20Results&page=1",
+                        "sub_categories": [
+                            {
+                                "name": "Track Cold Planers",
+                                "value": "31517",
+                                "url": "https://www.machinerytrader.com/listings/search?Category=31517&ListingType=Auction%20Results&page=1"
+                            },
+                            {
+                                "name": "Wheel Cold Planers",
+                                "value": "31518",
+                                "url": "https://www.machinerytrader.com/listings/search?Category=31518&ListingType=Auction%20Results&page=1"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Material Transfer Vehicles",
+                        "value": "31519",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31519&ListingType=Auction%20Results&page=1",
+                        "sub_categories": [
+                            {
+                                "name": "Track Material Transfer Vehicles",
+                                "value": "31520",
+                                "url": "https://www.machinerytrader.com/listings/search?Category=31520&ListingType=Auction%20Results&page=1"
+                            },
+                            {
+                                "name": "Wheel Material Transfer Vehicles",
+                                "value": "31521",
+                                "url": "https://www.machinerytrader.com/listings/search?Category=31521&ListingType=Auction%20Results&page=1"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Soil Stabilizers / Recyclers",
+                        "value": "31522",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31522&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Force Feed Loaders",
+                        "value": "31523",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31523&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Chip Spreaders",
+                        "value": "31558",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31558&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Asphalt Distributors",
+                        "value": "31524",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31524&ListingType=Auction%20Results&page=1",
+                        "sub_categories": [
+                            {
+                                "name": "Truck Mounted Asphalt Distributors",
+                                "value": "31525",
+                                "url": "https://www.machinerytrader.com/listings/search?Category=31525&ListingType=Auction%20Results&page=1"
+                            },
+                            {
+                                "name": "Towable Asphalt Distributors",
+                                "value": "31526",
+                                "url": "https://www.machinerytrader.com/listings/search?Category=31526&ListingType=Auction%20Results&page=1"
+                            },
+                            {
+                                "name": "Stationary Asphalt Distributors",
+                                "value": "31527",
+                                "url": "https://www.machinerytrader.com/listings/search?Category=31527&ListingType=Auction%20Results&page=1"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Crack Sealers",
+                        "value": "31528",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31528&ListingType=Auction%20Results&page=1",
+                        "sub_categories": [
+                            {
+                                "name": "Towable Crack Sealers",
+                                "value": "31529",
+                                "url": "https://www.machinerytrader.com/listings/search?Category=31529&ListingType=Auction%20Results&page=1"
+                            },
+                            {
+                                "name": "Walk-Behind Crack Sealers",
+                                "value": "31530",
+                                "url": "https://www.machinerytrader.com/listings/search?Category=31530&ListingType=Auction%20Results&page=1"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Asphalt Other",
+                        "value": "31531",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31531&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Concrete Equipment",
+                "value": "31532",
+                "url": "https://www.machinerytrader.com/listings/search?Category=31532&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Concrete Pavers",
+                        "value": "31533",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31533&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Curb & Gutter Machines",
+                        "value": "31534",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31534&ListingType=Auction%20Results&page=1",
+                        "sub_categories": [
+                            {
+                                "name": "Track Curb & Gutter Machines",
+                                "value": "31535",
+                                "url": "https://www.machinerytrader.com/listings/search?Category=31535&ListingType=Auction%20Results&page=1"
+                            },
+                            {
+                                "name": "Wheel Curb & Gutter Machines",
+                                "value": "31536",
+                                "url": "https://www.machinerytrader.com/listings/search?Category=31536&ListingType=Auction%20Results&page=1"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Trimmers / Placers",
+                        "value": "31559",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31559&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Texture Curing Machines",
+                        "value": "31560",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31560&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Bridge Deck Finishers",
+                        "value": "31561",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31561&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Concrete Plants",
+                        "value": "31537",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31537&ListingType=Auction%20Results&page=1",
+                        "sub_categories": [
+                            {
+                                "name": "Portable Concrete Plants",
+                                "value": "31538",
+                                "url": "https://www.machinerytrader.com/listings/search?Category=31538&ListingType=Auction%20Results&page=1"
+                            },
+                            {
+                                "name": "Stationary Concrete Plants",
+                                "value": "31539",
+                                "url": "https://www.machinerytrader.com/listings/search?Category=31539&ListingType=Auction%20Results&page=1"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Concrete Pumps",
+                        "value": "31540",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31540&ListingType=Auction%20Results&page=1",
+                        "sub_categories": [
+                            {
+                                "name": "Truck Mounted Concrete Pumps",
+                                "value": "31541",
+                                "url": "https://www.machinerytrader.com/listings/search?Category=31541&ListingType=Auction%20Results&page=1"
+                            },
+                            {
+                                "name": "Towable Concrete Pumps",
+                                "value": "31542",
+                                "url": "https://www.machinerytrader.com/listings/search?Category=31542&ListingType=Auction%20Results&page=1"
+                            },
+                            {
+                                "name": "Track Concrete Pumps",
+                                "value": "31543",
+                                "url": "https://www.machinerytrader.com/listings/search?Category=31543&ListingType=Auction%20Results&page=1"
+                            },
+                            {
+                                "name": "Stationary Concrete Pumps",
+                                "value": "31544",
+                                "url": "https://www.machinerytrader.com/listings/search?Category=31544&ListingType=Auction%20Results&page=1"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Concrete Mixers",
+                        "value": "31545",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31545&ListingType=Auction%20Results&page=1",
+                        "sub_categories": [
+                            {
+                                "name": "Self-Propelled Concrete Mixers",
+                                "value": "31546",
+                                "url": "https://www.machinerytrader.com/listings/search?Category=31546&ListingType=Auction%20Results&page=1"
+                            },
+                            {
+                                "name": "Towable Concrete Mixers",
+                                "value": "31547",
+                                "url": "https://www.machinerytrader.com/listings/search?Category=31547&ListingType=Auction%20Results&page=1"
+                            },
+                            {
+                                "name": "Stationary Concrete Mixers",
+                                "value": "31548",
+                                "url": "https://www.machinerytrader.com/listings/search?Category=31548&ListingType=Auction%20Results&page=1"
+                            },
+                            {
+                                "name": "Walk-Behind Concrete Mixers",
+                                "value": "31549",
+                                "url": "https://www.machinerytrader.com/listings/search?Category=31549&ListingType=Auction%20Results&page=1"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Concrete Buggies",
+                        "value": "31550",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31550&ListingType=Auction%20Results&page=1",
+                        "sub_categories": [
+                            {
+                                "name": "Track Concrete Buggies",
+                                "value": "31551",
+                                "url": "https://www.machinerytrader.com/listings/search?Category=31551&ListingType=Auction%20Results&page=1"
+                            },
+                            {
+                                "name": "Wheel Concrete Buggies",
+                                "value": "31552",
+                                "url": "https://www.machinerytrader.com/listings/search?Category=31552&ListingType=Auction%20Results&page=1"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Trowels",
+                        "value": "31553",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31553&ListingType=Auction%20Results&page=1",
+                        "sub_categories": [
+                            {
+                                "name": "Ride-On Trowels",
+                                "value": "31554",
+                                "url": "https://www.machinerytrader.com/listings/search?Category=31554&ListingType=Auction%20Results&page=1"
+                            },
+                            {
+                                "name": "Walk-Behind Trowels",
+                                "value": "31555",
+                                "url": "https://www.machinerytrader.com/listings/search?Category=31555&ListingType=Auction%20Results&page=1"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Concrete Saws",
+                        "value": "31556",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31556&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Concrete Grinders / Polishers",
+                        "value": "31562",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31562&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Concrete Other",
+                        "value": "31557",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31557&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Boring Machines",
+        "value": "31563",
+        "url": "https://www.machinerytrader.com/listings/search?Category=31563&ListingType=Auction%20Results&page=1"
+    },
+    {
+        "name": "Compactors",
+        "value": "1008",
+        "url": "https://www.machinerytrader.com/listings/search?Category=1008&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Combination Compactors",
+                "value": "1009",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1009&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Landfill Compactors",
+                "value": "1010",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1010&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Padfoot Compactors",
+                "value": "1011",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1011&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Pneumatic Compactors",
+                "value": "1012",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1012&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Smooth Drum Compactors",
+                "value": "1013",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1013&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Walk/Tow Behind Compactors",
+                "value": "1014",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1014&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Cranes",
+        "value": "1015",
+        "url": "https://www.machinerytrader.com/listings/search?Category=1015&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "All Terrain Cranes",
+                "value": "1016",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1016&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Boom Truck Cranes",
+                "value": "1017",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1017&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Mounted Boom Truck Cranes",
+                        "value": "13001",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13001&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Un-Mounted Boom Truck Cranes",
+                        "value": "13002",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13002&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Crawler Cranes",
+                "value": "1020",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1020&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Lattice Boom Crawler Cranes",
+                        "value": "13006",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13006&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Telescopic Boom Crawler Cranes",
+                        "value": "13007",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13007&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Truck Cranes",
+                "value": "1019",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1019&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Lattice Boom Truck Cranes",
+                        "value": "13004",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13004&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Telescopic Boom Truck Cranes",
+                        "value": "13005",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13005&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Rough Terrain Cranes",
+                "value": "1021",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1021&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Knuckle Boom Cranes",
+                "value": "13012",
+                "url": "https://www.machinerytrader.com/listings/search?Category=13012&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Mounted Knuckle Boom Cranes",
+                        "value": "13013",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13013&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Un-Mounted Knuckle Boom Cranes",
+                        "value": "13014",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13014&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Tower Cranes",
+                "value": "1022",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1022&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "City Cranes",
+                "value": "13019",
+                "url": "https://www.machinerytrader.com/listings/search?Category=13019&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Bucket Trucks / Service Trucks Cranes",
+                "value": "13003",
+                "url": "https://www.machinerytrader.com/listings/search?Category=13003&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Aerial Platform Lift Trucks Cranes",
+                "value": "13018",
+                "url": "https://www.machinerytrader.com/listings/search?Category=13018&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Carry Deck Cranes / Pick and Carry Cranes",
+                "value": "1018",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1018&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Digger Derricks Cranes",
+                "value": "13008",
+                "url": "https://www.machinerytrader.com/listings/search?Category=13008&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Track Digger Derricks Cranes",
+                        "value": "13009",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13009&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Truck-Mounted Digger Derricks Cranes",
+                        "value": "13010",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13010&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Mini Cranes",
+                "value": "13015",
+                "url": "https://www.machinerytrader.com/listings/search?Category=13015&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Gantry Cranes / Overhead Cranes",
+                "value": "13011",
+                "url": "https://www.machinerytrader.com/listings/search?Category=13011&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Specialized Application Cranes",
+                "value": "13020",
+                "url": "https://www.machinerytrader.com/listings/search?Category=13020&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Bridge Cranes",
+                        "value": "13021",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13021&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Container / Stacking Cranes",
+                        "value": "13022",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13022&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Harbor / Marine / Barge Cranes",
+                        "value": "13025",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13025&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Pedestal Cranes",
+                        "value": "13026",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13026&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Pile Driving Cranes",
+                        "value": "13027",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13027&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Railroad Cranes",
+                        "value": "13028",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13028&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Other Cranes",
+                "value": "1023",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1023&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Mounted Other Cranes",
+                        "value": "13016",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13016&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Un-Mounted Other Cranes",
+                        "value": "13017",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13017&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Crawler Carriers",
+        "value": "13029",
+        "url": "https://www.machinerytrader.com/listings/search?Category=13029&ListingType=Auction%20Results&page=1"
+    },
+    {
+        "name": "Crawler Loaders",
+        "value": "1024",
+        "url": "https://www.machinerytrader.com/listings/search?Category=1024&ListingType=Auction%20Results&page=1"
+    },
+    {
+        "name": "Dozers",
+        "value": "1025",
+        "url": "https://www.machinerytrader.com/listings/search?Category=1025&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Crawler Dozers",
+                "value": "1026",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1026&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Wheel Dozers",
+                "value": "1027",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1027&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Drills",
+        "value": "1028",
+        "url": "https://www.machinerytrader.com/listings/search?Category=1028&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Directional Drills",
+                "value": "1029",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1029&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Vertical Drills",
+                "value": "1030",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1030&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Dumpers",
+        "value": "1047",
+        "url": "https://www.machinerytrader.com/listings/search?Category=1047&ListingType=Auction%20Results&page=1"
+    },
+    {
+        "name": "Excavators",
+        "value": "1031",
+        "url": "https://www.machinerytrader.com/listings/search?Category=1031&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Crawler Excavators",
+                "value": "1032",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1032&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Mini (up to 12,000 lbs) Excavators",
+                "value": "1033",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1033&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Wheel Excavators",
+                "value": "1034",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1034&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Forestry Equipment",
+        "value": "1035",
+        "url": "https://www.machinerytrader.com/listings/search?Category=1035&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Feller Bunchers",
+                "value": "31437",
+                "url": "https://www.machinerytrader.com/listings/search?Category=31437&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Track Feller Bunchers",
+                        "value": "31445",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31445&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Wheel Feller Bunchers",
+                        "value": "31446",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31446&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Processor / Harvesters",
+                "value": "31439",
+                "url": "https://www.machinerytrader.com/listings/search?Category=31439&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Track Processor / Harvesters",
+                        "value": "31447",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31447&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Wheel Processor / Harvesters",
+                        "value": "31448",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31448&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Delimbers",
+                "value": "31436",
+                "url": "https://www.machinerytrader.com/listings/search?Category=31436&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Skidders",
+                "value": "31440",
+                "url": "https://www.machinerytrader.com/listings/search?Category=31440&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Yarders",
+                "value": "31449",
+                "url": "https://www.machinerytrader.com/listings/search?Category=31449&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Forwarders",
+                "value": "31438",
+                "url": "https://www.machinerytrader.com/listings/search?Category=31438&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Log Loaders",
+                "value": "1074",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1074&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Track Log Loaders",
+                        "value": "31450",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31450&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Wheel Log Loaders",
+                        "value": "31451",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31451&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Truck Log Loaders",
+                        "value": "31452",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31452&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Trailer Log Loaders",
+                        "value": "31453",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31453&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Stationary Log Loaders",
+                        "value": "31454",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31454&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Mulchers",
+                "value": "31435",
+                "url": "https://www.machinerytrader.com/listings/search?Category=31435&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Track Mulchers",
+                        "value": "31455",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31455&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Wheel Mulchers",
+                        "value": "31456",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31456&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Excavator Mulchers",
+                        "value": "31457",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31457&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Skid Steer Mulchers",
+                        "value": "31458",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31458&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Horizontal Grinders",
+                "value": "31441",
+                "url": "https://www.machinerytrader.com/listings/search?Category=31441&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Tub Grinders",
+                "value": "31442",
+                "url": "https://www.machinerytrader.com/listings/search?Category=31442&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Stump Grinders",
+                "value": "31459",
+                "url": "https://www.machinerytrader.com/listings/search?Category=31459&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Track Stump Grinders",
+                        "value": "31460",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31460&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Wheel Stump Grinders",
+                        "value": "31461",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31461&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Towable Stump Grinders",
+                        "value": "31477",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31477&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Wood Chippers",
+                "value": "31443",
+                "url": "https://www.machinerytrader.com/listings/search?Category=31443&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Self-Propelled Wood Chippers",
+                        "value": "31462",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31462&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Towable Wood Chippers",
+                        "value": "31463",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31463&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Log Splitters",
+                "value": "31464",
+                "url": "https://www.machinerytrader.com/listings/search?Category=31464&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Sawmills",
+                "value": "31465",
+                "url": "https://www.machinerytrader.com/listings/search?Category=31465&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Portable Sawmills Sawmills",
+                        "value": "31492",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31492&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Stationary Sawmills Sawmills",
+                        "value": "31493",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31493&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Resaws Sawmills",
+                        "value": "31494",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31494&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Board Edgers Sawmills",
+                        "value": "31496",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31496&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Carriages Sawmills",
+                        "value": "31497",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31497&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Other Sawmills",
+                        "value": "31567",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=31567&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Slasher Saws",
+                "value": "153011",
+                "url": "https://www.machinerytrader.com/listings/search?Category=153011&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Tree Trimmers",
+                "value": "31600",
+                "url": "https://www.machinerytrader.com/listings/search?Category=31600&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Other Forestry Equipment",
+                "value": "31444",
+                "url": "https://www.machinerytrader.com/listings/search?Category=31444&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Heaters",
+        "value": "31568",
+        "url": "https://www.machinerytrader.com/listings/search?Category=31568&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Towable Heaters",
+                "value": "1078",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1078&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Portable Heaters",
+                "value": "31569",
+                "url": "https://www.machinerytrader.com/listings/search?Category=31569&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Lifts",
+        "value": "1040",
+        "url": "https://www.machinerytrader.com/listings/search?Category=1040&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Forklifts",
+                "value": "1036",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1036&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Pneumatic Tire Forklifts",
+                        "value": "13050",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13050&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Cushion Tire Forklifts",
+                        "value": "13051",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13051&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Rough Terrain Forklifts",
+                        "value": "13052",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13052&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Stand Up / Reach Forklifts",
+                        "value": "13053",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13053&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Order Picker Forklifts",
+                        "value": "13054",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13054&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Truck Mounted Forklifts",
+                        "value": "13055",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13055&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Swing Reach Forklifts",
+                        "value": "13056",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13056&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Walkie Stacker Forklifts",
+                        "value": "13057",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13057&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Pallet Jack Forklifts",
+                        "value": "13058",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13058&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Side Loader / Bi-Directional Forklifts",
+                        "value": "13059",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13059&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Straddle Carrier Forklifts",
+                        "value": "13060",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13060&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Die Handler Forklifts",
+                        "value": "13061",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13061&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Other Forklifts",
+                        "value": "13062",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13062&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Telehandlers",
+                "value": "1038",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1038&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Container Handlers",
+                "value": "13063",
+                "url": "https://www.machinerytrader.com/listings/search?Category=13063&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Mast Container Handlers",
+                        "value": "13064",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13064&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Reach Stacker Container Handlers",
+                        "value": "13065",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13065&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Scissor Lifts",
+                "value": "1043",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1043&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Slab Scissor Lifts",
+                        "value": "13066",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13066&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Rough Terrain Scissor Lifts",
+                        "value": "13067",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13067&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Boom Lifts",
+                "value": "1041",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1041&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Telescopic Boom Lifts",
+                        "value": "13068",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13068&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Articulating Boom Lifts",
+                        "value": "13069",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13069&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Towable Boom Lifts",
+                        "value": "13070",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=13070&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Personnel Lifts",
+                "value": "1044",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1044&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Bucket Lifts",
+                "value": "1042",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1042&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Tow Tractors",
+                "value": "13071",
+                "url": "https://www.machinerytrader.com/listings/search?Category=13071&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Other Lifts",
+                "value": "13072",
+                "url": "https://www.machinerytrader.com/listings/search?Category=13072&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Light Towers",
+        "value": "1045",
+        "url": "https://www.machinerytrader.com/listings/search?Category=1045&ListingType=Auction%20Results&page=1"
+    },
+    {
+        "name": "Loader Backhoes",
+        "value": "1046",
+        "url": "https://www.machinerytrader.com/listings/search?Category=1046&ListingType=Auction%20Results&page=1"
+    },
+    {
+        "name": "Miscellaneous Equipment",
+        "value": "1050",
+        "url": "https://www.machinerytrader.com/listings/search?Category=1050&ListingType=Auction%20Results&page=1"
+    },
+    {
+        "name": "Motor Graders",
+        "value": "1048",
+        "url": "https://www.machinerytrader.com/listings/search?Category=1048&ListingType=Auction%20Results&page=1"
+    },
+    {
+        "name": "Off-Highway Trucks",
+        "value": "1049",
+        "url": "https://www.machinerytrader.com/listings/search?Category=1049&ListingType=Auction%20Results&page=1"
+    },
+    {
+        "name": "Oilfield Equipment",
+        "value": "152000",
+        "url": "https://www.machinerytrader.com/listings/search?Category=152000&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Drill Rigs Oilfield Equipment",
+                "value": "152001",
+                "url": "https://www.machinerytrader.com/listings/search?Category=152001&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Drilling Equipment Oilfield Equipment",
+                "value": "152002",
+                "url": "https://www.machinerytrader.com/listings/search?Category=152002&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Well Service / Workover Rigs Oilfield Equipment",
+                "value": "152010",
+                "url": "https://www.machinerytrader.com/listings/search?Category=152010&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Downhole Oilfield Equipment",
+                "value": "152003",
+                "url": "https://www.machinerytrader.com/listings/search?Category=152003&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Production Equipment Oilfield Equipment",
+                "value": "152005",
+                "url": "https://www.machinerytrader.com/listings/search?Category=152005&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Support Equipment Oilfield Equipment",
+                "value": "152006",
+                "url": "https://www.machinerytrader.com/listings/search?Category=152006&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Tubular Goods / Drill String / Rods Oilfield Equipment",
+                "value": "152007",
+                "url": "https://www.machinerytrader.com/listings/search?Category=152007&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Electrical / Hydraulic / Pneumatic Oilfield Equipment",
+                "value": "152008",
+                "url": "https://www.machinerytrader.com/listings/search?Category=152008&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Valves / Flanges Oilfield Equipment",
+                "value": "152009",
+                "url": "https://www.machinerytrader.com/listings/search?Category=152009&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Pipelayers",
+        "value": "1051",
+        "url": "https://www.machinerytrader.com/listings/search?Category=1051&ListingType=Auction%20Results&page=1"
+    },
+    {
+        "name": "Power Systems",
+        "value": "153000",
+        "url": "https://www.machinerytrader.com/listings/search?Category=153000&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Generators",
+                "value": "153001",
+                "url": "https://www.machinerytrader.com/listings/search?Category=153001&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Towable Generators",
+                        "value": "153002",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=153002&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Stationary Generators",
+                        "value": "153003",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=153003&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Power Plant Generators",
+                        "value": "153009",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=153009&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Marine Generators",
+                        "value": "153008",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=153008&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "PTO Generators",
+                        "value": "153004",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=153004&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Home Standby Generators",
+                        "value": "153005",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=153005&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Portable Generators",
+                        "value": "153006",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=153006&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Compact Recreational Generators",
+                        "value": "153007",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=153007&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Other Power Systems",
+                "value": "153010",
+                "url": "https://www.machinerytrader.com/listings/search?Category=153010&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Pumps",
+        "value": "1052",
+        "url": "https://www.machinerytrader.com/listings/search?Category=1052&ListingType=Auction%20Results&page=1"
+    },
+    {
+        "name": "Scrap Processing / Demolition Equipment",
+        "value": "1053",
+        "url": "https://www.machinerytrader.com/listings/search?Category=1053&ListingType=Auction%20Results&page=1"
+    },
+    {
+        "name": "Scrapers",
+        "value": "1054",
+        "url": "https://www.machinerytrader.com/listings/search?Category=1054&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Motor Scrapers",
+                "value": "1081",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1081&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Pull Scrapers",
+                "value": "1082",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1082&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Semi-Trailers",
+        "value": "880",
+        "url": "https://www.machinerytrader.com/listings/search?Category=880&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Drop Deck Trailers",
+                "value": "12",
+                "url": "https://www.machinerytrader.com/listings/search?Category=12&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Dump Trailers",
+                "value": "15000",
+                "url": "https://www.machinerytrader.com/listings/search?Category=15000&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Bottom Dump Trailers",
+                        "value": "351",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=351&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "End Dump Trailers",
+                        "value": "352",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=352&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Side Dump Trailers",
+                        "value": "353",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=353&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Flatbed Trailers",
+                "value": "14",
+                "url": "https://www.machinerytrader.com/listings/search?Category=14&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Lowboy Trailers",
+                "value": "18",
+                "url": "https://www.machinerytrader.com/listings/search?Category=18&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Tag Trailers",
+                "value": "345",
+                "url": "https://www.machinerytrader.com/listings/search?Category=345&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Tank Trailers",
+                "value": "21",
+                "url": "https://www.machinerytrader.com/listings/search?Category=21&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Asphalt / Hot Oil Tank Trailers",
+                        "value": "63",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=63&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Chemical / Acid Tank Trailers",
+                        "value": "69",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=69&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Crude Oil Tank Trailers",
+                        "value": "15118",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=15118&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Frac Tank Trailers",
+                        "value": "811",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=811&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Gasoline / Fuel Tank Trailers",
+                        "value": "64",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=64&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Industrial Gas Tank Trailers",
+                        "value": "349",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=349&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Liquid Food Grade Tank Trailers",
+                        "value": "897",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=897&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Non Code Tank Trailers",
+                        "value": "65",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=65&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Pneumatic / Dry Bulk Tank Trailers",
+                        "value": "66",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=66&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Sanitary Tank Trailers",
+                        "value": "68",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=68&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Vacuum Tank Trailers",
+                        "value": "862",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=862&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Waste / Sludge Tank Trailers",
+                        "value": "67",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=67&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Water Tank Trailers",
+                        "value": "350",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=350&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Skid Steers",
+        "value": "1055",
+        "url": "https://www.machinerytrader.com/listings/search?Category=1055&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Track Skid Steers",
+                "value": "1072",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1072&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Wheel Skid Steers",
+                "value": "1073",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1073&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Mini Skid Steers",
+                "value": "1088",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1088&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Skip Loaders",
+        "value": "1056",
+        "url": "https://www.machinerytrader.com/listings/search?Category=1056&ListingType=Auction%20Results&page=1"
+    },
+    {
+        "name": "Straw Blowers / Hydroseeders",
+        "value": "1085",
+        "url": "https://www.machinerytrader.com/listings/search?Category=1085&ListingType=Auction%20Results&page=1"
+    },
+    {
+        "name": "Sweepers / Broom Equipment",
+        "value": "1057",
+        "url": "https://www.machinerytrader.com/listings/search?Category=1057&ListingType=Auction%20Results&page=1"
+    },
+    {
+        "name": "Tillage Equipment",
+        "value": "1104",
+        "url": "https://www.machinerytrader.com/listings/search?Category=1104&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Disks",
+                "value": "1125",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1125&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Tractors",
+        "value": "1100",
+        "url": "https://www.machinerytrader.com/listings/search?Category=1100&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "300 HP or Greater Tractors",
+                "value": "1234",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1234&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "175 HP to 299 HP Tractors",
+                "value": "1108",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1108&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Trenchers / Cable Plows",
+        "value": "1058",
+        "url": "https://www.machinerytrader.com/listings/search?Category=1058&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Ride On Trenchers / Cable Plows",
+                "value": "31564",
+                "url": "https://www.machinerytrader.com/listings/search?Category=31564&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Walk Behind / Stand On Trenchers / Cable Plows",
+                "value": "31565",
+                "url": "https://www.machinerytrader.com/listings/search?Category=31565&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Trench Boxes Trenchers / Cable Plows",
+                "value": "1087",
+                "url": "https://www.machinerytrader.com/listings/search?Category=1087&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Other Trenchers / Cable Plows",
+                "value": "31566",
+                "url": "https://www.machinerytrader.com/listings/search?Category=31566&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Trucks",
+        "value": "16000",
+        "url": "https://www.machinerytrader.com/listings/search?Category=16000&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Attenuator Trucks",
+                "value": "16002",
+                "url": "https://www.machinerytrader.com/listings/search?Category=16002&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Dump Trucks",
+                "value": "16014",
+                "url": "https://www.machinerytrader.com/listings/search?Category=16014&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Dump - Transfer Trucks",
+                "value": "16015",
+                "url": "https://www.machinerytrader.com/listings/search?Category=16015&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Flatbed-Dump Trucks",
+                "value": "16020",
+                "url": "https://www.machinerytrader.com/listings/search?Category=16020&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Fuel Trucks / Lube Trucks",
+                "value": "16022",
+                "url": "https://www.machinerytrader.com/listings/search?Category=16022&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Grapple Trucks",
+                "value": "16027",
+                "url": "https://www.machinerytrader.com/listings/search?Category=16027&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Mixer Trucks / Asphalt Trucks / Concrete Trucks",
+                "value": "16032",
+                "url": "https://www.machinerytrader.com/listings/search?Category=16032&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Service Trucks / Utility Trucks / Mechanic Trucks",
+                "value": "16043",
+                "url": "https://www.machinerytrader.com/listings/search?Category=16043&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Sweeper Trucks",
+                "value": "16049",
+                "url": "https://www.machinerytrader.com/listings/search?Category=16049&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Tank Trucks",
+                "value": "16050",
+                "url": "https://www.machinerytrader.com/listings/search?Category=16050&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Vacuum / Industrial Tank Trucks",
+                        "value": "16058",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=16058&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Water Tank Trucks",
+                        "value": "16059",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=16059&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Truck Bodies Only Trucks",
+                "value": "16063",
+                "url": "https://www.machinerytrader.com/listings/search?Category=16063&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Dump Truck Bodies Only Trucks",
+                        "value": "16064",
+                        "url": "https://www.machinerytrader.com/listings/search?Category=16064&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Water Equipment",
+        "value": "1059",
+        "url": "https://www.machinerytrader.com/listings/search?Category=1059&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Tower/Tank Water Equipment",
+                "value": "30004",
+                "url": "https://www.machinerytrader.com/listings/search?Category=30004&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Truck Water Equipment",
+                "value": "30006",
+                "url": "https://www.machinerytrader.com/listings/search?Category=30006&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Trailer Water Equipment",
+                "value": "30005",
+                "url": "https://www.machinerytrader.com/listings/search?Category=30005&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Wagon Water Equipment",
+                "value": "30007",
+                "url": "https://www.machinerytrader.com/listings/search?Category=30007&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Wheel Loaders",
+        "value": "1060",
+        "url": "https://www.machinerytrader.com/listings/search?Category=1060&ListingType=Auction%20Results&page=1"
+    }
+]

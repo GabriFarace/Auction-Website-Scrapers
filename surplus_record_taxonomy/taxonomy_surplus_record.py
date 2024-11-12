@@ -121,7 +121,9 @@ class SurplusRecordCategoriesBrowserScraper(SurplusRecordTaxonomyScraper):
 class SurplusRecordCategoriesRequestsScraper(SurplusRecordTaxonomyScraper):
     ''' Scraper of categories in the surplus record auction website'''
     def __init__(self):
-        pass
+        with open("../config.json", "r") as f:
+            c = json.load(f)
+            self.config = c["surplus_record"]
 
     def quit(self):
         pass
@@ -131,7 +133,7 @@ class SurplusRecordCategoriesRequestsScraper(SurplusRecordTaxonomyScraper):
             'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
             'accept-language': 'it,it-IT;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6',
             'cache-control': 'max-age=0',
-            'cookie': '_cfuvid=jE.XlWD.SEkJF.gKv74LQj3qaJ_SL4nXvYEd_e0_htc-1731332854579-0.0.1.1-604800000; _gcl_au=1.1.1141188557.1731332854; referrer=bing|https://surplusrecord.com/; sr_session=cwdt5gexffecwdt5gexffe; _ga=GA1.1.660081338.1731332855; _fbp=fb.1.1731332855219.938662776640895210; cf_clearance=5B1wlS4LRGAAhggzbwl1xIwqdAYiR.P6uVaiS4Q2jB4-1731332855-1.2.1.1-fYRkdgxPm4KrahArVhCEdiNyvh2TxfK0wrrJ.1hdVE2ABu5L0mzNcg5O1umHTlJIC0Titcl7VcHVYWGGX6R211qBZMFHp3kIkrIiPkk9XXbd9H88FuCxDWn8eTOIPXcUkFHaW3QY2QGH8EdcAU2XS3QVLhfeKtc4k.wKYlAGFZAvG8FNIDi4IPMjU7k3gkO0x4Ljpu.Sn.g1nMKivZfY4hmxsHkIS8PloKOXe_XUtnROo43PTzP76esF0KCdlzrFL1E498QxYy46E959zGDUvTY065QDmIs58_RkIvQNftCWTaMbN.wtF4sc2jlErb6fAYqxEwWRwFNg4QvxA7AxtgpTpMVahi5qOkRuufsd937tYmx1KhheS.HHMi_qT_YYaoOlIinUfq9yDLsFn9MR3Q; dicbo_id=%7B%22dicbo_fetch%22%3A1731332855617%7D; OTZ=7817148_52_52_123900_48_436380; recaptcha-ca-e=AY4aWDtYP-RFN1jMEl5O2w_Co2kpHT_DWKCu2CzwQVOd6Z-dTDpwXmXdnpADdP_T21-kNbCd9Yr7CojQvUzNp-LakcHpAInRztaJvFsleNtSZQL0AConrd0UZ3fw9jjgqXngGPBUh_dkR0ZmSdP4jLyQINbrg7C0sSTPpKYRCEUh:U=94d41a4f36000000; _ga_K48D4H48Z6=GS1.1.1731332855.1.1.1731332864.0.0.0; _uetsid=81b9a970a03311efaa50b7cce5b250a0; _uetvid=81b9b690a03311ef91a3670c8423d260; recaptcha-ca-t=AY4aWDtHfZhqug-YxTu-H3lQkK8v0doCMXNKY4jOh28rhfKbDClIppkHLmm0f4FGdTbMBixztxjqCj1Ju5__Deu5xHpYy0nbMiWKg2tGJyXd2J2da6OPRIFpkAFp-6TJxW0zKwSzGJByNlKEwkCFlOpM07egHZk714q3CFTzvViE:U=e5d7144f36000000',
+            'cookie': self.config["cookie"],
             'priority': 'u=0, i',
             'referer': 'https://surplusrecord.com/',
             'sec-ch-ua': '"Chromium";v="130", "Microsoft Edge";v="130", "Not?A_Brand";v="99"',

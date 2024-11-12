@@ -8,6 +8,9 @@ TAXONOMY = 'taxonomy.json' # file that contains the gov_deals  3-level taxonomy
 
 def get_response():
     url = "https://maestro.lqdt1.com/menus/categories"
+    with open("../config.json", "r") as f:
+        c = json.load(f)
+        config = c["gov_deals"]
 
     payload = json.dumps({
         "businessId": "GD",
@@ -24,7 +27,7 @@ def get_response():
         'Accept-Language': 'it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7',
         'Connection': 'keep-alive',
         'Content-Type': 'application/json',
-        'Ocp-Apim-Subscription-Key': 'cf620d1d8f904b5797507dc5fd1fdb80',
+        'Ocp-Apim-Subscription-Key': config["Ocp-Apim-Subscription-Key"],
         'Origin': 'https://www.govdeals.com',
         'Referer': 'https://www.govdeals.com/',
         'Sec-Fetch-Dest': 'empty',
@@ -34,8 +37,8 @@ def get_response():
         'sec-ch-ua': '"Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"',
         'sec-ch-ua-mobile': '?0',
         'sec-ch-ua-platform': '"Windows"',
-        'x-api-correlation-id': 'ec66d720-c2f2-4423-86e6-a5e26636e779',
-        'x-api-key': 'af93060f-337e-428c-87b8-c74b5837d6cd',
+        'x-api-correlation-id': config["x-api-correlation-id"],
+        'x-api-key': config["x-api-key"],
         'x-referer': 'https://www.govdeals.com/',
         'x-user-id': '-1',
         'x-user-timezone': 'Europe/Rome',
@@ -45,16 +48,6 @@ def get_response():
 
 
     return response.json()
-
-
-def refactor_response(response):
-    ''' Refactor the sniffed response and create a new more readable file'''
-    new_response = {"buckets": []}
-    aggregations = response["results"]["aggregations"]
-    for aggregation in aggregations:
-        if aggregation["field"] == "industries":
-            new_response["buckets"] = aggregation["buckets"]
-    return new_response
 
 
 
