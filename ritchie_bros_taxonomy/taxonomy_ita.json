@@ -106,6 +106,11 @@
                         "image_url": "NO IMAGE URL"
                     },
                     {
+                        "name": "Skid Steer Sweeper",
+                        "url": "https://www.rbauction.it/cp/skid-steer-sweeper",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/2A8B4B58-4332-325D-AE8D-66DAAE0536D2/567e66f42c38d3c396e2760c7989c6ad/Skid_Steer_Sweeper"
+                    },
+                    {
                         "name": "Skid Steer Broom",
                         "url": "https://www.rbauction.it/cp/skid-steer-broom",
                         "image_url": "NO IMAGE URL"
@@ -114,11 +119,6 @@
                         "name": "Skid Steer Grader",
                         "url": "https://www.rbauction.it/cp/skid-steer-grader",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/A3C07BB0-796F-31A0-BF24-87E8C7B05EFD/40228d401ec8d498fe751cc796153861/Skid_Steer_Grader"
-                    },
-                    {
-                        "name": "Skid Steer Sweeper",
-                        "url": "https://www.rbauction.it/cp/skid-steer-sweeper",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/2A8B4B58-4332-325D-AE8D-66DAAE0536D2/567e66f42c38d3c396e2760c7989c6ad/Skid_Steer_Sweeper"
                     },
                     {
                         "name": "Skid Steer Bale Spear",
@@ -176,6 +176,11 @@
                         "image_url": "NO IMAGE URL"
                     },
                     {
+                        "name": "Skid Steer Planer",
+                        "url": "https://www.rbauction.it/cp/skid-steer-planer",
+                        "image_url": "NO IMAGE URL"
+                    },
+                    {
                         "name": "Skid Steer Plate Compactor",
                         "url": "https://www.rbauction.it/cp/skid-steer-plate-compactor",
                         "image_url": "NO IMAGE URL"
@@ -188,11 +193,6 @@
                     {
                         "name": "Skid Steer Seeder",
                         "url": "https://www.rbauction.it/cp/skid-steer-seeder",
-                        "image_url": "NO IMAGE URL"
-                    },
-                    {
-                        "name": "Skid Steer Planer",
-                        "url": "https://www.rbauction.it/cp/skid-steer-planer",
                         "image_url": "NO IMAGE URL"
                     },
                     {
@@ -391,14 +391,14 @@
                         "image_url": "NO IMAGE URL"
                     },
                     {
-                        "name": "Auger Attachment",
-                        "url": "https://www.rbauction.it/cp/auger-attachment",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/086BC678-4419-3933-A23B-441E3D4D31FA/e7316f02b87c011ac9617f69649d09ad/Auger_Attachment"
-                    },
-                    {
                         "name": "Box Scraper",
                         "url": "https://www.rbauction.it/cp/box-scraper",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/13058952684-L.jpg/6842d9d244a0f3f80a9aa2bed49820bd/13058952684-L.jpg"
+                    },
+                    {
+                        "name": "Auger Attachment",
+                        "url": "https://www.rbauction.it/cp/auger-attachment",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/086BC678-4419-3933-A23B-441E3D4D31FA/e7316f02b87c011ac9617f69649d09ad/Auger_Attachment"
                     },
                     {
                         "name": "Blade Attachment",
@@ -431,14 +431,19 @@
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/1264530264-L.jpg/708b712fa29899086dbd230e2e561359/1264530264-L.jpg"
                     },
                     {
-                        "name": "Material Handling Arm",
-                        "url": "https://www.rbauction.it/cp/material-handling-arm",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/12571080072-L.jpg/97c5719525631b3e71c10bf209d54f56/12571080072-L.jpg"
+                        "name": "Personnel Basket",
+                        "url": "https://www.rbauction.it/cp/personnel-basket",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/11483570146-L.jpg/733769a244dfb0e727930b806fb9d897/11483570146-L.jpg"
                     },
                     {
                         "name": "Box Blade",
                         "url": "https://www.rbauction.it/cp/miscellaneous-attachments-box-blade",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/D0217D24-8AFC-3DE1-A353-9E51AC4AF268/b04fd65cf90932f70b0b94fbef4d9c87/Box_Blade"
+                    },
+                    {
+                        "name": "Material Handling Arm",
+                        "url": "https://www.rbauction.it/cp/material-handling-arm",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/12571080072-L.jpg/97c5719525631b3e71c10bf209d54f56/12571080072-L.jpg"
                     },
                     {
                         "name": "Backhoe Attachment",
@@ -451,19 +456,19 @@
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/12578579628-L.jpg/326f6abafafbe09c6be330d011035fbd/12578579628-L.jpg"
                     },
                     {
-                        "name": "Personnel Basket",
-                        "url": "https://www.rbauction.it/cp/personnel-basket",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/11483570146-L.jpg/733769a244dfb0e727930b806fb9d897/11483570146-L.jpg"
-                    },
-                    {
-                        "name": "Brush Cutter Attachment",
-                        "url": "https://www.rbauction.it/cp/brush-cutter-attachment",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/1680191488-L.jpg/706b2ba2b689d967a7d08acaf27beb54/1680191488-L.jpg"
+                        "name": "Dozer Attachment",
+                        "url": "https://www.rbauction.it/cp/dozer-attachment",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/11863682618-L.jpg/cb04f3c70243154466917adec6279dde/11863682618-L.jpg"
                     },
                     {
                         "name": "Vacuum Lifter",
                         "url": "https://www.rbauction.it/cp/vacuum-lifter",
                         "image_url": "NO IMAGE URL"
+                    },
+                    {
+                        "name": "Brush Cutter Attachment",
+                        "url": "https://www.rbauction.it/cp/brush-cutter-attachment",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/1680191488-L.jpg/706b2ba2b689d967a7d08acaf27beb54/1680191488-L.jpg"
                     },
                     {
                         "name": "Rake Attachment",
@@ -484,11 +489,6 @@
                         "name": "Trencher Attachment",
                         "url": "https://www.rbauction.it/cp/trencher-attachment",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/690E6317-3F79-33BE-AA13-C171FAACA6EC/88ad31a1ae9ef79e5c43046a6eb48dca/Trencher_Attachment"
-                    },
-                    {
-                        "name": "Dozer Attachment",
-                        "url": "https://www.rbauction.it/cp/dozer-attachment",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/11863682618-L.jpg/cb04f3c70243154466917adec6279dde/11863682618-L.jpg"
                     },
                     {
                         "name": "Clamshell Grapple",
@@ -716,14 +716,24 @@
                         "image_url": "NO IMAGE URL"
                     },
                     {
-                        "name": "Grout Pump",
-                        "url": "https://www.rbauction.it/cp/concrete-equipment-grout-pump",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/0C636901-F489-3029-B00F-A77BCB807FF6/621af6d1a2e7099c539475811fbe64b2/Grout_Pump"
-                    },
-                    {
                         "name": "Concrete Bin",
                         "url": "https://www.rbauction.it/cp/concrete-bin",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/13287195544-L.jpg/f93aad1fea066a312434c1ea3964c0f0/13287195544-L.jpg"
+                    },
+                    {
+                        "name": "Grout Pump",
+                        "url": "https://www.rbauction.it/cp/concrete-equipment-grout-pump",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/0C636901-F489-3029-B00F-A77BCB807FF6/621af6d1a2e7099c539475811fbe64b2/Grout_Pump"
+                    }
+                ]
+            },
+            {
+                "name": "Vertical Mast Lifts",
+                "subcategories": [
+                    {
+                        "name": "Vertical Mast Lift",
+                        "url": "https://www.rbauction.it/cp/vertical-mast-lift",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/12446572456-L.jpg/1e063fa4867071ec14ca873d9c5eb435/12446572456-L.jpg"
                     }
                 ]
             },
@@ -739,16 +749,6 @@
                         "name": "Crawler Dozer: 100hp-500hp",
                         "url": "https://www.rbauction.it/cp/crawler-dozer-100hp-500hp",
                         "image_url": "NO IMAGE URL"
-                    }
-                ]
-            },
-            {
-                "name": "Vertical Mast Lifts",
-                "subcategories": [
-                    {
-                        "name": "Vertical Mast Lift",
-                        "url": "https://www.rbauction.it/cp/vertical-mast-lift",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/12446572456-L.jpg/1e063fa4867071ec14ca873d9c5eb435/12446572456-L.jpg"
                     }
                 ]
             },
@@ -818,6 +818,31 @@
                 ]
             },
             {
+                "name": "Asphalt Compactors",
+                "subcategories": [
+                    {
+                        "name": "Double Drum Roller",
+                        "url": "https://www.rbauction.it/cp/double-drum-roller",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/3E5C5517-74DE-3135-B010-199171A911AD/d278d243e8d36430c2819ee1708be3ca/Double_Drum_Roller"
+                    },
+                    {
+                        "name": "Pneumatic Roller",
+                        "url": "https://www.rbauction.it/cp/pneumatic-roller",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/11934905679-L.jpg/ded6b2817927d56672b5faa05ca051c2/11934905679-L.jpg"
+                    },
+                    {
+                        "name": "Combination Roller",
+                        "url": "https://www.rbauction.it/cp/combination-roller",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/753C6B34-E4C4-3F95-9C1C-1031646D7AFB/783b7bf5471129d358a74bcb425dce4b/Combination_Roller"
+                    },
+                    {
+                        "name": "3 Wheel Roller",
+                        "url": "https://www.rbauction.it/cp/asphalt-compactors-3-wheel-roller",
+                        "image_url": "NO IMAGE URL"
+                    }
+                ]
+            },
+            {
                 "name": "Trench Shoring",
                 "subcategories": [
                     {
@@ -843,31 +868,6 @@
                     {
                         "name": "Shoring System",
                         "url": "https://www.rbauction.it/cp/shoring-system",
-                        "image_url": "NO IMAGE URL"
-                    }
-                ]
-            },
-            {
-                "name": "Asphalt Compactors",
-                "subcategories": [
-                    {
-                        "name": "Double Drum Roller",
-                        "url": "https://www.rbauction.it/cp/double-drum-roller",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/3E5C5517-74DE-3135-B010-199171A911AD/d278d243e8d36430c2819ee1708be3ca/Double_Drum_Roller"
-                    },
-                    {
-                        "name": "Pneumatic Roller",
-                        "url": "https://www.rbauction.it/cp/pneumatic-roller",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/11934905679-L.jpg/ded6b2817927d56672b5faa05ca051c2/11934905679-L.jpg"
-                    },
-                    {
-                        "name": "Combination Roller",
-                        "url": "https://www.rbauction.it/cp/combination-roller",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/753C6B34-E4C4-3F95-9C1C-1031646D7AFB/783b7bf5471129d358a74bcb425dce4b/Combination_Roller"
-                    },
-                    {
-                        "name": "3 Wheel Roller",
-                        "url": "https://www.rbauction.it/cp/asphalt-compactors-3-wheel-roller",
                         "image_url": "NO IMAGE URL"
                     }
                 ]
@@ -939,11 +939,6 @@
                         "name": "Misc. Fusion Equipment",
                         "url": "https://www.rbauction.it/cp/misc-fusion-equipment",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/13021019094-L.jpg/32bea41ae6ca0c00c97172f01bbcf356/13021019094-L.jpg"
-                    },
-                    {
-                        "name": "Pipe Pusher",
-                        "url": "https://www.rbauction.it/cp/pipe-pusher",
-                        "image_url": "NO IMAGE URL"
                     }
                 ]
             },
@@ -954,6 +949,21 @@
                         "name": "Backhoe Loader",
                         "url": "https://www.rbauction.it/cp/backhoe-loader",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/4F09AEEC-834A-3F04-BCC5-75647DC852AE/e6ce4ca97a29995bc40856befcc74ff8/Backhoe_Loader"
+                    }
+                ]
+            },
+            {
+                "name": "Articulated Dump Trucks",
+                "subcategories": [
+                    {
+                        "name": "Articulated Dump Truck",
+                        "url": "https://www.rbauction.it/cp/articulated-dump-trucks-articulated-dump-truck",
+                        "image_url": "NO IMAGE URL"
+                    },
+                    {
+                        "name": "Articulated Dump Truck",
+                        "url": "https://www.rbauction.it/cp/articulated-dump-truck",
+                        "image_url": "NO IMAGE URL"
                     }
                 ]
             },
@@ -1003,21 +1013,6 @@
                 ]
             },
             {
-                "name": "Articulated Dump Trucks",
-                "subcategories": [
-                    {
-                        "name": "Articulated Dump Truck",
-                        "url": "https://www.rbauction.it/cp/articulated-dump-trucks-articulated-dump-truck",
-                        "image_url": "NO IMAGE URL"
-                    },
-                    {
-                        "name": "Articulated Dump Truck",
-                        "url": "https://www.rbauction.it/cp/articulated-dump-truck",
-                        "image_url": "NO IMAGE URL"
-                    }
-                ]
-            },
-            {
                 "name": "Single Drum Compactors",
                 "subcategories": [
                     {
@@ -1029,6 +1024,21 @@
                         "name": "Padfoot Drum Compactor",
                         "url": "https://www.rbauction.it/cp/padfoot-drum-compactor",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/3rhHxg4usqh9dunPDuhR7S/6cf6bcfea72cce1c7a6aa9971c38c9c6/Line_110_-_Padfoot_drum_compactor.jpg"
+                    }
+                ]
+            },
+            {
+                "name": "Site Dumpers",
+                "subcategories": [
+                    {
+                        "name": "Dumper",
+                        "url": "https://www.rbauction.it/cp/site-dumpers-dumper",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/140838924-L.jpg/3f9481599ee50414c8f8ada93ab3b47a/140838924-L.jpg"
+                    },
+                    {
+                        "name": "Crawler Dumper",
+                        "url": "https://www.rbauction.it/cp/crawler-dumper",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/12734443801-L.jpg/96b9ce5c53bf0e019429ff598f1b6bf7/12734443801-L.jpg"
                     }
                 ]
             },
@@ -1063,21 +1073,6 @@
                 ]
             },
             {
-                "name": "Site Dumpers",
-                "subcategories": [
-                    {
-                        "name": "Dumper",
-                        "url": "https://www.rbauction.it/cp/site-dumpers-dumper",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/140838924-L.jpg/3f9481599ee50414c8f8ada93ab3b47a/140838924-L.jpg"
-                    },
-                    {
-                        "name": "Crawler Dumper",
-                        "url": "https://www.rbauction.it/cp/crawler-dumper",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/12734443801-L.jpg/96b9ce5c53bf0e019429ff598f1b6bf7/12734443801-L.jpg"
-                    }
-                ]
-            },
-            {
                 "name": "Motor Graders",
                 "subcategories": [
                     {
@@ -1098,6 +1093,16 @@
                 ]
             },
             {
+                "name": "Asphalt Pavers",
+                "subcategories": [
+                    {
+                        "name": "Asphalt Paver",
+                        "url": "https://www.rbauction.it/cp/asphalt-paver",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/13161784907-L.jpg/eeed18325a5223eb402e4ea09279da0f/13161784907-L.jpg"
+                    }
+                ]
+            },
+            {
                 "name": "Trenchers",
                 "subcategories": [
                     {
@@ -1111,24 +1116,14 @@
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/338E59A7-AA19-34FF-A74E-2534FA57893C/228d65106038c6874939d13545bb9866/Trencher_Cable_Plow"
                     },
                     {
-                        "name": "Bucket Wheel Trencher",
-                        "url": "https://www.rbauction.it/cp/bucket-wheel-trencher",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/13436584240-L.jpg/ac971f4070288a2e9e80d608c83eb376/13436584240-L.jpg"
-                    },
-                    {
                         "name": "Rock Saw",
                         "url": "https://www.rbauction.it/cp/rock-saw",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/13552586385-L.jpg/dae0d5c8d5c8b2c655d04d8591250d24/13552586385-L.jpg"
-                    }
-                ]
-            },
-            {
-                "name": "Asphalt Pavers",
-                "subcategories": [
+                    },
                     {
-                        "name": "Asphalt Paver",
-                        "url": "https://www.rbauction.it/cp/asphalt-paver",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/13161784907-L.jpg/eeed18325a5223eb402e4ea09279da0f/13161784907-L.jpg"
+                        "name": "Bucket Wheel Trencher",
+                        "url": "https://www.rbauction.it/cp/bucket-wheel-trencher",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/13436584240-L.jpg/ac971f4070288a2e9e80d608c83eb376/13436584240-L.jpg"
                     }
                 ]
             },
@@ -1221,14 +1216,14 @@
                         "image_url": "NO IMAGE URL"
                     },
                     {
-                        "name": "Misc. Backhoe Attachment",
-                        "url": "https://www.rbauction.it/cp/misc-backhoe-attachment",
-                        "image_url": "NO IMAGE URL"
-                    },
-                    {
                         "name": "Backhoe Forks",
                         "url": "https://www.rbauction.it/cp/backhoe-forks",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/13297042036-L.jpg/66a18352e848fbc188bc13079bd4f416/13297042036-L.jpg"
+                    },
+                    {
+                        "name": "Misc. Backhoe Attachment",
+                        "url": "https://www.rbauction.it/cp/misc-backhoe-attachment",
+                        "image_url": "NO IMAGE URL"
                     },
                     {
                         "name": "Backhoe Compaction Wheel",
@@ -1468,6 +1463,16 @@
                 ]
             },
             {
+                "name": "Towable Lifts",
+                "subcategories": [
+                    {
+                        "name": "Towable Lift",
+                        "url": "https://www.rbauction.it/cp/towable-lift",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/159E62B7-C621-3889-9022-D44A429CB8D8/c8124ae950ad628e35555ac4911dce30/Towable_Lift"
+                    }
+                ]
+            },
+            {
                 "name": "Crawler Tractor Attachments",
                 "subcategories": [
                     {
@@ -1504,16 +1509,6 @@
                         "name": "Ripper Shank",
                         "url": "https://www.rbauction.it/cp/ripper-shank",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/C537EDB5-C716-3391-BEF6-03079B7DB252/c4b6fa648b9e2c6cb4fce4c493c44921/Ripper_Shank"
-                    }
-                ]
-            },
-            {
-                "name": "Towable Lifts",
-                "subcategories": [
-                    {
-                        "name": "Towable Lift",
-                        "url": "https://www.rbauction.it/cp/towable-lift",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/159E62B7-C621-3889-9022-D44A429CB8D8/c8124ae950ad628e35555ac4911dce30/Towable_Lift"
                     }
                 ]
             },
@@ -1593,16 +1588,21 @@
                 ]
             },
             {
-                "name": "Foundation and Piling Drills",
+                "name": "Material Handlers",
                 "subcategories": [
                     {
-                        "name": "Foundation Drill",
-                        "url": "https://www.rbauction.it/cp/foundation-drill",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/86C04283-D3C4-3A83-A8BD-5B569A98F0B0/c8c76e980948ac4e2b0ad6694a559c1e/Foundation_Drill"
+                        "name": "Wheel Material Handler",
+                        "url": "https://www.rbauction.it/cp/wheel-material-handler",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/51FD3917-A5C1-3FEC-9380-C689088D6B12/15e7717a2a6bd753c3ef949cce7e21f6/Wheel_Material_Handler"
                     },
                     {
-                        "name": "Kelly Bar Rig: Only",
-                        "url": "https://www.rbauction.it/cp/kelly-bar-rig",
+                        "name": "Track Material Handler",
+                        "url": "https://www.rbauction.it/cp/track-material-handler",
+                        "image_url": "NO IMAGE URL"
+                    },
+                    {
+                        "name": "Pedestal Mount Material Handler",
+                        "url": "https://www.rbauction.it/cp/pedestal-mount-material-handler",
                         "image_url": "NO IMAGE URL"
                     }
                 ]
@@ -1633,21 +1633,16 @@
                 ]
             },
             {
-                "name": "Material Handlers",
+                "name": "Foundation and Piling Drills",
                 "subcategories": [
                     {
-                        "name": "Wheel Material Handler",
-                        "url": "https://www.rbauction.it/cp/wheel-material-handler",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/51FD3917-A5C1-3FEC-9380-C689088D6B12/15e7717a2a6bd753c3ef949cce7e21f6/Wheel_Material_Handler"
+                        "name": "Foundation Drill",
+                        "url": "https://www.rbauction.it/cp/foundation-drill",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/86C04283-D3C4-3A83-A8BD-5B569A98F0B0/c8c76e980948ac4e2b0ad6694a559c1e/Foundation_Drill"
                     },
                     {
-                        "name": "Track Material Handler",
-                        "url": "https://www.rbauction.it/cp/track-material-handler",
-                        "image_url": "NO IMAGE URL"
-                    },
-                    {
-                        "name": "Pedestal Mount Material Handler",
-                        "url": "https://www.rbauction.it/cp/pedestal-mount-material-handler",
+                        "name": "Kelly Bar Rig: Only",
+                        "url": "https://www.rbauction.it/cp/kelly-bar-rig",
                         "image_url": "NO IMAGE URL"
                     }
                 ]
@@ -1738,16 +1733,6 @@
                 ]
             },
             {
-                "name": "Landfill Compactors",
-                "subcategories": [
-                    {
-                        "name": "Landfill Compactor: Wheel Type",
-                        "url": "https://www.rbauction.it/cp/landfill-compactor-wheel-type",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/70AB9612-0D7E-3C95-AFC1-3442A77EC4DE/55700e373cc83f16cd1050cd1020828c/Landfill_Compactor__Wheel_Type"
-                    }
-                ]
-            },
-            {
                 "name": "Soil Stabilizers and Road Reclaimers ",
                 "subcategories": [
                     {
@@ -1758,12 +1743,37 @@
                 ]
             },
             {
+                "name": "Landfill Compactors",
+                "subcategories": [
+                    {
+                        "name": "Landfill Compactor: Wheel Type",
+                        "url": "https://www.rbauction.it/cp/landfill-compactor-wheel-type",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/70AB9612-0D7E-3C95-AFC1-3442A77EC4DE/55700e373cc83f16cd1050cd1020828c/Landfill_Compactor__Wheel_Type"
+                    }
+                ]
+            },
+            {
                 "name": "Soil Compactors",
                 "subcategories": [
                     {
                         "name": "Soil Compactor: 4 Wheel Type",
                         "url": "https://www.rbauction.it/cp/soil-compactors-soil-compactor-4-wheel-type",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/E83F2F81-D601-32C1-A809-520137EE6338/4a4584d7a109f23a5a5ca78a3285396e/Soil_Compactor__4_Wheel_Type"
+                    }
+                ]
+            },
+            {
+                "name": "Asphalt Plants",
+                "subcategories": [
+                    {
+                        "name": "Asphalt Batch Plant",
+                        "url": "https://www.rbauction.it/cp/asphalt-batch-plant",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/13997725587-L.jpg/1cb309c327a59b61d3961f2a0a47e5ff/13997725587-L.jpg"
+                    },
+                    {
+                        "name": "Asphalt Plant",
+                        "url": "https://www.rbauction.it/cp/asphalt-plant",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/14045165921-L.jpg/3be12bb4fe6a67899e40c7065d43b344/14045165921-L.jpg"
                     }
                 ]
             },
@@ -1799,21 +1809,6 @@
                         "name": "Concrete Plant",
                         "url": "https://www.rbauction.it/cp/concrete-plant",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/11229110234-L.jpg/47c02473bce1cdd2ad1ede33501162e2/11229110234-L.jpg"
-                    }
-                ]
-            },
-            {
-                "name": "Asphalt Plants",
-                "subcategories": [
-                    {
-                        "name": "Asphalt Batch Plant",
-                        "url": "https://www.rbauction.it/cp/asphalt-batch-plant",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/13997725587-L.jpg/1cb309c327a59b61d3961f2a0a47e5ff/13997725587-L.jpg"
-                    },
-                    {
-                        "name": "Asphalt Plant",
-                        "url": "https://www.rbauction.it/cp/asphalt-plant",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/14045165921-L.jpg/3be12bb4fe6a67899e40c7065d43b344/14045165921-L.jpg"
                     }
                 ]
             },
@@ -1873,21 +1868,6 @@
                 ]
             },
             {
-                "name": "Post Drivers",
-                "subcategories": [
-                    {
-                        "name": "Crawler Mounted Post Driver",
-                        "url": "https://www.rbauction.it/cp/crawler-mounted-post-driver",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/58004A11-1DFA-3A6C-BC5E-518E24D04695/32d9f482b951a666563b63453426916a/Crawler_Mounted_Post_Driver"
-                    },
-                    {
-                        "name": "Truck Mounted Post Driver",
-                        "url": "https://www.rbauction.it/cp/truck-mounted-post-driver",
-                        "image_url": "NO IMAGE URL"
-                    }
-                ]
-            },
-            {
                 "name": "Demolition Excavators",
                 "subcategories": [
                     {
@@ -1899,6 +1879,21 @@
                         "name": "Demolition Excavator",
                         "url": "https://www.rbauction.it/cp/demolition-excavators-demolition-excavator",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/687PEthkOcShbWdaakwoK3/f54c58ea5ebc3c169a89f4eb68cacdfc/demolition-excavator.jpg"
+                    }
+                ]
+            },
+            {
+                "name": "Post Drivers",
+                "subcategories": [
+                    {
+                        "name": "Crawler Mounted Post Driver",
+                        "url": "https://www.rbauction.it/cp/crawler-mounted-post-driver",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/58004A11-1DFA-3A6C-BC5E-518E24D04695/32d9f482b951a666563b63453426916a/Crawler_Mounted_Post_Driver"
+                    },
+                    {
+                        "name": "Truck Mounted Post Driver",
+                        "url": "https://www.rbauction.it/cp/truck-mounted-post-driver",
+                        "image_url": "NO IMAGE URL"
                     }
                 ]
             },
@@ -1924,6 +1919,16 @@
                         "name": "Misc. Truck - Off-Road",
                         "url": "https://www.rbauction.it/cp/misc-truck-off-road",
                         "image_url": "NO IMAGE URL"
+                    }
+                ]
+            },
+            {
+                "name": "All Terrain Mixers",
+                "subcategories": [
+                    {
+                        "name": "All Terrain Mixer",
+                        "url": "https://www.rbauction.it/cp/all-terrain-mixer",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/13989371854-L.jpg/d09884dbb4f7e0c45e99befb914c4cbf/13989371854-L.jpg"
                     }
                 ]
             },
@@ -1954,16 +1959,6 @@
                         "name": "Pugmill",
                         "url": "https://www.rbauction.it/cp/pugmill",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/11527529911-L.jpg/8ab0267f66772dbd24f357b2b29aaec5/11527529911-L.jpg"
-                    }
-                ]
-            },
-            {
-                "name": "All Terrain Mixers",
-                "subcategories": [
-                    {
-                        "name": "All Terrain Mixer",
-                        "url": "https://www.rbauction.it/cp/all-terrain-mixer",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/13989371854-L.jpg/d09884dbb4f7e0c45e99befb914c4cbf/13989371854-L.jpg"
                     }
                 ]
             }
@@ -2106,6 +2101,11 @@
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/85A55E11-A51C-3FD3-A44B-515B93A61B50/1cbf8435c9672f8202cc36bf46421534/Demolition_Breaker"
                     },
                     {
+                        "name": "Wheel Balancer",
+                        "url": "https://www.rbauction.it/cp/wheel-balancer",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/3A74170D-72A6-3F37-BC43-9F811D929D67/cf81351e966145e735654736f55d873c/Wheel_Balancer"
+                    },
+                    {
                         "name": "Tool Box",
                         "url": "https://www.rbauction.it/cp/tools-tool-box",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/618AE28F-B860-3855-BC64-3279401C9060/b0da8a88267a828a6da60fba1e8b9089/Tool_Box"
@@ -2116,9 +2116,9 @@
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/12519760490-L.jpg/a6602d2e8d6c1eac24d5c10eaa7b5312/12519760490-L.jpg"
                     },
                     {
-                        "name": "Wheel Balancer",
-                        "url": "https://www.rbauction.it/cp/wheel-balancer",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/3A74170D-72A6-3F37-BC43-9F811D929D67/cf81351e966145e735654736f55d873c/Wheel_Balancer"
+                        "name": "Ladder",
+                        "url": "https://www.rbauction.it/cp/ladder",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/1444973340-L.jpg/bb7f5115a89c12ea8a927c1f53021806/1444973340-L.jpg"
                     },
                     {
                         "name": "Sand Blaster",
@@ -2126,14 +2126,9 @@
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/11207956956-L.jpg/a8795f05535c3e88e49f9e242c64dd1d/11207956956-L.jpg"
                     },
                     {
-                        "name": "Ladder",
-                        "url": "https://www.rbauction.it/cp/ladder",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/1444973340-L.jpg/bb7f5115a89c12ea8a927c1f53021806/1444973340-L.jpg"
-                    },
-                    {
-                        "name": "Chain Saw",
-                        "url": "https://www.rbauction.it/cp/chain-saw",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/14116111632-L.jpg/14b77ed71018140335b54712e034888d/14116111632-L.jpg"
+                        "name": "Cut-Off Saw",
+                        "url": "https://www.rbauction.it/cp/cut-off-saw",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/C2F6C2D9-4BEB-37E9-9155-86B0C40FC269/46bc9166abf5bee7a05e22bdb9a3ee94/Cut-Off_Saw"
                     },
                     {
                         "name": "Power Auger",
@@ -2141,14 +2136,19 @@
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/6A41A384-6151-3DC2-8593-5E9D2D843039/4b584109ac555c5a039c64d213f640c0/Power_Auger"
                     },
                     {
-                        "name": "Cut-Off Saw",
-                        "url": "https://www.rbauction.it/cp/cut-off-saw",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/C2F6C2D9-4BEB-37E9-9155-86B0C40FC269/46bc9166abf5bee7a05e22bdb9a3ee94/Cut-Off_Saw"
-                    },
-                    {
                         "name": "Log Splitter",
                         "url": "https://www.rbauction.it/cp/log-splitter",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/12535968115-L.jpg/1365e1f1c2228944f0285d87f9c2831e/12535968115-L.jpg"
+                    },
+                    {
+                        "name": "Table Saw",
+                        "url": "https://www.rbauction.it/cp/table-saw",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/60F5FF22-D644-3887-82E9-16489FE6F1B9/ade1d1d6df207982e634462ccf0c7441/Table_Saw"
+                    },
+                    {
+                        "name": "Chain Saw",
+                        "url": "https://www.rbauction.it/cp/chain-saw",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/14116111632-L.jpg/14b77ed71018140335b54712e034888d/14116111632-L.jpg"
                     },
                     {
                         "name": "Work Lights",
@@ -2171,19 +2171,9 @@
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/DF42E6AA-AA07-3E15-A541-10AD29B7837B/d63614fc75405de805af7a3bf5455de0/Hydraulic_Power_Pack"
                     },
                     {
-                        "name": "Table Saw",
-                        "url": "https://www.rbauction.it/cp/table-saw",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/60F5FF22-D644-3887-82E9-16489FE6F1B9/ade1d1d6df207982e634462ccf0c7441/Table_Saw"
-                    },
-                    {
                         "name": "Band Saw",
                         "url": "https://www.rbauction.it/cp/tools-band-saw",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/13212199412-L.jpg/27880f1a5267da143516fa9e3f757465/13212199412-L.jpg"
-                    },
-                    {
-                        "name": "Drill",
-                        "url": "https://www.rbauction.it/cp/handheld-drills",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/99E1988C-EFD1-3882-B9DE-9EFAD721E0EE/d6f8ae83481379049e8fcc8c5db80519/Drill"
                     },
                     {
                         "name": "Milling Machine",
@@ -2191,9 +2181,9 @@
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/DA821C87-AEF4-30AC-81B0-AEBBE3D41A35/e2c84d71a44aaec4932d95b157fa9bb4/Milling_Machine"
                     },
                     {
-                        "name": "Core Drill",
-                        "url": "https://www.rbauction.it/cp/core-drill",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/FA10C0AE-AFA5-3156-8D5C-DCF58583E56C/c6ab9c66870b7219156a18d5852ba90e/Core_Drill"
+                        "name": "Drill",
+                        "url": "https://www.rbauction.it/cp/handheld-drills",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/99E1988C-EFD1-3882-B9DE-9EFAD721E0EE/d6f8ae83481379049e8fcc8c5db80519/Drill"
                     },
                     {
                         "name": "Sander",
@@ -2201,19 +2191,14 @@
                         "image_url": "NO IMAGE URL"
                     },
                     {
+                        "name": "Core Drill",
+                        "url": "https://www.rbauction.it/cp/core-drill",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/FA10C0AE-AFA5-3156-8D5C-DCF58583E56C/c6ab9c66870b7219156a18d5852ba90e/Core_Drill"
+                    },
+                    {
                         "name": "Floor Scraper",
                         "url": "https://www.rbauction.it/cp/floor-scraper",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/A49F9888-469F-3F8C-B668-1ACD853053F9/5af23f1abe56dc916c026d9020ac7daf/Floor_Scraper"
-                    },
-                    {
-                        "name": "Lathe",
-                        "url": "https://www.rbauction.it/cp/tools-lathe",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/11861834189-L.jpg/eb65809ce0df1ab6237e8a9f21d37cbf/11861834189-L.jpg"
-                    },
-                    {
-                        "name": "Brick Cutter",
-                        "url": "https://www.rbauction.it/cp/brick-cutter",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/11627227957-L.jpg/d8e72119b2529681fa742fe3297bcb9e/11627227957-L.jpg"
                     },
                     {
                         "name": "Positioner",
@@ -2221,9 +2206,29 @@
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/6110A700-A056-3EF0-BC5B-C91C770EC5A7/cff392350630ca97e812bb09519f62f1/Positioner"
                     },
                     {
+                        "name": "Lathe",
+                        "url": "https://www.rbauction.it/cp/tools-lathe",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/11861834189-L.jpg/eb65809ce0df1ab6237e8a9f21d37cbf/11861834189-L.jpg"
+                    },
+                    {
+                        "name": "Concrete Scarifier",
+                        "url": "https://www.rbauction.it/cp/concrete-scarifier",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/AF2A486C-1390-3A56-B5A6-BAE38811FBF6/7fe19c0d1c299b6b38e33af5ab947db0/Concrete_Scarifier"
+                    },
+                    {
+                        "name": "Brick Cutter",
+                        "url": "https://www.rbauction.it/cp/brick-cutter",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/11627227957-L.jpg/d8e72119b2529681fa742fe3297bcb9e/11627227957-L.jpg"
+                    },
+                    {
                         "name": "Metal Shear",
                         "url": "https://www.rbauction.it/cp/metal-shear",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/394D2FDA-F067-3A6B-B039-334FE1294E40/e1a41c1f18c3a1f3a5c799e9bbdd34ea/Metal_Shear"
+                    },
+                    {
+                        "name": "Circular Saw",
+                        "url": "https://www.rbauction.it/cp/circular-saw",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/C48732DA-D6EB-3AFA-B070-C62856B7EACB/05fab63df7f62c8c9deaafee19606b17/Circular_Saw"
                     },
                     {
                         "name": "Press Brake",
@@ -2236,9 +2241,9 @@
                         "image_url": "NO IMAGE URL"
                     },
                     {
-                        "name": "Concrete Scarifier",
-                        "url": "https://www.rbauction.it/cp/concrete-scarifier",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/AF2A486C-1390-3A56-B5A6-BAE38811FBF6/7fe19c0d1c299b6b38e33af5ab947db0/Concrete_Scarifier"
+                        "name": "Wheelbarrow",
+                        "url": "https://www.rbauction.it/cp/wheelbarrow",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/13183383347-L.jpg/087a61d6735c04783041857011ebcacb/13183383347-L.jpg"
                     },
                     {
                         "name": "Hydrostatic Test Pump",
@@ -2246,24 +2251,14 @@
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/FCB8C06E-30B3-3DAC-8533-9567F4B59A97/0fca6080e67b97a2402651b3f2a1d3ad/Hydrostatic_Test_Pump"
                     },
                     {
-                        "name": "Angle Grinder",
-                        "url": "https://www.rbauction.it/cp/angle-grinder",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/8139A53E-7E4A-36EF-8919-B83357D50B63/19c1da2debbe6222eeb2c83d016a5195/Angle_Grinder"
-                    },
-                    {
-                        "name": "Circular Saw",
-                        "url": "https://www.rbauction.it/cp/circular-saw",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/C48732DA-D6EB-3AFA-B070-C62856B7EACB/05fab63df7f62c8c9deaafee19606b17/Circular_Saw"
-                    },
-                    {
-                        "name": "Wheelbarrow",
-                        "url": "https://www.rbauction.it/cp/wheelbarrow",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/13183383347-L.jpg/087a61d6735c04783041857011ebcacb/13183383347-L.jpg"
-                    },
-                    {
                         "name": "Surface Grinder",
                         "url": "https://www.rbauction.it/cp/surface-grinder",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/60E86AA9-971B-3DD7-B6CE-17206EBC8585/c6c49391a400e95b3bfe28abdecef497/Surface_Grinder"
+                    },
+                    {
+                        "name": "Angle Grinder",
+                        "url": "https://www.rbauction.it/cp/angle-grinder",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/8139A53E-7E4A-36EF-8919-B83357D50B63/19c1da2debbe6222eeb2c83d016a5195/Angle_Grinder"
                     },
                     {
                         "name": "Parts Washer",
@@ -2341,14 +2336,14 @@
                         "image_url": "NO IMAGE URL"
                     },
                     {
-                        "name": "Misc. Landscaping Equipment",
-                        "url": "https://www.rbauction.it/cp/misc-landscaping-equipment",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/E12CB450-7FF1-3874-82E1-A728D2CCFEE5/e6f3e23d389ecd3db5efe9e90946f36d/_Misc._Landscaping_Equipment"
-                    },
-                    {
                         "name": "Lawn Mower",
                         "url": "https://www.rbauction.it/cp/lawn-mower",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/1183577795-L.jpg/dedd479ba581d8f161be9529f9d59fc4/1183577795-L.jpg"
+                    },
+                    {
+                        "name": "Misc. Landscaping Equipment",
+                        "url": "https://www.rbauction.it/cp/misc-landscaping-equipment",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/E12CB450-7FF1-3874-82E1-A728D2CCFEE5/e6f3e23d389ecd3db5efe9e90946f36d/_Misc._Landscaping_Equipment"
                     },
                     {
                         "name": "Wood Chipper",
@@ -2391,6 +2386,11 @@
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/6100B2B8-F69B-3567-81A4-DB12F814B903/6fb04612dc21bb21472e934fad5ddc17/Stump_Grinder"
                     },
                     {
+                        "name": "Seeder",
+                        "url": "https://www.rbauction.it/cp/seeder",
+                        "image_url": "NO IMAGE URL"
+                    },
+                    {
                         "name": "Sod Harvester",
                         "url": "https://www.rbauction.it/cp/sod-harvester",
                         "image_url": "NO IMAGE URL"
@@ -2398,11 +2398,6 @@
                     {
                         "name": "Landscape Drag",
                         "url": "https://www.rbauction.it/cp/landscape-drag",
-                        "image_url": "NO IMAGE URL"
-                    },
-                    {
-                        "name": "Seeder",
-                        "url": "https://www.rbauction.it/cp/seeder",
                         "image_url": "NO IMAGE URL"
                     },
                     {
@@ -2441,13 +2436,13 @@
                         "image_url": "NO IMAGE URL"
                     },
                     {
-                        "name": "Lawn Mower",
-                        "url": "https://www.rbauction.it/cp/landscaping-equipment-lawn-mower",
+                        "name": "Landscape Cultivator",
+                        "url": "https://www.rbauction.it/cp/landscape-cultivator",
                         "image_url": "NO IMAGE URL"
                     },
                     {
-                        "name": "Landscape Cultivator",
-                        "url": "https://www.rbauction.it/cp/landscape-cultivator",
+                        "name": "Power Broom",
+                        "url": "https://www.rbauction.it/cp/power-broom",
                         "image_url": "NO IMAGE URL"
                     },
                     {
@@ -2481,14 +2476,14 @@
                         "image_url": "NO IMAGE URL"
                     },
                     {
+                        "name": "Other",
+                        "url": "https://www.rbauction.it/cp/landscaping-equipment-other",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/F90759AB-7ABF-3BCE-B29A-43084B43CE3B/67a8593558368fad0bd7bd7074910705/_Misc._Other"
+                    },
+                    {
                         "name": "Mulch Blower",
                         "url": "https://www.rbauction.it/cp/mulch-blower",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/D39C4C2A-91C4-31F6-AD8B-C7549392AF7C/97c44c556e22ddc7f7d9beaf624bd84d/Mulch_Blower"
-                    },
-                    {
-                        "name": "Power Broom",
-                        "url": "https://www.rbauction.it/cp/power-broom",
-                        "image_url": "NO IMAGE URL"
                     },
                     {
                         "name": "Landscape Disc",
@@ -2496,89 +2491,14 @@
                         "image_url": "NO IMAGE URL"
                     },
                     {
+                        "name": "Lawn Mower",
+                        "url": "https://www.rbauction.it/cp/landscaping-equipment-lawn-mower",
+                        "image_url": "NO IMAGE URL"
+                    },
+                    {
                         "name": "Sod Installer",
                         "url": "https://www.rbauction.it/cp/sod-installer",
                         "image_url": "NO IMAGE URL"
-                    },
-                    {
-                        "name": "Tree Trimmer",
-                        "url": "https://www.rbauction.it/cp/tree-trimmer",
-                        "image_url": "NO IMAGE URL"
-                    },
-                    {
-                        "name": "Other",
-                        "url": "https://www.rbauction.it/cp/landscaping-equipment-other",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/F90759AB-7ABF-3BCE-B29A-43084B43CE3B/67a8593558368fad0bd7bd7074910705/_Misc._Other"
-                    }
-                ]
-            },
-            {
-                "name": "Portable Structures",
-                "subcategories": [
-                    {
-                        "name": "Misc. Portable Structure",
-                        "url": "https://www.rbauction.it/cp/misc-portable-structure",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/0E3C2B09-2DC5-3056-B207-80FBE1220AB5/a0d6a708cee2895b0f9e13a2bfc63d1b/_Misc._Portable_Structure"
-                    },
-                    {
-                        "name": "Storage Building",
-                        "url": "https://www.rbauction.it/cp/storage-building",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/6fnjsi9wfqIpMHH5xJCtC8/f1b482263a47aed84fc6f72c6a9042d6/147_-_Storage_Building.jpg"
-                    },
-                    {
-                        "name": "Mobile Office",
-                        "url": "https://www.rbauction.it/cp/mobile-office",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/1393882460-L.jpg/d96a602d9164bf48e65c95777c0c9f3d/1393882460-L.jpg"
-                    },
-                    {
-                        "name": "Portable Toilet",
-                        "url": "https://www.rbauction.it/cp/portable-toilet",
-                        "image_url": "NO IMAGE URL"
-                    },
-                    {
-                        "name": "Storage Canopy",
-                        "url": "https://www.rbauction.it/cp/storage-canopy",
-                        "image_url": "NO IMAGE URL"
-                    },
-                    {
-                        "name": "Mobile Camp",
-                        "url": "https://www.rbauction.it/cp/mobile-camp",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/5a5yjuOk5CGrFGBqI2VUk6/01f04ad941847723ee9eb89037231eb6/Line_50-Camp.png"
-                    },
-                    {
-                        "name": "Lab Trailer",
-                        "url": "https://www.rbauction.it/cp/lab-trailer",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/11686390411-L.jpg/fdece3e56a6277b6d08839c22cf2053a/11686390411-L.jpg"
-                    },
-                    {
-                        "name": "Kitchen Trailer",
-                        "url": "https://www.rbauction.it/cp/portable-structures-kitchen-trailer",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/9EDAA5B3-0FF3-3047-BB71-07A2A352F979/4a7e40bd18a91b47af98fcc5a6c8eaf0/Kitchen_Trailer"
-                    },
-                    {
-                        "name": "Wellsite",
-                        "url": "https://www.rbauction.it/cp/wellsite",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/5ExyY9zDvrC3vukxPwN2Tw/990d3d3176dee910856979adad0f7c94/Line_69-Wellsite.png"
-                    },
-                    {
-                        "name": "Washcar",
-                        "url": "https://www.rbauction.it/cp/washcar",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/12024570272-L.jpg/d85d63a59b76b9a9210b046c51c9d09a/12024570272-L.jpg"
-                    },
-                    {
-                        "name": "Modular Home",
-                        "url": "https://www.rbauction.it/cp/modular-home",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/FejBDZe9mWCwo31RYwZBG/b928f039c0e886e15f6bff39fd7e0ec3/Line_85_-_Modular_Home_OPT_A_from_Iron_Planet.jpg"
-                    },
-                    {
-                        "name": "First Aid Trailer",
-                        "url": "https://www.rbauction.it/cp/first-aid-trailer",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/13936987859-L.jpg/fd30908ea296d74059cd5f333fcfaa84/13936987859-L.jpg"
-                    },
-                    {
-                        "name": "Kitchen",
-                        "url": "https://www.rbauction.it/cp/kitchen",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/11322555402-L.jpg/669bf00a761a414fd644881ccc5e5422/11322555402-L.jpg"
                     }
                 ]
             },
@@ -2646,14 +2566,14 @@
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/11682355397-L.jpg/b3fd54aaa75578a45c9921b9c223e333/11682355397-L.jpg"
                     },
                     {
-                        "name": "Stick",
-                        "url": "https://www.rbauction.it/cp/stick",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/1923714236-L.jpg/449de340ddf3d501c5499bdbfc7b3a61/1923714236-L.jpg"
-                    },
-                    {
                         "name": "Radiator",
                         "url": "https://www.rbauction.it/cp/radiator",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/12625090311-L.jpg/8ba41e8511e8f558a96ddcda6323fc2f/12625090311-L.jpg"
+                    },
+                    {
+                        "name": "Stick",
+                        "url": "https://www.rbauction.it/cp/stick",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/1923714236-L.jpg/449de340ddf3d501c5499bdbfc7b3a61/1923714236-L.jpg"
                     },
                     {
                         "name": "Boom",
@@ -2666,14 +2586,19 @@
                         "image_url": "NO IMAGE URL"
                     },
                     {
-                        "name": "Cutting Edge",
-                        "url": "https://www.rbauction.it/cp/cutting-edge",
-                        "image_url": "NO IMAGE URL"
-                    },
-                    {
                         "name": "Cab",
                         "url": "https://www.rbauction.it/cp/cab",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/13776481124-L.jpg/1738d74c147ec9a9eb5cc0e05985c4a7/13776481124-L.jpg"
+                    },
+                    {
+                        "name": "Final Drive",
+                        "url": "https://www.rbauction.it/cp/final-drive",
+                        "image_url": "NO IMAGE URL"
+                    },
+                    {
+                        "name": "Cutting Edge",
+                        "url": "https://www.rbauction.it/cp/cutting-edge",
+                        "image_url": "NO IMAGE URL"
                     },
                     {
                         "name": "Canopy",
@@ -2684,11 +2609,76 @@
                         "name": "Brake Drums",
                         "url": "https://www.rbauction.it/cp/brake-drums",
                         "image_url": "NO IMAGE URL"
+                    }
+                ]
+            },
+            {
+                "name": "Portable Structures",
+                "subcategories": [
+                    {
+                        "name": "Misc. Portable Structure",
+                        "url": "https://www.rbauction.it/cp/misc-portable-structure",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/0E3C2B09-2DC5-3056-B207-80FBE1220AB5/a0d6a708cee2895b0f9e13a2bfc63d1b/_Misc._Portable_Structure"
                     },
                     {
-                        "name": "Final Drive",
-                        "url": "https://www.rbauction.it/cp/final-drive",
+                        "name": "Storage Building",
+                        "url": "https://www.rbauction.it/cp/storage-building",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/6fnjsi9wfqIpMHH5xJCtC8/f1b482263a47aed84fc6f72c6a9042d6/147_-_Storage_Building.jpg"
+                    },
+                    {
+                        "name": "Mobile Office",
+                        "url": "https://www.rbauction.it/cp/mobile-office",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/1393882460-L.jpg/d96a602d9164bf48e65c95777c0c9f3d/1393882460-L.jpg"
+                    },
+                    {
+                        "name": "Storage Canopy",
+                        "url": "https://www.rbauction.it/cp/storage-canopy",
                         "image_url": "NO IMAGE URL"
+                    },
+                    {
+                        "name": "Portable Toilet",
+                        "url": "https://www.rbauction.it/cp/portable-toilet",
+                        "image_url": "NO IMAGE URL"
+                    },
+                    {
+                        "name": "Mobile Camp",
+                        "url": "https://www.rbauction.it/cp/mobile-camp",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/5a5yjuOk5CGrFGBqI2VUk6/01f04ad941847723ee9eb89037231eb6/Line_50-Camp.png"
+                    },
+                    {
+                        "name": "Lab Trailer",
+                        "url": "https://www.rbauction.it/cp/lab-trailer",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/11686390411-L.jpg/fdece3e56a6277b6d08839c22cf2053a/11686390411-L.jpg"
+                    },
+                    {
+                        "name": "Kitchen Trailer",
+                        "url": "https://www.rbauction.it/cp/portable-structures-kitchen-trailer",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/9EDAA5B3-0FF3-3047-BB71-07A2A352F979/4a7e40bd18a91b47af98fcc5a6c8eaf0/Kitchen_Trailer"
+                    },
+                    {
+                        "name": "Wellsite",
+                        "url": "https://www.rbauction.it/cp/wellsite",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/5ExyY9zDvrC3vukxPwN2Tw/990d3d3176dee910856979adad0f7c94/Line_69-Wellsite.png"
+                    },
+                    {
+                        "name": "Washcar",
+                        "url": "https://www.rbauction.it/cp/washcar",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/12024570272-L.jpg/d85d63a59b76b9a9210b046c51c9d09a/12024570272-L.jpg"
+                    },
+                    {
+                        "name": "Modular Home",
+                        "url": "https://www.rbauction.it/cp/modular-home",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/FejBDZe9mWCwo31RYwZBG/b928f039c0e886e15f6bff39fd7e0ec3/Line_85_-_Modular_Home_OPT_A_from_Iron_Planet.jpg"
+                    },
+                    {
+                        "name": "First Aid Trailer",
+                        "url": "https://www.rbauction.it/cp/first-aid-trailer",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/13936987859-L.jpg/fd30908ea296d74059cd5f333fcfaa84/13936987859-L.jpg"
+                    },
+                    {
+                        "name": "Kitchen",
+                        "url": "https://www.rbauction.it/cp/kitchen",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/11322555402-L.jpg/669bf00a761a414fd644881ccc5e5422/11322555402-L.jpg"
                     }
                 ]
             },
@@ -2771,24 +2761,24 @@
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/12878525240-L.jpg/2073bcf412055b9d7773cca1f1873ae8/12878525240-L.jpg"
                     },
                     {
+                        "name": "Job Site Box",
+                        "url": "https://www.rbauction.it/cp/job-site-box",
+                        "image_url": "NO IMAGE URL"
+                    },
+                    {
                         "name": "Cable",
                         "url": "https://www.rbauction.it/cp/cable",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/FFC0B5A2-9AE2-31D0-ADF2-C3C5E29778F4/80fa3c98db35c083994213b8be24a8c8/Cable"
                     },
                     {
-                        "name": "Job Site Box",
-                        "url": "https://www.rbauction.it/cp/job-site-box",
+                        "name": "Fire Extinguisher",
+                        "url": "https://www.rbauction.it/cp/fire-extinguisher",
                         "image_url": "NO IMAGE URL"
                     },
                     {
                         "name": "Safety Supplies",
                         "url": "https://www.rbauction.it/cp/safety-supplies",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/13311553889-L.jpg/15803b29fc45f2ecb64aa0b89eaa7ed8/13311553889-L.jpg"
-                    },
-                    {
-                        "name": "Fire Extinguisher",
-                        "url": "https://www.rbauction.it/cp/fire-extinguisher",
-                        "image_url": "NO IMAGE URL"
                     },
                     {
                         "name": "Wastewater Tank",
@@ -2871,14 +2861,14 @@
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/BF29109D-8EAF-3A10-8023-FE268B4ADCE5/9992d7cbc3c13375c77a9dbb2198ebb7/Lighting_Fixtures"
                     },
                     {
-                        "name": "Lumber",
-                        "url": "https://www.rbauction.it/cp/lumber",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/2BKd1QH1cKMZxy0FPllPav/103218e11cdd1f3e71797f707b63e319/184_-_Lumber.png"
-                    },
-                    {
                         "name": "Misc. Hardware and Fixtures",
                         "url": "https://www.rbauction.it/cp/misc-hardware-and-fixtures",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/3E614F9D-89D4-3370-B51C-46C04F15FB9E/ce9a81d9307847d696a58e2b0cf55dbb/_Misc._Hardware_and_Fixtures"
+                    },
+                    {
+                        "name": "Lumber",
+                        "url": "https://www.rbauction.it/cp/lumber",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/2BKd1QH1cKMZxy0FPllPav/103218e11cdd1f3e71797f707b63e319/184_-_Lumber.png"
                     },
                     {
                         "name": "Doors",
@@ -2899,6 +2889,46 @@
                         "name": "Tile",
                         "url": "https://www.rbauction.it/cp/tile",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/1351170592-L.jpg/34eab795940ab6bfe108bf850a7f283b/1351170592-L.jpg"
+                    }
+                ]
+            },
+            {
+                "name": "Golf Course Maintenance Equipment",
+                "subcategories": [
+                    {
+                        "name": "Golf Cart",
+                        "url": "https://www.rbauction.it/cp/golf-cart",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/13947448016-L.jpg/9c3b02e237b6821ead42b86a23f49465/13947448016-L.jpg"
+                    },
+                    {
+                        "name": "Misc. Golf Course Maintenance Equipment",
+                        "url": "https://www.rbauction.it/cp/misc-golf-course-maintenance-equipment",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/C108BBB4-3460-38FF-BC9B-DC44ABAFCB9A/d1fb947247522185ac11dbafcf33fbe9/_Misc._Golf_Course_Maintenance_Equipment"
+                    },
+                    {
+                        "name": "Lawn Dethatcher",
+                        "url": "https://www.rbauction.it/cp/lawn-dethatcher",
+                        "image_url": "NO IMAGE URL"
+                    },
+                    {
+                        "name": "Greens Mower",
+                        "url": "https://www.rbauction.it/cp/greens-mower",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/147BB72D-688A-3778-8C22-64F516F94929/57941d31d34c9098222e0fac65460fbe/Greens_Mower"
+                    },
+                    {
+                        "name": "Fairway Mower",
+                        "url": "https://www.rbauction.it/cp/fairway-mower",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/F8DCA581-5B08-393D-B98D-2BBC95661FDC/b8aa974d785c0d97203172403b901156/Fairway_Mower"
+                    },
+                    {
+                        "name": "Rough Mower",
+                        "url": "https://www.rbauction.it/cp/rough-mower",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/D9DC2C68-E90A-3559-A43F-F406D609DA1A/15dc988af7a3b8a2b5995869f7c7da2a/Rough_Mower"
+                    },
+                    {
+                        "name": "Bunker Rake",
+                        "url": "https://www.rbauction.it/cp/bunker-rake",
+                        "image_url": "NO IMAGE URL"
                     }
                 ]
             },
@@ -2929,46 +2959,6 @@
                         "name": "Pneumatic Submersible Water Pump",
                         "url": "https://www.rbauction.it/cp/pneumatic-submersible-water-pump",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/4D6D2D53-1E57-3DD8-A8F0-52199EAB2CA3/cd2c48261551783c02b309f4fd30e43e/Pneumatic_Submersible_Water_Pump"
-                    }
-                ]
-            },
-            {
-                "name": "Golf Course Maintenance Equipment",
-                "subcategories": [
-                    {
-                        "name": "Golf Cart",
-                        "url": "https://www.rbauction.it/cp/golf-cart",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/13947448016-L.jpg/9c3b02e237b6821ead42b86a23f49465/13947448016-L.jpg"
-                    },
-                    {
-                        "name": "Misc. Golf Course Maintenance Equipment",
-                        "url": "https://www.rbauction.it/cp/misc-golf-course-maintenance-equipment",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/C108BBB4-3460-38FF-BC9B-DC44ABAFCB9A/d1fb947247522185ac11dbafcf33fbe9/_Misc._Golf_Course_Maintenance_Equipment"
-                    },
-                    {
-                        "name": "Fairway Mower",
-                        "url": "https://www.rbauction.it/cp/fairway-mower",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/F8DCA581-5B08-393D-B98D-2BBC95661FDC/b8aa974d785c0d97203172403b901156/Fairway_Mower"
-                    },
-                    {
-                        "name": "Greens Mower",
-                        "url": "https://www.rbauction.it/cp/greens-mower",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/147BB72D-688A-3778-8C22-64F516F94929/57941d31d34c9098222e0fac65460fbe/Greens_Mower"
-                    },
-                    {
-                        "name": "Rough Mower",
-                        "url": "https://www.rbauction.it/cp/rough-mower",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/D9DC2C68-E90A-3559-A43F-F406D609DA1A/15dc988af7a3b8a2b5995869f7c7da2a/Rough_Mower"
-                    },
-                    {
-                        "name": "Lawn Dethatcher",
-                        "url": "https://www.rbauction.it/cp/lawn-dethatcher",
-                        "image_url": "NO IMAGE URL"
-                    },
-                    {
-                        "name": "Bunker Rake",
-                        "url": "https://www.rbauction.it/cp/bunker-rake",
-                        "image_url": "NO IMAGE URL"
                     }
                 ]
             },
@@ -3253,6 +3243,31 @@
                 ]
             },
             {
+                "name": "Floor Cleaning Machines",
+                "subcategories": [
+                    {
+                        "name": "Floor Scrubber",
+                        "url": "https://www.rbauction.it/cp/floor-scrubber",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/BD0FD227-F084-31B5-BB0C-1A3F612901DA/5783229bedb39d3b50b01d129ae60451/Floor_Scrubber"
+                    },
+                    {
+                        "name": "Floor Sweeper",
+                        "url": "https://www.rbauction.it/cp/floor-sweeper",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/11172322802-L.jpg/7d47a0be99028b6c10c646205666042d/11172322802-L.jpg"
+                    },
+                    {
+                        "name": "Floor Buffer",
+                        "url": "https://www.rbauction.it/cp/floor-buffer",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/358BCA91-733F-3316-910E-B3B4CA85418B/9408a6e669b656ae7ee6ee5719e2af68/Floor_Buffer"
+                    },
+                    {
+                        "name": "Floor Burnisher",
+                        "url": "https://www.rbauction.it/cp/floor-burnisher",
+                        "image_url": "NO IMAGE URL"
+                    }
+                ]
+            },
+            {
                 "name": "Survey Equipment and Grade Control",
                 "subcategories": [
                     {
@@ -3288,31 +3303,6 @@
                     {
                         "name": "Laser Receiver",
                         "url": "https://www.rbauction.it/cp/laser-receiver",
-                        "image_url": "NO IMAGE URL"
-                    }
-                ]
-            },
-            {
-                "name": "Floor Cleaning Machines",
-                "subcategories": [
-                    {
-                        "name": "Floor Scrubber",
-                        "url": "https://www.rbauction.it/cp/floor-scrubber",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/BD0FD227-F084-31B5-BB0C-1A3F612901DA/5783229bedb39d3b50b01d129ae60451/Floor_Scrubber"
-                    },
-                    {
-                        "name": "Floor Sweeper",
-                        "url": "https://www.rbauction.it/cp/floor-sweeper",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/11172322802-L.jpg/7d47a0be99028b6c10c646205666042d/11172322802-L.jpg"
-                    },
-                    {
-                        "name": "Floor Buffer",
-                        "url": "https://www.rbauction.it/cp/floor-buffer",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/358BCA91-733F-3316-910E-B3B4CA85418B/9408a6e669b656ae7ee6ee5719e2af68/Floor_Buffer"
-                    },
-                    {
-                        "name": "Floor Burnisher",
-                        "url": "https://www.rbauction.it/cp/floor-burnisher",
                         "image_url": "NO IMAGE URL"
                     }
                 ]
@@ -3631,14 +3621,14 @@
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/6c9A4b9rrIivVOOdjh1ZRm/bf279ba34f87d0622b8eb690aa46c1a1/Line_54-Boat.png"
                     },
                     {
-                        "name": "Tug Boat",
-                        "url": "https://www.rbauction.it/cp/commercial-marine-vessels-tug-boat",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/12454257888-L.jpg/a66fdbf00cd7136918f390db3ff42b4f/12454257888-L.jpg"
-                    },
-                    {
                         "name": "Misc. Marine Commercial Vessel",
                         "url": "https://www.rbauction.it/cp/misc-marine-commercial-vessel",
                         "image_url": "NO IMAGE URL"
+                    },
+                    {
+                        "name": "Tug Boat",
+                        "url": "https://www.rbauction.it/cp/commercial-marine-vessels-tug-boat",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/12454257888-L.jpg/a66fdbf00cd7136918f390db3ff42b4f/12454257888-L.jpg"
                     }
                 ]
             },
@@ -3649,11 +3639,6 @@
                         "name": " Antiques",
                         "url": "https://www.rbauction.it/cp/antiques",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/6A47682C-D6A2-3C0E-82EE-96CD12DD48F1/1913983db428362aa1fd380dca2c7f9f/__Antiques"
-                    },
-                    {
-                        "name": "Misc. Luxury Goods",
-                        "url": "https://www.rbauction.it/cp/misc-luxury-goods",
-                        "image_url": "NO IMAGE URL"
                     }
                 ]
             },
@@ -4353,26 +4338,6 @@
                 ]
             },
             {
-                "name": "Fuel and Lube Trucks",
-                "subcategories": [
-                    {
-                        "name": "Fuel and Lube Truck",
-                        "url": "https://www.rbauction.it/cp/fuel-and-lube-truck",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/2B30150C-70CB-324E-BF73-583CBCE86D7F/6898ed726bed24a358c05f218b3917db/Fuel_and_Lube_Truck"
-                    },
-                    {
-                        "name": "Fuel Truck",
-                        "url": "https://www.rbauction.it/cp/fuel-truck",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/DB2342D5-C5CE-3843-9AC6-F28EEF15417D/c8a974aac69b65a6875ecc9ef3924280/Fuel_Truck"
-                    },
-                    {
-                        "name": "Lube Truck",
-                        "url": "https://www.rbauction.it/cp/lube-truck",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/43AA7290-58BD-3176-9B6B-694B9FBE435F/21a56a70ec90661ff724ef2db5b70946/Lube_Truck"
-                    }
-                ]
-            },
-            {
                 "name": "Reel Trailers",
                 "subcategories": [
                     {
@@ -4399,6 +4364,26 @@
                         "name": "De-Icer Truck",
                         "url": "https://www.rbauction.it/cp/de-icer-truck",
                         "image_url": "NO IMAGE URL"
+                    }
+                ]
+            },
+            {
+                "name": "Fuel and Lube Trucks",
+                "subcategories": [
+                    {
+                        "name": "Fuel and Lube Truck",
+                        "url": "https://www.rbauction.it/cp/fuel-and-lube-truck",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/2B30150C-70CB-324E-BF73-583CBCE86D7F/6898ed726bed24a358c05f218b3917db/Fuel_and_Lube_Truck"
+                    },
+                    {
+                        "name": "Fuel Truck",
+                        "url": "https://www.rbauction.it/cp/fuel-truck",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/DB2342D5-C5CE-3843-9AC6-F28EEF15417D/c8a974aac69b65a6875ecc9ef3924280/Fuel_Truck"
+                    },
+                    {
+                        "name": "Lube Truck",
+                        "url": "https://www.rbauction.it/cp/lube-truck",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/43AA7290-58BD-3176-9B6B-694B9FBE435F/21a56a70ec90661ff724ef2db5b70946/Lube_Truck"
                     }
                 ]
             },
@@ -4463,6 +4448,16 @@
                 ]
             },
             {
+                "name": "Curtain Side Trailers",
+                "subcategories": [
+                    {
+                        "name": "Curtain Side Trailer",
+                        "url": "https://www.rbauction.it/cp/curtain-side-trailer",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/14271988762-L.jpg/1e92811fe188e7c14d1dea546484fa8d/14271988762-L.jpg"
+                    }
+                ]
+            },
+            {
                 "name": "Roll-Off Trucks",
                 "subcategories": [
                     {
@@ -4488,26 +4483,6 @@
                 ]
             },
             {
-                "name": "Miscellaneous Trucks",
-                "subcategories": [
-                    {
-                        "name": "Misc. Truck",
-                        "url": "https://www.rbauction.it/cp/misc-truck",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/907C9929-02BC-32DE-BB0C-F9040C5258BD/0403ccc28aec51cef70113a9366dbcc3/_Misc._Truck"
-                    }
-                ]
-            },
-            {
-                "name": "Curtain Side Trailers",
-                "subcategories": [
-                    {
-                        "name": "Curtain Side Trailer",
-                        "url": "https://www.rbauction.it/cp/curtain-side-trailer",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/14271988762-L.jpg/1e92811fe188e7c14d1dea546484fa8d/14271988762-L.jpg"
-                    }
-                ]
-            },
-            {
                 "name": "Pneumatic Bulk Trailers",
                 "subcategories": [
                     {
@@ -4523,6 +4498,16 @@
                 ]
             },
             {
+                "name": "Miscellaneous Trucks",
+                "subcategories": [
+                    {
+                        "name": "Misc. Truck",
+                        "url": "https://www.rbauction.it/cp/misc-truck",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/907C9929-02BC-32DE-BB0C-F9040C5258BD/0403ccc28aec51cef70113a9366dbcc3/_Misc._Truck"
+                    }
+                ]
+            },
+            {
                 "name": "Concrete Pump Trucks",
                 "subcategories": [
                     {
@@ -4534,16 +4519,6 @@
                         "name": "Concrete Conveyor Truck",
                         "url": "https://www.rbauction.it/cp/concrete-conveyor-truck",
                         "image_url": "NO IMAGE URL"
-                    }
-                ]
-            },
-            {
-                "name": "Vacuum Tanker Trucks",
-                "subcategories": [
-                    {
-                        "name": "Vacuum Tanker Truck",
-                        "url": "https://www.rbauction.it/cp/vacuum-tanker-truck",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/312346E4-0E17-3D66-A5A3-8A7B8945F439/12d68146eb928a3558e09be3d94f0b84/Vacuum_Tanker_Truck"
                     }
                 ]
             },
@@ -4569,6 +4544,16 @@
                         "name": "Misc. Emergency Vehicle",
                         "url": "https://www.rbauction.it/cp/misc-emergency-vehicle",
                         "image_url": "NO IMAGE URL"
+                    }
+                ]
+            },
+            {
+                "name": "Vacuum Tanker Trucks",
+                "subcategories": [
+                    {
+                        "name": "Vacuum Tanker Truck",
+                        "url": "https://www.rbauction.it/cp/vacuum-tanker-truck",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/312346E4-0E17-3D66-A5A3-8A7B8945F439/12d68146eb928a3558e09be3d94f0b84/Vacuum_Tanker_Truck"
                     }
                 ]
             },
@@ -4763,16 +4748,6 @@
                 ]
             },
             {
-                "name": "Fuel and Lube Trailers",
-                "subcategories": [
-                    {
-                        "name": "Fuel and Lube Trailer",
-                        "url": "https://www.rbauction.it/cp/fuel-and-lube-trailer",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/12343898133-L.jpg/61430ab5daaeae55d0872e658051f49c/12343898133-L.jpg"
-                    }
-                ]
-            },
-            {
                 "name": "Traffic Control Trucks",
                 "subcategories": [
                     {
@@ -4798,6 +4773,26 @@
                 ]
             },
             {
+                "name": "Hooklift Trucks",
+                "subcategories": [
+                    {
+                        "name": "Hooklift Truck",
+                        "url": "https://www.rbauction.it/cp/hooklift-truck",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/1928005173-L.jpg/94a987ed1b4dabb67e64e2bcf954a2ab/1928005173-L.jpg"
+                    }
+                ]
+            },
+            {
+                "name": "Fuel and Lube Trailers",
+                "subcategories": [
+                    {
+                        "name": "Fuel and Lube Trailer",
+                        "url": "https://www.rbauction.it/cp/fuel-and-lube-trailer",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/12343898133-L.jpg/61430ab5daaeae55d0872e658051f49c/12343898133-L.jpg"
+                    }
+                ]
+            },
+            {
                 "name": "Sewer Cleaning Trucks",
                 "subcategories": [
                     {
@@ -4814,16 +4809,6 @@
                         "name": "Sewer Camera Truck",
                         "url": "https://www.rbauction.it/cp/sewer-camera-truck",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/13324501849-L.jpg/1ebd6825e268b5fd70a12a6ccd3e127a/13324501849-L.jpg"
-                    }
-                ]
-            },
-            {
-                "name": "Hooklift Trucks",
-                "subcategories": [
-                    {
-                        "name": "Hooklift Truck",
-                        "url": "https://www.rbauction.it/cp/hooklift-truck",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/1928005173-L.jpg/94a987ed1b4dabb67e64e2bcf954a2ab/1928005173-L.jpg"
                     }
                 ]
             },
@@ -4978,16 +4963,6 @@
                 ]
             },
             {
-                "name": "Versatile Hauler Trucks",
-                "subcategories": [
-                    {
-                        "name": "Versatile Hauler Truck",
-                        "url": "https://www.rbauction.it/cp/versatile-hauler-truck",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/E1D95113-5921-3FE3-9B42-E04E28936E80/041d99d819cc158d005118045024ee18/Versatile_Hauler_Truck"
-                    }
-                ]
-            },
-            {
                 "name": "Cargo Trucks",
                 "subcategories": [
                     {
@@ -5008,37 +4983,32 @@
                 ]
             },
             {
-                "name": "Sewer Cleaning Trailers",
-                "subcategories": [
-                    {
-                        "name": "Sewer Cleaner Trailer",
-                        "url": "https://www.rbauction.it/cp/sewer-cleaner-trailer",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/940AEC4E-C47A-302F-967F-4C6A8D404F80/11d65b484c0d4db8f1cc0a284a1200c8/Sewer_Cleaner_Trailer"
-                    },
-                    {
-                        "name": "Misc. Sewer and Basin Cleaning Trailer",
-                        "url": "https://www.rbauction.it/cp/misc-sewer-and-basin-cleaning-trailer",
-                        "image_url": "NO IMAGE URL"
-                    }
-                ]
-            },
-            {
-                "name": "Logging Trucks",
-                "subcategories": [
-                    {
-                        "name": "Log Truck",
-                        "url": "https://www.rbauction.it/cp/log-truck",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/12413761237-L.jpg/a0bfbc85a4110a934f2f736e6b3aeb34/12413761237-L.jpg"
-                    }
-                ]
-            },
-            {
                 "name": "Chip Trailers",
                 "subcategories": [
                     {
                         "name": "Chip Trailer",
                         "url": "https://www.rbauction.it/cp/chip-trailer",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/E70B33F1-2F39-3D1C-983F-427448193FC5/acb556afeb5040194c8100207074de2c/Chip_Trailer"
+                    }
+                ]
+            },
+            {
+                "name": "Versatile Hauler Trucks",
+                "subcategories": [
+                    {
+                        "name": "Versatile Hauler Truck",
+                        "url": "https://www.rbauction.it/cp/versatile-hauler-truck",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/E1D95113-5921-3FE3-9B42-E04E28936E80/041d99d819cc158d005118045024ee18/Versatile_Hauler_Truck"
+                    }
+                ]
+            },
+            {
+                "name": "Sewer Cleaning Trailers",
+                "subcategories": [
+                    {
+                        "name": "Sewer Cleaner Trailer",
+                        "url": "https://www.rbauction.it/cp/sewer-cleaner-trailer",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/940AEC4E-C47A-302F-967F-4C6A8D404F80/11d65b484c0d4db8f1cc0a284a1200c8/Sewer_Cleaner_Trailer"
                     }
                 ]
             },
@@ -5059,6 +5029,16 @@
                         "name": "Mixer Trailer",
                         "url": "https://www.rbauction.it/cp/mixer-trailer",
                         "image_url": "NO IMAGE URL"
+                    }
+                ]
+            },
+            {
+                "name": "Logging Trucks",
+                "subcategories": [
+                    {
+                        "name": "Log Truck",
+                        "url": "https://www.rbauction.it/cp/log-truck",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/12413761237-L.jpg/a0bfbc85a4110a934f2f736e6b3aeb34/12413761237-L.jpg"
                     }
                 ]
             },
@@ -5099,16 +5079,6 @@
                         "name": "Explosives Emulsion Truck",
                         "url": "https://www.rbauction.it/cp/explosives-emulsion-truck",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/4RXLAPABLhyXl6WF26nbo0/547b1e911576bec2c47daf84bdd8759e/Explosive-Emulsion-Trucks.jpg"
-                    }
-                ]
-            },
-            {
-                "name": "Food and Beverage Trucks",
-                "subcategories": [
-                    {
-                        "name": "Misc. Food and Beverage",
-                        "url": "https://www.rbauction.it/cp/misc-food-and-beverage",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/5718D6A1-385F-3EC2-83CF-8F94882D2C1D/0c030a0239d9feb93fd745f10941bb03/_Misc._Food_and_Beverage"
                     }
                 ]
             },
@@ -5421,6 +5391,11 @@
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/12263457883-L.jpg/efcc1ad9bc93a7ab8cd1d4c53b186d68/12263457883-L.jpg"
                     },
                     {
+                        "name": "Disc Harrow",
+                        "url": "https://www.rbauction.it/cp/tillage-equipment-disc-harrow",
+                        "image_url": "NO IMAGE URL"
+                    },
+                    {
                         "name": "Power Harrow",
                         "url": "https://www.rbauction.it/cp/power-harrow",
                         "image_url": "NO IMAGE URL"
@@ -5431,9 +5406,9 @@
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/23A22428-08E6-3858-9E11-3119C3F71208/20efb3f226b3f97878481ba978a95139/Chisel_Plow"
                     },
                     {
-                        "name": "Disc Harrow",
-                        "url": "https://www.rbauction.it/cp/tillage-equipment-disc-harrow",
-                        "image_url": "NO IMAGE URL"
+                        "name": "Harrow Packer",
+                        "url": "https://www.rbauction.it/cp/tillage-equipment-harrow-packer",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/AD985FA7-078E-3ADA-AF7D-574B2A31BAEF/eddcddeb7ee92383f66e937a0316a52d/Harrow_Packer"
                     },
                     {
                         "name": "Packer",
@@ -5444,11 +5419,6 @@
                         "name": "Ripper",
                         "url": "https://www.rbauction.it/cp/tillage-equipment-ripper",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/13142822158-L.jpg/bd3c0c166d3c522f20ce04d9648406cb/13142822158-L.jpg"
-                    },
-                    {
-                        "name": "Harrow Packer",
-                        "url": "https://www.rbauction.it/cp/tillage-equipment-harrow-packer",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/AD985FA7-078E-3ADA-AF7D-574B2A31BAEF/eddcddeb7ee92383f66e937a0316a52d/Harrow_Packer"
                     },
                     {
                         "name": "Rod Weeder",
@@ -5561,14 +5531,14 @@
                         "image_url": "NO IMAGE URL"
                     },
                     {
-                        "name": "Square Baler",
-                        "url": "https://www.rbauction.it/cp/square-baler",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/D9676EE8-33C2-3F00-9142-DE8777398071/797c2b4f1a53f718a741be45d75023a3/Square_Baler"
-                    },
-                    {
                         "name": "Mower Conditioner",
                         "url": "https://www.rbauction.it/cp/mower-conditioner",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/11615427117-L.jpg/80b645138395b2b8e122f8e6f814de6c/11615427117-L.jpg"
+                    },
+                    {
+                        "name": "Square Baler",
+                        "url": "https://www.rbauction.it/cp/square-baler",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/D9676EE8-33C2-3F00-9142-DE8777398071/797c2b4f1a53f718a741be45d75023a3/Square_Baler"
                     },
                     {
                         "name": "Combination Baler Wrapper",
@@ -5911,24 +5881,19 @@
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/7E206316-A6F2-34CD-967A-996C3EEB8CB1/588be95bd8187bf3e000ee96d333e168/Forage_Harvester"
                     },
                     {
-                        "name": "Silage Blower",
-                        "url": "https://www.rbauction.it/cp/agriculture-silage-and-forage-equipment-silage-blower",
-                        "image_url": "NO IMAGE URL"
-                    },
-                    {
                         "name": "Pull Type Forage Harvester",
                         "url": "https://www.rbauction.it/cp/pull-type-forage-harvester",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/BE4290F7-411F-3BE4-871E-59DC963533D3/0156f572b93b495544c62e42c8dd62ef/Pull_Type_Forage_Harvester"
                     },
                     {
+                        "name": "Silage Blower",
+                        "url": "https://www.rbauction.it/cp/agriculture-silage-and-forage-equipment-silage-blower",
+                        "image_url": "NO IMAGE URL"
+                    },
+                    {
                         "name": "Silage Wagon",
                         "url": "https://www.rbauction.it/cp/silage-wagon",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/14068090604-L.jpg/b17080c7b863307991f7daf392111839/14068090604-L.jpg"
-                    },
-                    {
-                        "name": "Silage Cutter",
-                        "url": "https://www.rbauction.it/cp/silage-cutter",
-                        "image_url": "NO IMAGE URL"
                     },
                     {
                         "name": "Silage Distributor",
@@ -5951,14 +5916,14 @@
                         "image_url": "NO IMAGE URL"
                     },
                     {
-                        "name": "Manure Tank",
-                        "url": "https://www.rbauction.it/cp/manure-tank",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/13728710372-L.jpg/5e220320b6dd150e62dbf9724307ce13/13728710372-L.jpg"
-                    },
-                    {
                         "name": "Liquid Manure Applicator",
                         "url": "https://www.rbauction.it/cp/liquid-manure-applicator",
                         "image_url": "NO IMAGE URL"
+                    },
+                    {
+                        "name": "Manure Tank",
+                        "url": "https://www.rbauction.it/cp/manure-tank",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/13728710372-L.jpg/5e220320b6dd150e62dbf9724307ce13/13728710372-L.jpg"
                     },
                     {
                         "name": "Liquid Manure Spreader",
@@ -5984,26 +5949,6 @@
                         "name": "Manure Separator",
                         "url": "https://www.rbauction.it/cp/manure-separator",
                         "image_url": "NO IMAGE URL"
-                    }
-                ]
-            },
-            {
-                "name": "Irrigation Equipment",
-                "subcategories": [
-                    {
-                        "name": "Misc. Irrigation Equipment",
-                        "url": "https://www.rbauction.it/cp/misc-irrigation-equipment",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/3507731B-634E-3C54-AFDC-F862C9C4DBF7/b018b63725cc56d568d053e5927f3779/_Misc._Irrigation_Equipment"
-                    },
-                    {
-                        "name": "Filtration System",
-                        "url": "https://www.rbauction.it/cp/filtration-system",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/13946116993-L.jpg/e5bb5ebae4211d9f2b5e208e0d04ed96/13946116993-L.jpg"
-                    },
-                    {
-                        "name": "Irrigation Hose Reel",
-                        "url": "https://www.rbauction.it/cp/irrigation-hose-reel",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/2FEE57BA-DF04-3D53-8B67-A04E88566A49/3950f9c268dd521a198cebc3c325dd00/Irrigation_Hose_Reel"
                     }
                 ]
             },
@@ -6053,12 +5998,22 @@
                 ]
             },
             {
-                "name": "Cart Trailers",
+                "name": "Irrigation Equipment",
                 "subcategories": [
                     {
-                        "name": "Cart Trailer",
-                        "url": "https://www.rbauction.it/cp/cart-trailer",
-                        "image_url": "NO IMAGE URL"
+                        "name": "Filtration System",
+                        "url": "https://www.rbauction.it/cp/filtration-system",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/13946116993-L.jpg/e5bb5ebae4211d9f2b5e208e0d04ed96/13946116993-L.jpg"
+                    },
+                    {
+                        "name": "Misc. Irrigation Equipment",
+                        "url": "https://www.rbauction.it/cp/misc-irrigation-equipment",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/3507731B-634E-3C54-AFDC-F862C9C4DBF7/b018b63725cc56d568d053e5927f3779/_Misc._Irrigation_Equipment"
+                    },
+                    {
+                        "name": "Irrigation Hose Reel",
+                        "url": "https://www.rbauction.it/cp/irrigation-hose-reel",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/2FEE57BA-DF04-3D53-8B67-A04E88566A49/3950f9c268dd521a198cebc3c325dd00/Irrigation_Hose_Reel"
                     }
                 ]
             },
@@ -6079,6 +6034,16 @@
                         "name": "Potato Planter",
                         "url": "https://www.rbauction.it/cp/potato-planter",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/90490395-7C37-34E1-A974-ADD830A46AB1/3b4997f3990a4bbf6b934b7817a0d916/Potato_Planter"
+                    }
+                ]
+            },
+            {
+                "name": "Cart Trailers",
+                "subcategories": [
+                    {
+                        "name": "Cart Trailer",
+                        "url": "https://www.rbauction.it/cp/cart-trailer",
+                        "image_url": "NO IMAGE URL"
                     }
                 ]
             },
@@ -6123,16 +6088,6 @@
                 ]
             },
             {
-                "name": "Livestock",
-                "subcategories": [
-                    {
-                        "name": "Misc. Livestock",
-                        "url": "https://www.rbauction.it/cp/misc-livestock",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/DBC6F3B9-5A15-3298-9F00-23F040CE9FD7/a793c5190e9600773739f68ce863137f/_Misc._Livestock"
-                    }
-                ]
-            },
-            {
                 "name": "Row Crop Equipment",
                 "subcategories": [
                     {
@@ -6144,6 +6099,16 @@
                         "name": "Strip-Tiller",
                         "url": "https://www.rbauction.it/cp/strip-tiller",
                         "image_url": "NO IMAGE URL"
+                    }
+                ]
+            },
+            {
+                "name": "Livestock",
+                "subcategories": [
+                    {
+                        "name": "Misc. Livestock",
+                        "url": "https://www.rbauction.it/cp/misc-livestock",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/DBC6F3B9-5A15-3298-9F00-23F040CE9FD7/a793c5190e9600773739f68ce863137f/_Misc._Livestock"
                     }
                 ]
             },
@@ -6433,6 +6398,16 @@
                 ]
             },
             {
+                "name": "Rough Terrain Forklifts",
+                "subcategories": [
+                    {
+                        "name": "Rough Terrain Forklift",
+                        "url": "https://www.rbauction.it/cp/rough-terrain-forklift",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/2cLzawCpzenVp4AKJzrEvG/97134b1ebb222554a95b795a1b49c2d8/Line_81_-_Rough_Terrain_Forklifts.jpg"
+                    }
+                ]
+            },
+            {
                 "name": "Forklift Attachments",
                 "subcategories": [
                     {
@@ -6444,16 +6419,6 @@
                         "name": "Lift Truck Forks",
                         "url": "https://www.rbauction.it/cp/lift-truck-forks",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/11611100337-L.jpg/4be71b6237d5c2f19af6898a0eb3c6f6/11611100337-L.jpg"
-                    }
-                ]
-            },
-            {
-                "name": "Rough Terrain Forklifts",
-                "subcategories": [
-                    {
-                        "name": "Rough Terrain Forklift",
-                        "url": "https://www.rbauction.it/cp/rough-terrain-forklift",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/2cLzawCpzenVp4AKJzrEvG/97134b1ebb222554a95b795a1b49c2d8/Line_81_-_Rough_Terrain_Forklifts.jpg"
                     }
                 ]
             },
@@ -6591,14 +6556,19 @@
                         "image_url": "NO IMAGE URL"
                     },
                     {
+                        "name": "Coal Crusher",
+                        "url": "https://www.rbauction.it/cp/coal-crusher",
+                        "image_url": "NO IMAGE URL"
+                    },
+                    {
+                        "name": "Roll Crusher",
+                        "url": "https://www.rbauction.it/cp/roll-crusher",
+                        "image_url": "NO IMAGE URL"
+                    },
+                    {
                         "name": "Misc. Crusher",
                         "url": "https://www.rbauction.it/cp/misc-crusher",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/90400DCA-4E3A-3B61-A9F8-34A58AC35FD4/dda1a905c9227f7dd00cfab2d7457f79/_Misc._Crusher"
-                    },
-                    {
-                        "name": "Hammermill",
-                        "url": "https://www.rbauction.it/cp/hammermill",
-                        "image_url": "NO IMAGE URL"
                     },
                     {
                         "name": "Jaw and Roll Crushing Plant",
@@ -6663,11 +6633,6 @@
                     {
                         "name": "Dewatering Screen",
                         "url": "https://www.rbauction.it/cp/dewatering-screen",
-                        "image_url": "NO IMAGE URL"
-                    },
-                    {
-                        "name": "Material Washer",
-                        "url": "https://www.rbauction.it/cp/material-washer",
                         "image_url": "NO IMAGE URL"
                     }
                 ]
@@ -7086,6 +7051,11 @@
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/300762D2-9FD1-30B6-B16E-75C85547CFB6/ce0774f1a45d545f63cd96880a9bce76/Structural_Steel"
                     },
                     {
+                        "name": "Pumping Unit",
+                        "url": "https://www.rbauction.it/cp/pumping-unit",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/238A0A91-E596-3DFA-A384-76F9252C31B5/f261cc2aa5b5f1d0904c4a1fe131e770/Pumping_Unit"
+                    },
+                    {
                         "name": "Misc. Pigging Equipment",
                         "url": "https://www.rbauction.it/cp/misc-pigging-equipment",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/667B52B8-74D4-3C4B-9FBD-C09BABC2E16B/639658a0d49e7e73e2aa059af5819e0a/_Misc._Pigging_Equipment"
@@ -7096,11 +7066,6 @@
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/E24011B3-81DD-369A-BA9F-C116FB583989/2c41c59c40799ac90f19e8c7a7b5806e/Centrifugal_Pump"
                     },
                     {
-                        "name": "Pumping Unit",
-                        "url": "https://www.rbauction.it/cp/pumping-unit",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/238A0A91-E596-3DFA-A384-76F9252C31B5/f261cc2aa5b5f1d0904c4a1fe131e770/Pumping_Unit"
-                    },
-                    {
                         "name": "NG Compressor",
                         "url": "https://www.rbauction.it/cp/ng-compressor",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/77043121-35C3-310F-A423-B5CA1132FE5C/b5c665de67f4f0ee461989fbac7c1af6/NG_Compressor"
@@ -7109,6 +7074,11 @@
                         "name": "Pump Jack",
                         "url": "https://www.rbauction.it/cp/pump-jack",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/1218790031-L.jpg/a75767f848dc6039787ea2c87e6e61a2/1218790031-L.jpg"
+                    },
+                    {
+                        "name": "Heat Exchanger",
+                        "url": "https://www.rbauction.it/cp/heat-exchanger",
+                        "image_url": "NO IMAGE URL"
                     },
                     {
                         "name": "Gearbox",
@@ -7133,11 +7103,6 @@
                     {
                         "name": "Heater Treater",
                         "url": "https://www.rbauction.it/cp/heater-treater",
-                        "image_url": "NO IMAGE URL"
-                    },
-                    {
-                        "name": "Heat Exchanger",
-                        "url": "https://www.rbauction.it/cp/heat-exchanger",
                         "image_url": "NO IMAGE URL"
                     },
                     {
@@ -7498,21 +7463,21 @@
                 ]
             },
             {
-                "name": "Wireline and Slickline Equipment",
-                "subcategories": [
-                    {
-                        "name": "Misc. Wireline Equipment",
-                        "url": "https://www.rbauction.it/cp/misc-wireline-equipment",
-                        "image_url": "NO IMAGE URL"
-                    }
-                ]
-            },
-            {
                 "name": "Snubbing",
                 "subcategories": [
                     {
                         "name": "Stand Alone Hydraulic Snubbing Unit",
                         "url": "https://www.rbauction.it/cp/stand-alone-hydraulic-snubbing-unit",
+                        "image_url": "NO IMAGE URL"
+                    }
+                ]
+            },
+            {
+                "name": "Wireline and Slickline Equipment",
+                "subcategories": [
+                    {
+                        "name": "Misc. Wireline Equipment",
+                        "url": "https://www.rbauction.it/cp/misc-wireline-equipment",
                         "image_url": "NO IMAGE URL"
                     }
                 ]
@@ -7556,13 +7521,13 @@
                         "image_url": "NO IMAGE URL"
                     },
                     {
-                        "name": "Ammo Pouches and Cases",
-                        "url": "https://www.rbauction.it/cp/ammo-pouches-and-cases",
+                        "name": "Pouches and Cases",
+                        "url": "https://www.rbauction.it/cp/pouches-and-cases",
                         "image_url": "NO IMAGE URL"
                     },
                     {
-                        "name": "Pouches and Cases",
-                        "url": "https://www.rbauction.it/cp/pouches-and-cases",
+                        "name": "Ammo Pouches and Cases",
+                        "url": "https://www.rbauction.it/cp/ammo-pouches-and-cases",
                         "image_url": "NO IMAGE URL"
                     },
                     {
@@ -7623,6 +7588,16 @@
                 ]
             },
             {
+                "name": "Ammo Cans",
+                "subcategories": [
+                    {
+                        "name": "Misc. Ammo Cans",
+                        "url": "https://www.rbauction.it/cp/misc-ammo-cans",
+                        "image_url": "NO IMAGE URL"
+                    }
+                ]
+            },
+            {
                 "name": "HMMWV Parts",
                 "subcategories": [
                     {
@@ -7633,11 +7608,16 @@
                 ]
             },
             {
-                "name": "Ammo Cans",
+                "name": "Medium Tactical Vehicle (MTV)",
                 "subcategories": [
                     {
-                        "name": "Misc. Ammo Cans",
-                        "url": "https://www.rbauction.it/cp/misc-ammo-cans",
+                        "name": "MTV 6x6 Cargo Truck",
+                        "url": "https://www.rbauction.it/cp/mtv-6x6-cargo-truck",
+                        "image_url": "NO IMAGE URL"
+                    },
+                    {
+                        "name": "MTV 6x6 Tractor Truck",
+                        "url": "https://www.rbauction.it/cp/mtv-6x6-tractor-truck",
                         "image_url": "NO IMAGE URL"
                     }
                 ]
@@ -7663,21 +7643,6 @@
                     {
                         "name": "7 Ton 6x6 Cargo Truck",
                         "url": "https://www.rbauction.it/cp/7-ton-6x6-cargo-truck",
-                        "image_url": "NO IMAGE URL"
-                    }
-                ]
-            },
-            {
-                "name": "Medium Tactical Vehicle (MTV)",
-                "subcategories": [
-                    {
-                        "name": "MTV 6x6 Cargo Truck",
-                        "url": "https://www.rbauction.it/cp/mtv-6x6-cargo-truck",
-                        "image_url": "NO IMAGE URL"
-                    },
-                    {
-                        "name": "MTV 6x6 Tractor Truck",
-                        "url": "https://www.rbauction.it/cp/mtv-6x6-tractor-truck",
                         "image_url": "NO IMAGE URL"
                     }
                 ]
@@ -7728,16 +7693,6 @@
                 ]
             },
             {
-                "name": "2 1/2 Ton Cargo Trucks",
-                "subcategories": [
-                    {
-                        "name": "2 1/2 Ton 6x6 Cargo Truck",
-                        "url": "https://www.rbauction.it/cp/2-5-ton-6x6-cargo-truck",
-                        "image_url": "NO IMAGE URL"
-                    }
-                ]
-            },
-            {
                 "name": "Ammunition Trailers",
                 "subcategories": [
                     {
@@ -7754,6 +7709,16 @@
                         "name": "Misc. Antique Military Vehicle",
                         "url": "https://www.rbauction.it/cp/misc-antique-military-vehicle",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/50DDD5EB-0B19-3C40-8AE8-F0F5154357C2/b73b3dfe9d5d1d6615867784daec5fbe/_Misc._Antique_Military_Vehicle"
+                    }
+                ]
+            },
+            {
+                "name": "2 1/2 Ton Cargo Trucks",
+                "subcategories": [
+                    {
+                        "name": "2 1/2 Ton 6x6 Cargo Truck",
+                        "url": "https://www.rbauction.it/cp/2-5-ton-6x6-cargo-truck",
+                        "image_url": "NO IMAGE URL"
                     }
                 ]
             },
@@ -7821,14 +7786,14 @@
                 "name": "Logging Equipment",
                 "subcategories": [
                     {
-                        "name": "Misc. Logging Equipment",
-                        "url": "https://www.rbauction.it/cp/misc-logging-equipment",
-                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/8FFD7793-C327-3F96-851B-3F556C1CE302/0f8d0a9a16019762e3c83e83ac015db7/_Misc._Logging_Equipment"
-                    },
-                    {
                         "name": "Log Grapple",
                         "url": "https://www.rbauction.it/cp/log-grapple",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/13724867639-L.jpg/d9eaa51f267ed7c11b48988286322a54/13724867639-L.jpg"
+                    },
+                    {
+                        "name": "Misc. Logging Equipment",
+                        "url": "https://www.rbauction.it/cp/misc-logging-equipment",
+                        "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/8FFD7793-C327-3F96-851B-3F556C1CE302/0f8d0a9a16019762e3c83e83ac015db7/_Misc._Logging_Equipment"
                     },
                     {
                         "name": "Slasher",
@@ -7836,14 +7801,14 @@
                         "image_url": "NO IMAGE URL"
                     },
                     {
-                        "name": "Harvester Head",
-                        "url": "https://www.rbauction.it/cp/harvester-head",
-                        "image_url": "NO IMAGE URL"
-                    },
-                    {
                         "name": "Processing Head",
                         "url": "https://www.rbauction.it/cp/processing-head",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/12047221120-L.jpg/b4c527935e99085d8958c916efdea866/12047221120-L.jpg"
+                    },
+                    {
+                        "name": "Harvester Head",
+                        "url": "https://www.rbauction.it/cp/harvester-head",
+                        "image_url": "NO IMAGE URL"
                     }
                 ]
             },
@@ -7971,14 +7936,14 @@
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/6CA35166-60DF-3AA9-80D5-D27BE6C2385A/cef4b46d29bd768a64b69876e7968253/Ventilation_Fan"
                     },
                     {
-                        "name": "Shotcrete Sprayer",
-                        "url": "https://www.rbauction.it/cp/shotcrete-sprayer",
-                        "image_url": "NO IMAGE URL"
-                    },
-                    {
                         "name": "Underground Articulated Truck",
                         "url": "https://www.rbauction.it/cp/underground-articulated-truck",
                         "image_url": "https://images.ctfassets.net/ueyxw0p8lpyv/91605339-189E-324E-B76A-584394D6716D/746ff09d8de573cfb998724bc35bbab5/Underground_Articulated_Truck"
+                    },
+                    {
+                        "name": "Shotcrete Sprayer",
+                        "url": "https://www.rbauction.it/cp/shotcrete-sprayer",
+                        "image_url": "NO IMAGE URL"
                     },
                     {
                         "name": "Roof Bolter",

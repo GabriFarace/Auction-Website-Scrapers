@@ -1,0 +1,1477 @@
+[
+    {
+        "name": "BioPharma",
+        "url": "https://www.govdeals.com/biopharma",
+        "subcategories": [
+            {
+                "name": "Dental Equipment and Supplies",
+                "url": "https://www.govdeals.com/dental-equipment-supplies",
+                "subcategories": []
+            },
+            {
+                "name": "Laboratory Equipment",
+                "url": "https://www.govdeals.com/laboratory-equipment",
+                "subcategories": [
+                    {
+                        "name": "Laboratory Pumps and Tubing",
+                        "url": "https://www.govdeals.com/laboratory-pumps-tubing"
+                    }
+                ]
+            },
+            {
+                "name": "Medical Equipment and Supplies",
+                "url": "https://www.govdeals.com/medical-equipment-supplies",
+                "subcategories": [
+                    {
+                        "name": "First Aid",
+                        "url": "https://www.govdeals.com/first-aid"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Construction, Mining and Farming",
+        "url": "https://www.govdeals.com/construction-mining-farming",
+        "subcategories": [
+            {
+                "name": "Agricultural and Forestry Equipment",
+                "url": "https://www.govdeals.com/agricultural-forestry-equipment",
+                "subcategories": [
+                    {
+                        "name": "Agriculture Equip/Commodities",
+                        "url": "https://www.govdeals.com/agriculture-equip-commodities"
+                    },
+                    {
+                        "name": "Material Handling Equipment",
+                        "url": "https://www.govdeals.com/material-handling-equipment"
+                    },
+                    {
+                        "name": "Nursery/Horticulture/Landscaping",
+                        "url": "https://www.govdeals.com/nursery-horticulture-landscaping"
+                    },
+                    {
+                        "name": "Tractor - Farm",
+                        "url": "https://www.govdeals.com/tractor-farm"
+                    }
+                ]
+            },
+            {
+                "name": "Construction Components and Supplies",
+                "url": "https://www.govdeals.com/construction-components-supplies",
+                "subcategories": [
+                    {
+                        "name": "Builders Supplies",
+                        "url": "https://www.govdeals.com/builders-supplies"
+                    },
+                    {
+                        "name": "Flooring",
+                        "url": "https://www.govdeals.com/flooring"
+                    },
+                    {
+                        "name": "Lumber",
+                        "url": "https://www.govdeals.com/lumber"
+                    }
+                ]
+            },
+            {
+                "name": "Heavy Equipment and Construction",
+                "url": "https://www.govdeals.com/heavy-equipment-construction",
+                "subcategories": [
+                    {
+                        "name": "Articulated Dump Trucks",
+                        "url": "https://www.govdeals.com/articulated-dump-trucks"
+                    },
+                    {
+                        "name": "Backhoes",
+                        "url": "https://www.govdeals.com/backhoes"
+                    },
+                    {
+                        "name": "Compactors",
+                        "url": "https://www.govdeals.com/compactors"
+                    },
+                    {
+                        "name": "Construction Equipment, Miscellaneous",
+                        "url": "https://www.govdeals.com/construction-equipment-miscellaneous"
+                    },
+                    {
+                        "name": "Cranes",
+                        "url": "https://www.govdeals.com/cranes"
+                    },
+                    {
+                        "name": "Dozers",
+                        "url": "https://www.govdeals.com/dozers"
+                    },
+                    {
+                        "name": "Excavators",
+                        "url": "https://www.govdeals.com/excavators"
+                    },
+                    {
+                        "name": "Heavy Equipment Components and Accessories",
+                        "url": "https://www.govdeals.com/heavy-equipment-components-accessories"
+                    },
+                    {
+                        "name": "Loaders",
+                        "url": "https://www.govdeals.com/loaders"
+                    },
+                    {
+                        "name": "Motor Graders",
+                        "url": "https://www.govdeals.com/motor-graders"
+                    },
+                    {
+                        "name": "Scrapers",
+                        "url": "https://www.govdeals.com/scrapers"
+                    },
+                    {
+                        "name": "Skid Steers",
+                        "url": "https://www.govdeals.com/skid-steers"
+                    }
+                ]
+            },
+            {
+                "name": "Highway / Road Equipment",
+                "url": "https://www.govdeals.com/highway-road-equipment",
+                "subcategories": [
+                    {
+                        "name": "Asphalt Equipment",
+                        "url": "https://www.govdeals.com/asphalt-equipment"
+                    },
+                    {
+                        "name": "Highway Equipment",
+                        "url": "https://www.govdeals.com/highway-equipment"
+                    },
+                    {
+                        "name": "Road/Highway/Bridge Supplies",
+                        "url": "https://www.govdeals.com/road-highway-bridge-supplies"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Consumer Electronics",
+        "url": "https://www.govdeals.com/consumer-electronics",
+        "subcategories": [
+            {
+                "name": "Arcade Equipment",
+                "url": "https://www.govdeals.com/arcade-equipment",
+                "subcategories": [
+                    {
+                        "name": "Arcade Games",
+                        "url": "https://www.govdeals.com/arcade-games"
+                    }
+                ]
+            },
+            {
+                "name": "Audio/Visual Equipment",
+                "url": "https://www.govdeals.com/audio-visual-equipment",
+                "subcategories": [
+                    {
+                        "name": "Televisions",
+                        "url": "https://www.govdeals.com/televisions"
+                    }
+                ]
+            },
+            {
+                "name": "Computers, Parts, and Supplies",
+                "url": "https://www.govdeals.com/computers-parts-supplies",
+                "subcategories": [
+                    {
+                        "name": "Computer accessories",
+                        "url": "https://www.govdeals.com/computer-accessories"
+                    },
+                    {
+                        "name": "Computer Hardware",
+                        "url": "https://www.govdeals.com/computer-hardware"
+                    },
+                    {
+                        "name": "Computer Monitors",
+                        "url": "https://www.govdeals.com/computer-monitors"
+                    },
+                    {
+                        "name": "Computer Printers, Scanners, and Copiers",
+                        "url": "https://www.govdeals.com/computer-printers-scanners-copiers"
+                    },
+                    {
+                        "name": "Computers: Desktops and All-In-Ones",
+                        "url": "https://www.govdeals.com/computers-desktops-all-in-ones"
+                    },
+                    {
+                        "name": "Computers: Laptops",
+                        "url": "https://www.govdeals.com/computers-laptops"
+                    },
+                    {
+                        "name": "iPads, Tablets, and eReaders",
+                        "url": "https://www.govdeals.com/ipads-tablets-ereaders"
+                    },
+                    {
+                        "name": "Networking and Wireless Devices",
+                        "url": "https://www.govdeals.com/networking-wireless-devices"
+                    }
+                ]
+            },
+            {
+                "name": "Phones",
+                "url": "https://www.govdeals.com/phones",
+                "subcategories": [
+                    {
+                        "name": "Cell Phones",
+                        "url": "https://www.govdeals.com/cell-phones"
+                    }
+                ]
+            },
+            {
+                "name": "Photographic Equipment",
+                "url": "https://www.govdeals.com/photographic-equipment",
+                "subcategories": []
+            }
+        ]
+    },
+    {
+        "name": "Consumer Goods",
+        "url": "https://www.govdeals.com/consumer-goods",
+        "subcategories": [
+            {
+                "name": "Appliances and Furniture",
+                "url": "https://www.govdeals.com/appliances-furniture",
+                "subcategories": [
+                    {
+                        "name": "Furniture/Furnishings",
+                        "url": "https://www.govdeals.com/furniture-furnishings"
+                    }
+                ]
+            },
+            {
+                "name": "Arts, Crafts, and Collectibles",
+                "url": "https://www.govdeals.com/arts-crafts-collectibles",
+                "subcategories": [
+                    {
+                        "name": "Arts and Crafts",
+                        "url": "https://www.govdeals.com/arts-crafts"
+                    },
+                    {
+                        "name": "Coin Collections",
+                        "url": "https://www.govdeals.com/coin-collections"
+                    },
+                    {
+                        "name": "Collectibles",
+                        "url": "https://www.govdeals.com/collectibles"
+                    },
+                    {
+                        "name": "Fine Art",
+                        "url": "https://www.govdeals.com/fine-art"
+                    }
+                ]
+            },
+            {
+                "name": "Beauty and Personal Care",
+                "url": "https://www.govdeals.com/beauty-personal-care",
+                "subcategories": [
+                    {
+                        "name": "Health and Beauty",
+                        "url": "https://www.govdeals.com/health-beauty"
+                    }
+                ]
+            },
+            {
+                "name": "Books, Music, and Video",
+                "url": "https://www.govdeals.com/books-music-video",
+                "subcategories": [
+                    {
+                        "name": "Books/Manuals",
+                        "url": "https://www.govdeals.com/books-manuals"
+                    },
+                    {
+                        "name": "Music/Musical Equipment",
+                        "url": "https://www.govdeals.com/music-musical-equipment"
+                    }
+                ]
+            },
+            {
+                "name": "Clothing, Jewelry, and Accessories",
+                "url": "https://www.govdeals.com/clothing-jewelry-accessories",
+                "subcategories": [
+                    {
+                        "name": "Bags, All Types",
+                        "url": "https://www.govdeals.com/bags"
+                    },
+                    {
+                        "name": "Clothing/Linens",
+                        "url": "https://www.govdeals.com/clothing-linens"
+                    },
+                    {
+                        "name": "Jewelry and Watches",
+                        "url": "https://www.govdeals.com/jewelry-watches"
+                    }
+                ]
+            },
+            {
+                "name": "Fitness and Recreation Equipment",
+                "url": "https://www.govdeals.com/fitness-recreation-equipment",
+                "subcategories": [
+                    {
+                        "name": "Archery and Crossbows",
+                        "url": "https://www.govdeals.com/archery-crossbows"
+                    },
+                    {
+                        "name": "Bicycles",
+                        "url": "https://www.govdeals.com/bicycles"
+                    },
+                    {
+                        "name": "Exercise Equipment",
+                        "url": "https://www.govdeals.com/exercise-equipment"
+                    },
+                    {
+                        "name": "Sporting Equipment",
+                        "url": "https://www.govdeals.com/sporting-equipment"
+                    }
+                ]
+            },
+            {
+                "name": "Food",
+                "url": "https://www.govdeals.com/food",
+                "subcategories": [
+                    {
+                        "name": "Ready Meals and Frozen food",
+                        "url": "https://www.govdeals.com/ready-meals-frozen-food"
+                    }
+                ]
+            },
+            {
+                "name": "General Merchandise",
+                "url": "https://www.govdeals.com/general-merchandise",
+                "subcategories": [
+                    {
+                        "name": "Animal Equipment, Cages and Feed",
+                        "url": "https://www.govdeals.com/animal-equipment-cages-feed"
+                    },
+                    {
+                        "name": "Commodities / General Merchandise",
+                        "url": "https://www.govdeals.com/commodities-general-merchandise"
+                    },
+                    {
+                        "name": "Displays and Exhibit Stands",
+                        "url": "https://www.govdeals.com/displays-exhibit-stands"
+                    },
+                    {
+                        "name": "Election Equipment",
+                        "url": "https://www.govdeals.com/election-equipment"
+                    },
+                    {
+                        "name": "Glass",
+                        "url": "https://www.govdeals.com/glass"
+                    },
+                    {
+                        "name": "Holiday/Seasonal Items",
+                        "url": "https://www.govdeals.com/holiday-seasonal-items"
+                    },
+                    {
+                        "name": "Pool Supplies and Equipment",
+                        "url": "https://www.govdeals.com/pool-supplies-equipment"
+                    }
+                ]
+            },
+            {
+                "name": "Home and Garden",
+                "url": "https://www.govdeals.com/home-garden",
+                "subcategories": [
+                    {
+                        "name": "Clocks",
+                        "url": "https://www.govdeals.com/clocks"
+                    },
+                    {
+                        "name": "Lighting/Fixtures",
+                        "url": "https://www.govdeals.com/lighting-fixtures"
+                    },
+                    {
+                        "name": "Outdoor Living",
+                        "url": "https://www.govdeals.com/outdoor-living"
+                    }
+                ]
+            },
+            {
+                "name": "Kitchen Equipment",
+                "url": "https://www.govdeals.com/kitchen-equipment",
+                "subcategories": [
+                    {
+                        "name": "Consumer Kitchen",
+                        "url": "https://www.govdeals.com/consumer-kitchen"
+                    }
+                ]
+            },
+            {
+                "name": "Knives / Multi-Tools",
+                "url": "https://www.govdeals.com/knives-multi-tools",
+                "subcategories": []
+            },
+            {
+                "name": "Office Furniture and Equipment",
+                "url": "https://www.govdeals.com/office-furniture-equipment",
+                "subcategories": [
+                    {
+                        "name": "Communication/Electronic Equipment",
+                        "url": "https://www.govdeals.com/communication-electronic-equipment"
+                    },
+                    {
+                        "name": "Office Equipment/Supplies",
+                        "url": "https://www.govdeals.com/office-equipment-supplies"
+                    }
+                ]
+            },
+            {
+                "name": "Other Consumer Electronics",
+                "url": "https://www.govdeals.com/other-consumer-electronics",
+                "subcategories": [
+                    {
+                        "name": "Electronics, Personal",
+                        "url": "https://www.govdeals.com/personal-electronics"
+                    }
+                ]
+            },
+            {
+                "name": "Tools (Non-Industrial)",
+                "url": "https://www.govdeals.com/tools-non-industrial",
+                "subcategories": [
+                    {
+                        "name": "Plumbing Equipment and Supplies",
+                        "url": "https://www.govdeals.com/plumbing-equipment-supplies"
+                    },
+                    {
+                        "name": "Tools, All Types",
+                        "url": "https://www.govdeals.com/tools"
+                    }
+                ]
+            },
+            {
+                "name": "Vending Equipment",
+                "url": "https://www.govdeals.com/vending-equipment",
+                "subcategories": []
+            }
+        ]
+    },
+    {
+        "name": "Educational Equipment",
+        "url": "https://www.govdeals.com/educational-equipment",
+        "subcategories": [
+            {
+                "name": "Education and Library Equipment",
+                "url": "https://www.govdeals.com/education-library-equipment",
+                "subcategories": [
+                    {
+                        "name": "Educational",
+                        "url": "https://www.govdeals.com/educational"
+                    },
+                    {
+                        "name": "Library Equipment",
+                        "url": "https://www.govdeals.com/library-equipment"
+                    },
+                    {
+                        "name": "School Equipment",
+                        "url": "https://www.govdeals.com/school-equipment"
+                    },
+                    {
+                        "name": "Simulators",
+                        "url": "https://www.govdeals.com/simulators"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Energy Equipment",
+        "url": "https://www.govdeals.com/energy-equipment",
+        "subcategories": [
+            {
+                "name": "Compression Equipment",
+                "url": "https://www.govdeals.com/compression-equipment",
+                "subcategories": [
+                    {
+                        "name": "Compressors",
+                        "url": "https://www.govdeals.com/compressors"
+                    }
+                ]
+            },
+            {
+                "name": "Industrial Process and Production Equipment",
+                "url": "https://www.govdeals.com/industrial-process-production-equipment",
+                "subcategories": [
+                    {
+                        "name": "Chemicals, All Types",
+                        "url": "https://www.govdeals.com/chemicals-all-types"
+                    },
+                    {
+                        "name": "Pulp, Paper, Paperboard Production",
+                        "url": "https://www.govdeals.com/pulp-paper-paperboard-production"
+                    },
+                    {
+                        "name": "Pump",
+                        "url": "https://www.govdeals.com/pump"
+                    },
+                    {
+                        "name": "Tanks",
+                        "url": "https://www.govdeals.com/tanks"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Industrial, Commercial Equipment",
+        "url": "https://www.govdeals.com/industrial-commercial-equipment",
+        "subcategories": [
+            {
+                "name": "Building Maintenance",
+                "url": "https://www.govdeals.com/building-maintenance",
+                "subcategories": [
+                    {
+                        "name": "Janitorial Equipment",
+                        "url": "https://www.govdeals.com/janitorial-equipment"
+                    }
+                ]
+            },
+            {
+                "name": "Commercial Food Service & Cafeteria Equipment",
+                "url": "https://www.govdeals.com/commercial-food-service-cafeteria-equipment",
+                "subcategories": [
+                    {
+                        "name": "Food Prep",
+                        "url": "https://www.govdeals.com/food-prep"
+                    },
+                    {
+                        "name": "Food Storage",
+                        "url": "https://www.govdeals.com/food-storage"
+                    },
+                    {
+                        "name": "Tables, Counters, Serving Bars",
+                        "url": "https://www.govdeals.com/tables-counters-serving-bars"
+                    }
+                ]
+            },
+            {
+                "name": "Factory Support Equipment",
+                "url": "https://www.govdeals.com/factory-support-equipment",
+                "subcategories": [
+                    {
+                        "name": "Air handling",
+                        "url": "https://www.govdeals.com/air-handling"
+                    },
+                    {
+                        "name": "Containers - Storage/Shipping",
+                        "url": "https://www.govdeals.com/shipping-storage-containers"
+                    },
+                    {
+                        "name": "Heating and Ventilation",
+                        "url": "https://www.govdeals.com/heating-ventilation"
+                    },
+                    {
+                        "name": "Materials handling-Craneage",
+                        "url": "https://www.govdeals.com/materials-handling-craneage"
+                    }
+                ]
+            },
+            {
+                "name": "Food and Beverage Process and Production Equipment",
+                "url": "https://www.govdeals.com/food-beverage-process-production-equipment",
+                "subcategories": [
+                    {
+                        "name": "Bakery Equipment",
+                        "url": "https://www.govdeals.com/bakery-equipment"
+                    },
+                    {
+                        "name": "Dairy Equipment",
+                        "url": "https://www.govdeals.com/dairy-equipment"
+                    },
+                    {
+                        "name": "Food Process Equipment",
+                        "url": "https://www.govdeals.com/food-process-equipment"
+                    },
+                    {
+                        "name": "Meat and Poultry and Seafood Processing",
+                        "url": "https://www.govdeals.com/meat-poultry-seafood-processing"
+                    },
+                    {
+                        "name": "Process and Production Support Equipment",
+                        "url": "https://www.govdeals.com/process-production-support-equipment"
+                    }
+                ]
+            },
+            {
+                "name": "Industrial Equipment, General",
+                "url": "https://www.govdeals.com/general-industrial-equipment",
+                "subcategories": [
+                    {
+                        "name": "Batteries, All Types",
+                        "url": "https://www.govdeals.com/batteries"
+                    },
+                    {
+                        "name": "Electrical Supplies",
+                        "url": "https://www.govdeals.com/electrical-supplies"
+                    },
+                    {
+                        "name": "Engineering Equipment and Supplies",
+                        "url": "https://www.govdeals.com/engineering-equipment-supplies"
+                    },
+                    {
+                        "name": "Garbage and Refuse Containers",
+                        "url": "https://www.govdeals.com/garbage-refuse-containers"
+                    },
+                    {
+                        "name": "HVAC Equipment",
+                        "url": "https://www.govdeals.com/hvac-equipment"
+                    },
+                    {
+                        "name": "Industrial Robots",
+                        "url": "https://www.govdeals.com/industrial-robots"
+                    },
+                    {
+                        "name": "Laundry Equipment",
+                        "url": "https://www.govdeals.com/laundry-equipment"
+                    },
+                    {
+                        "name": "Mailing Equipment",
+                        "url": "https://www.govdeals.com/mailing-equipment"
+                    },
+                    {
+                        "name": "Pipe, Valves, and Fittings, Industrial",
+                        "url": "https://www.govdeals.com/pipe-valves-fittings-industrial"
+                    }
+                ]
+            },
+            {
+                "name": "Industrial Pumps and Compressors",
+                "url": "https://www.govdeals.com/industrial-pumps-compressors",
+                "subcategories": [
+                    {
+                        "name": "Compressor Parts and Accessories",
+                        "url": "https://www.govdeals.com/compressor-parts-accessories"
+                    },
+                    {
+                        "name": "Industrial Compressors",
+                        "url": "https://www.govdeals.com/industrial-compressors"
+                    },
+                    {
+                        "name": "Industrial Pumps",
+                        "url": "https://www.govdeals.com/industrial-pumps"
+                    }
+                ]
+            },
+            {
+                "name": "Packaging, Bottling, Converting",
+                "url": "https://www.govdeals.com/packaging-bottling-converting",
+                "subcategories": [
+                    {
+                        "name": "Consumer Packaged Goods Equipment",
+                        "url": "https://www.govdeals.com/consumer-packaged-goods-equipment"
+                    },
+                    {
+                        "name": "Food Packaging Equipment",
+                        "url": "https://www.govdeals.com/food-packaging-equipment"
+                    },
+                    {
+                        "name": "General Packaging Equipment",
+                        "url": "https://www.govdeals.com/general-packaging-equipment"
+                    }
+                ]
+            },
+            {
+                "name": "Parks and Ground Maintenance",
+                "url": "https://www.govdeals.com/parks-ground-maintenance",
+                "subcategories": [
+                    {
+                        "name": "Golf Carts",
+                        "url": "https://www.govdeals.com/golf-carts"
+                    },
+                    {
+                        "name": "Golf Course Equipment",
+                        "url": "https://www.govdeals.com/golf-course-equipment"
+                    },
+                    {
+                        "name": "Mowing Equipment",
+                        "url": "https://www.govdeals.com/mowing-equipment"
+                    },
+                    {
+                        "name": "Playground / Amusement Park Equipment",
+                        "url": "https://www.govdeals.com/playground-amusement-park-equipment"
+                    }
+                ]
+            },
+            {
+                "name": "Power Generation, Transmission, and Distribution Equipment",
+                "url": "https://www.govdeals.com/power-generation-transmission-distribution-equipment",
+                "subcategories": [
+                    {
+                        "name": "Electric Motors",
+                        "url": "https://www.govdeals.com/electric-motors"
+                    },
+                    {
+                        "name": "Generators",
+                        "url": "https://www.govdeals.com/generators"
+                    },
+                    {
+                        "name": "Transformers and Power Distribution",
+                        "url": "https://www.govdeals.com/transformers-power-distribution"
+                    },
+                    {
+                        "name": "Wind and Solar Energy generation",
+                        "url": "https://www.govdeals.com/wind-solar-energy-generation"
+                    }
+                ]
+            },
+            {
+                "name": "Printing and Binding Equipment",
+                "url": "https://www.govdeals.com/printing-binding-equipment",
+                "subcategories": []
+            },
+            {
+                "name": "Public Utility Equipment",
+                "url": "https://www.govdeals.com/public-utility-equipment",
+                "subcategories": []
+            },
+            {
+                "name": "Specialized Machinery",
+                "url": "https://www.govdeals.com/specialized-machinery",
+                "subcategories": [
+                    {
+                        "name": "Automotive Assembly",
+                        "url": "https://www.govdeals.com/automotive-assembly"
+                    },
+                    {
+                        "name": "Barber and Beauty Shop Equipment",
+                        "url": "https://www.govdeals.com/barber-beauty-shop-equipment"
+                    },
+                    {
+                        "name": "Fueling Equipment",
+                        "url": "https://www.govdeals.com/fueling-equipment"
+                    },
+                    {
+                        "name": "Gambling Machines and Equipment",
+                        "url": "https://www.govdeals.com/gambling-machines-equipment"
+                    },
+                    {
+                        "name": "Machinery",
+                        "url": "https://www.govdeals.com/machinery"
+                    },
+                    {
+                        "name": "Scales and Weighing Apparatus",
+                        "url": "https://www.govdeals.com/scales-weighing-apparatus"
+                    },
+                    {
+                        "name": "Survey Equipment",
+                        "url": "https://www.govdeals.com/survey-equipment"
+                    }
+                ]
+            },
+            {
+                "name": "Warehouse and Material Handling Equipment",
+                "url": "https://www.govdeals.com/warehouse-material-handling-equipment",
+                "subcategories": [
+                    {
+                        "name": "Forklifts",
+                        "url": "https://www.govdeals.com/forklifts"
+                    },
+                    {
+                        "name": "Overhead Cranes",
+                        "url": "https://www.govdeals.com/overhead-cranes"
+                    }
+                ]
+            },
+            {
+                "name": "Woodworking Machinery",
+                "url": "https://www.govdeals.com/woodworking-machinery",
+                "subcategories": [
+                    {
+                        "name": "Woodworking Equipment",
+                        "url": "https://www.govdeals.com/woodworking-equipment"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Metalworking Equipment",
+        "url": "https://www.govdeals.com/metalworking-equipment",
+        "subcategories": [
+            {
+                "name": "Bending & Forming",
+                "url": "https://www.govdeals.com/bending-forming",
+                "subcategories": [
+                    {
+                        "name": "Tube, Pipe, Wire Benders",
+                        "url": "https://www.govdeals.com/tube-pipe-wire-benders"
+                    }
+                ]
+            },
+            {
+                "name": "Cable & Wire Manufacturing",
+                "url": "https://www.govdeals.com/cable-wire-manufacturing",
+                "subcategories": [
+                    {
+                        "name": "Cable & Wire Equipment",
+                        "url": "https://www.govdeals.com/cable-wire-equipment"
+                    }
+                ]
+            },
+            {
+                "name": "Cutting",
+                "url": "https://www.govdeals.com/cutting",
+                "subcategories": [
+                    {
+                        "name": "Band Saws",
+                        "url": "https://www.govdeals.com/band-saws"
+                    },
+                    {
+                        "name": "Cut Off Saws",
+                        "url": "https://www.govdeals.com/cut-off-saws"
+                    },
+                    {
+                        "name": "Cutters, Miscellaneous",
+                        "url": "https://www.govdeals.com/cutters-miscellaneous"
+                    },
+                    {
+                        "name": "Laser Cutters",
+                        "url": "https://www.govdeals.com/laser-cutters"
+                    },
+                    {
+                        "name": "Metal Cutting Machines",
+                        "url": "https://www.govdeals.com/metal-cutting-machines"
+                    },
+                    {
+                        "name": "Sawing Machines",
+                        "url": "https://www.govdeals.com/sawing-machines"
+                    }
+                ]
+            },
+            {
+                "name": "Drilling & Boring",
+                "url": "https://www.govdeals.com/drilling-boring",
+                "subcategories": [
+                    {
+                        "name": "Drilling & Boring, Miscellaneous",
+                        "url": "https://www.govdeals.com/drilling-boring-miscellaneous"
+                    }
+                ]
+            },
+            {
+                "name": "Grinding",
+                "url": "https://www.govdeals.com/grinding",
+                "subcategories": [
+                    {
+                        "name": "Grinders, Miscellaneous",
+                        "url": "https://www.govdeals.com/grinders-miscellaneous"
+                    },
+                    {
+                        "name": "Tool and Cutter Grinders",
+                        "url": "https://www.govdeals.com/tool-cutter-grinders"
+                    }
+                ]
+            },
+            {
+                "name": "Heat Treatment",
+                "url": "https://www.govdeals.com/heat-treatment",
+                "subcategories": [
+                    {
+                        "name": "Heat Treatment, Miscellaneous",
+                        "url": "https://www.govdeals.com/heat-treatment-miscellaneous"
+                    }
+                ]
+            },
+            {
+                "name": "Inspection, Test & Measurement",
+                "url": "https://www.govdeals.com/inspection-test-measurement",
+                "subcategories": [
+                    {
+                        "name": "Non-Destructive Testing",
+                        "url": "https://www.govdeals.com/non-destructive-testing"
+                    }
+                ]
+            },
+            {
+                "name": "Metalworking, Miscellaneous",
+                "url": "https://www.govdeals.com/metalworking-miscellaneous",
+                "subcategories": [
+                    {
+                        "name": "Metalworking Equipment, Miscellaneous",
+                        "url": "https://www.govdeals.com/metalworking-equipment-miscellaneous"
+                    }
+                ]
+            },
+            {
+                "name": "Milling",
+                "url": "https://www.govdeals.com/milling",
+                "subcategories": [
+                    {
+                        "name": "Mills, Miscellaneous",
+                        "url": "https://www.govdeals.com/mills-miscellaneous"
+                    },
+                    {
+                        "name": "Turret Mills",
+                        "url": "https://www.govdeals.com/turret-mills"
+                    }
+                ]
+            },
+            {
+                "name": "Presses",
+                "url": "https://www.govdeals.com/presses",
+                "subcategories": [
+                    {
+                        "name": "General Workshop Presses",
+                        "url": "https://www.govdeals.com/general-workshop-presses"
+                    }
+                ]
+            },
+            {
+                "name": "Surface Treatment",
+                "url": "https://www.govdeals.com/surface-treatment",
+                "subcategories": [
+                    {
+                        "name": "Blasting - Shot, Sand, Etc.",
+                        "url": "https://www.govdeals.com/blasting-shot-sand-etc"
+                    },
+                    {
+                        "name": "Cleaning & Degreasing",
+                        "url": "https://www.govdeals.com/cleaning-degreasing"
+                    },
+                    {
+                        "name": "Painting",
+                        "url": "https://www.govdeals.com/painting"
+                    }
+                ]
+            },
+            {
+                "name": "Tooling",
+                "url": "https://www.govdeals.com/tooling",
+                "subcategories": [
+                    {
+                        "name": "Drill Tooling",
+                        "url": "https://www.govdeals.com/drill-tooling"
+                    },
+                    {
+                        "name": "Tool Holders",
+                        "url": "https://www.govdeals.com/tool-holders"
+                    },
+                    {
+                        "name": "Tooling, Miscellaneous",
+                        "url": "https://www.govdeals.com/tooling-miscellaneous"
+                    }
+                ]
+            },
+            {
+                "name": "Turning",
+                "url": "https://www.govdeals.com/turning",
+                "subcategories": [
+                    {
+                        "name": "Lathes, CNC & Turning Centers",
+                        "url": "https://www.govdeals.com/lathes-cnc-turning-centers"
+                    },
+                    {
+                        "name": "Lathes, Conventional",
+                        "url": "https://www.govdeals.com/lathes-conventional"
+                    }
+                ]
+            },
+            {
+                "name": "Welding",
+                "url": "https://www.govdeals.com/welding",
+                "subcategories": [
+                    {
+                        "name": "Fume Extractors",
+                        "url": "https://www.govdeals.com/fume-extractors"
+                    },
+                    {
+                        "name": "MIG Welders",
+                        "url": "https://www.govdeals.com/mig-welders"
+                    },
+                    {
+                        "name": "Spot Welders",
+                        "url": "https://www.govdeals.com/spot-welders"
+                    },
+                    {
+                        "name": "Stick Welders",
+                        "url": "https://www.govdeals.com/stick-welders"
+                    },
+                    {
+                        "name": "Sub Arc Welders",
+                        "url": "https://www.govdeals.com/sub-arc-welders"
+                    },
+                    {
+                        "name": "Welding Supplies",
+                        "url": "https://www.govdeals.com/welding-supplies"
+                    },
+                    {
+                        "name": "Welding, Miscellaneous ",
+                        "url": "https://www.govdeals.com/welding-miscellaneous"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Public and Personal Safety",
+        "url": "https://www.govdeals.com/public-personal-safety",
+        "subcategories": [
+            {
+                "name": "Public Safety and Control",
+                "url": "https://www.govdeals.com/public-safety-control",
+                "subcategories": [
+                    {
+                        "name": "Fire and Police Equipment",
+                        "url": "https://www.govdeals.com/fire-police-equipment"
+                    },
+                    {
+                        "name": "Traffic Signals and Controls",
+                        "url": "https://www.govdeals.com/traffic-signals-controls"
+                    }
+                ]
+            },
+            {
+                "name": "Security Surveillance and Detection",
+                "url": "https://www.govdeals.com/security-surveillance-detection",
+                "subcategories": [
+                    {
+                        "name": "Alarm and Fire Protection Systems",
+                        "url": "https://www.govdeals.com/alarm-fire-protection-systems"
+                    },
+                    {
+                        "name": "Firearm Accessories",
+                        "url": "https://www.govdeals.com/firearm-accessories"
+                    },
+                    {
+                        "name": "Firearms and Live Ammunition",
+                        "url": "https://www.govdeals.com/firearms-live-ammunition"
+                    },
+                    {
+                        "name": "Security Equipment",
+                        "url": "https://www.govdeals.com/security-equipment"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Real Estate, Buildings, Structures",
+        "url": "https://www.govdeals.com/real-estate-buildings-structures",
+        "subcategories": [
+            {
+                "name": "Permanent Buildings",
+                "url": "https://www.govdeals.com/permanent-buildings",
+                "subcategories": []
+            },
+            {
+                "name": "Portable Buildings and structures ",
+                "url": "https://www.govdeals.com/portable-buildings-structures",
+                "subcategories": [
+                    {
+                        "name": "Grandstands and bleachers",
+                        "url": "https://www.govdeals.com/grandstands-bleachers"
+                    }
+                ]
+            },
+            {
+                "name": "Real Estate / Land Parcels",
+                "url": "https://www.govdeals.com/real-estate-land-parcels",
+                "subcategories": [
+                    {
+                        "name": "Buildings",
+                        "url": "https://www.govdeals.com/buildings"
+                    },
+                    {
+                        "name": "Commercial Property",
+                        "url": "https://www.govdeals.com/commercial-property"
+                    },
+                    {
+                        "name": "Other Real Estate",
+                        "url": "https://www.govdeals.com/other-real-estate"
+                    },
+                    {
+                        "name": "Single Family Property - Residential",
+                        "url": "https://www.govdeals.com/single-family-property-residential"
+                    },
+                    {
+                        "name": "Vacant Land - Agricultural",
+                        "url": "https://www.govdeals.com/vacant-land-agricultural"
+                    },
+                    {
+                        "name": "Vacant Land - Residential",
+                        "url": "https://www.govdeals.com/vacant-land-residential"
+                    }
+                ]
+            },
+            {
+                "name": "Real Estate Tax Deed and Lien Sales",
+                "url": "https://www.govdeals.com/real-estate-tax-deed-lien-sales",
+                "subcategories": [
+                    {
+                        "name": "Real Estate Tax Liquidations",
+                        "url": "https://www.govdeals.com/real-estate-tax-liquidations"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Recovery",
+        "url": "https://www.govdeals.com/recovery",
+        "subcategories": [
+            {
+                "name": "Confiscated/Forfeited/Personal Property",
+                "url": "https://www.govdeals.com/confiscated-forfeited-personal-property",
+                "subcategories": [
+                    {
+                        "name": "Currency and Financial Products",
+                        "url": "https://www.govdeals.com/currency-financial-products"
+                    }
+                ]
+            },
+            {
+                "name": "Lost/Abandoned Property",
+                "url": "https://www.govdeals.com/lost-abandoned-property",
+                "subcategories": []
+            },
+            {
+                "name": "Recovered Items",
+                "url": "https://www.govdeals.com/recovered-items",
+                "subcategories": []
+            }
+        ]
+    },
+    {
+        "name": "Scrap",
+        "url": "https://www.govdeals.com/scrap",
+        "subcategories": [
+            {
+                "name": "Metal, Scrap",
+                "url": "https://www.govdeals.com/scrap-metal",
+                "subcategories": []
+            },
+            {
+                "name": "Other Recyclables",
+                "url": "https://www.govdeals.com/other-recyclables",
+                "subcategories": [
+                    {
+                        "name": "Barrels and Drums",
+                        "url": "https://www.govdeals.com/barrels-drums"
+                    },
+                    {
+                        "name": "Paper and Paper Products",
+                        "url": "https://www.govdeals.com/paper-paper-products"
+                    },
+                    {
+                        "name": "Recyclable Materials",
+                        "url": "https://www.govdeals.com/recyclable-materials"
+                    }
+                ]
+            },
+            {
+                "name": "Other Scrap",
+                "url": "https://www.govdeals.com/other-scrap",
+                "subcategories": []
+            }
+        ]
+    },
+    {
+        "name": "Transportation",
+        "url": "https://www.govdeals.com/transportation",
+        "subcategories": [
+            {
+                "name": "Aviation",
+                "url": "https://www.govdeals.com/aviation",
+                "subcategories": [
+                    {
+                        "name": "Aircraft",
+                        "url": "https://www.govdeals.com/aircraft"
+                    },
+                    {
+                        "name": "Aircraft Engines",
+                        "url": "https://www.govdeals.com/aircraft-engines"
+                    },
+                    {
+                        "name": "Aviation Ground Support Equipment",
+                        "url": "https://www.govdeals.com/aviation-ground-support-equipment"
+                    }
+                ]
+            },
+            {
+                "name": "Marine",
+                "url": "https://www.govdeals.com/marine",
+                "subcategories": [
+                    {
+                        "name": "Boats, Marine Vessels and Supplies",
+                        "url": "https://www.govdeals.com/boats-marine-vessels-supplies"
+                    }
+                ]
+            },
+            {
+                "name": "Passenger Vehicles",
+                "url": "https://www.govdeals.com/passenger-vehicles",
+                "subcategories": [
+                    {
+                        "name": "Automobiles/Cars",
+                        "url": "https://www.govdeals.com/automobiles-cars"
+                    },
+                    {
+                        "name": "Buses, Transit and School",
+                        "url": "https://www.govdeals.com/school-transit-buses"
+                    },
+                    {
+                        "name": "Classic/Custom Cars",
+                        "url": "https://www.govdeals.com/classic-custom-cars"
+                    },
+                    {
+                        "name": "Electric/Hybrid Vehicle",
+                        "url": "https://www.govdeals.com/electric-hybrid-vehicle"
+                    },
+                    {
+                        "name": "Motor Homes / Travel Trailers",
+                        "url": "https://www.govdeals.com/motor-homes-travel-trailers"
+                    },
+                    {
+                        "name": "Motorcycles",
+                        "url": "https://www.govdeals.com/motorcycles"
+                    },
+                    {
+                        "name": "Restricted Vehicles",
+                        "url": "https://www.govdeals.com/restricted-vehicles"
+                    },
+                    {
+                        "name": "SUV",
+                        "url": "https://www.govdeals.com/suv"
+                    },
+                    {
+                        "name": "Vans",
+                        "url": "https://www.govdeals.com/vans"
+                    },
+                    {
+                        "name": "Vehicles, Miscellaneous",
+                        "url": "https://www.govdeals.com/vehicles-miscellaneous"
+                    }
+                ]
+            },
+            {
+                "name": "Railroad",
+                "url": "https://www.govdeals.com/railroad",
+                "subcategories": [
+                    {
+                        "name": "Rail Equipment and Accessories",
+                        "url": "https://www.govdeals.com/rail-equipment-accessories"
+                    }
+                ]
+            },
+            {
+                "name": "Specialized Vehicles",
+                "url": "https://www.govdeals.com/specialized-vehicles",
+                "subcategories": [
+                    {
+                        "name": "All Terrain Vehicles",
+                        "url": "https://www.govdeals.com/all-terrain-vehicles"
+                    },
+                    {
+                        "name": "Ambulance/Rescue",
+                        "url": "https://www.govdeals.com/ambulance-rescue-vehicles"
+                    },
+                    {
+                        "name": "Fire Trucks",
+                        "url": "https://www.govdeals.com/fire-trucks"
+                    },
+                    {
+                        "name": "Food Service Vehicles",
+                        "url": "https://www.govdeals.com/food-service-vehicles"
+                    },
+                    {
+                        "name": "Sweeper - Parking Lot/Warehouse",
+                        "url": "https://www.govdeals.com/sweeper-parking-lot-warehouse"
+                    },
+                    {
+                        "name": "Sweeper - Street",
+                        "url": "https://www.govdeals.com/sweeper-street"
+                    }
+                ]
+            },
+            {
+                "name": "Trailers",
+                "url": "https://www.govdeals.com/trailers",
+                "subcategories": [
+                    {
+                        "name": "Agricultural Trailers",
+                        "url": "https://www.govdeals.com/agricultural-trailers"
+                    },
+                    {
+                        "name": "Car Carrier Trailers",
+                        "url": "https://www.govdeals.com/car-carrier-trailers"
+                    },
+                    {
+                        "name": "Chip Trailers",
+                        "url": "https://www.govdeals.com/chip-trailers"
+                    },
+                    {
+                        "name": "Dump Trailers",
+                        "url": "https://www.govdeals.com/dump-trailers"
+                    },
+                    {
+                        "name": "Equipment Trailers",
+                        "url": "https://www.govdeals.com/equipment-trailers"
+                    },
+                    {
+                        "name": "Flatbed Trailers",
+                        "url": "https://www.govdeals.com/flatbed-trailers"
+                    },
+                    {
+                        "name": "Log Trailers",
+                        "url": "https://www.govdeals.com/log-trailers"
+                    },
+                    {
+                        "name": "Lowboy Trailers",
+                        "url": "https://www.govdeals.com/lowboy-trailers"
+                    },
+                    {
+                        "name": "Military Trailers",
+                        "url": "https://www.govdeals.com/military-trailers"
+                    },
+                    {
+                        "name": "Pole Trailers",
+                        "url": "https://www.govdeals.com/pole-trailers"
+                    },
+                    {
+                        "name": "Roll-off Trailers",
+                        "url": "https://www.govdeals.com/roll-off-trailers"
+                    },
+                    {
+                        "name": "Specialty Trailers",
+                        "url": "https://www.govdeals.com/specialty-trailers"
+                    },
+                    {
+                        "name": "Tanker Trailers",
+                        "url": "https://www.govdeals.com/tanker-trailers"
+                    },
+                    {
+                        "name": "Trailer Dollies",
+                        "url": "https://www.govdeals.com/trailer-dollies"
+                    },
+                    {
+                        "name": "Trailers, Miscellaneous",
+                        "url": "https://www.govdeals.com/trailers-miscellaneous"
+                    },
+                    {
+                        "name": "Utility Trailers",
+                        "url": "https://www.govdeals.com/utility-trailers"
+                    },
+                    {
+                        "name": "Van/Enclosed Trailers",
+                        "url": "https://www.govdeals.com/van-enclosed-trailers"
+                    }
+                ]
+            },
+            {
+                "name": "Trucks",
+                "url": "https://www.govdeals.com/trucks",
+                "subcategories": [
+                    {
+                        "name": "Asphalt Trucks",
+                        "url": "https://www.govdeals.com/asphalt-trucks"
+                    },
+                    {
+                        "name": "Boom Trucks",
+                        "url": "https://www.govdeals.com/boom-trucks"
+                    },
+                    {
+                        "name": "Box Trucks",
+                        "url": "https://www.govdeals.com/box-trucks"
+                    },
+                    {
+                        "name": "Bucket Trucks",
+                        "url": "https://www.govdeals.com/bucket-trucks"
+                    },
+                    {
+                        "name": "Cab Chassis",
+                        "url": "https://www.govdeals.com/cab-chassis"
+                    },
+                    {
+                        "name": "Digger Derrick Trucks",
+                        "url": "https://www.govdeals.com/digger-derrick-trucks"
+                    },
+                    {
+                        "name": "Dump Trucks",
+                        "url": "https://www.govdeals.com/dump-trucks"
+                    },
+                    {
+                        "name": "Flatbed Trucks",
+                        "url": "https://www.govdeals.com/flatbed-trucks"
+                    },
+                    {
+                        "name": "Garbage Trucks",
+                        "url": "https://www.govdeals.com/garbage-trucks"
+                    },
+                    {
+                        "name": "Grapple Trucks",
+                        "url": "https://www.govdeals.com/grapple-trucks"
+                    },
+                    {
+                        "name": "Pickup Trucks",
+                        "url": "https://www.govdeals.com/pickup-trucks"
+                    },
+                    {
+                        "name": "Refrigerated Trucks",
+                        "url": "https://www.govdeals.com/refrigerated-trucks"
+                    },
+                    {
+                        "name": "Roll Off Trucks",
+                        "url": "https://www.govdeals.com/roll-off-trucks"
+                    },
+                    {
+                        "name": "Service & Utility Vehicles",
+                        "url": "https://www.govdeals.com/service-utility-vehicles"
+                    },
+                    {
+                        "name": "Snow Plow Trucks",
+                        "url": "https://www.govdeals.com/snow-plow-trucks"
+                    },
+                    {
+                        "name": "Spotter Trucks",
+                        "url": "https://www.govdeals.com/spotter-trucks"
+                    },
+                    {
+                        "name": "Step Vans",
+                        "url": "https://www.govdeals.com/step-vans"
+                    },
+                    {
+                        "name": "Tank Trucks",
+                        "url": "https://www.govdeals.com/tank-trucks"
+                    },
+                    {
+                        "name": "Tow Trucks",
+                        "url": "https://www.govdeals.com/tow-trucks"
+                    },
+                    {
+                        "name": "Truck Tractors",
+                        "url": "https://www.govdeals.com/truck-tractors"
+                    },
+                    {
+                        "name": "Trucks, Miscellaneous",
+                        "url": "https://www.govdeals.com/trucks-miscellaneous"
+                    },
+                    {
+                        "name": "Vacuum Trucks",
+                        "url": "https://www.govdeals.com/vacuum-trucks"
+                    },
+                    {
+                        "name": "Water Trucks",
+                        "url": "https://www.govdeals.com/water-trucks"
+                    }
+                ]
+            },
+            {
+                "name": "Vehicle Equipment/Parts",
+                "url": "https://www.govdeals.com/vehicle-equipment-parts",
+                "subcategories": [
+                    {
+                        "name": "Snow Removal Equipment",
+                        "url": "https://www.govdeals.com/snow-removal-equipment"
+                    },
+                    {
+                        "name": "Tires and Tubes",
+                        "url": "https://www.govdeals.com/tires-tubes"
+                    }
+                ]
+            }
+        ]
+    }
+]

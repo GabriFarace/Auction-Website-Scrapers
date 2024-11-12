@@ -19,7 +19,6 @@ def get_response(url):
         'accept': 'application/json, text/plain, */*',
         'accept-language': 'en-US',
         'content-type': 'application/json',
-        'cookie': 'optimizelyEndUserId=oeu1730195788262r0.759501836595829; mdLogger=false; kampyle_userid=7edb-5b76-2560-7d99-2956-4dbe-f17d-5671; __stripe_mid=66099525-bbab-4551-a9e9-7051c57cdcb0ec89e2; notice_preferences=0:; notice_gdpr_prefs=0:; cmapi_gtm_bl=ga-ms-ua-ta-asp-bzi-sp-awct-cts-csm-img-flc-fls-mpm-mpr-m6d-tc-tdc; cmapi_cookie_privacy=permit 1 required; _hjSessionUser_1340161=eyJpZCI6ImRkN2FkZmQ0LTlmOGUtNWYzZi04MTZjLWFlYjNlN2I3NjMzYyIsImNyZWF0ZWQiOjE3MzAxOTU3OTExMTUsImV4aXN0aW5nIjp0cnVlfQ==; ajs_user_id=86d9f480-89e9-461e-b890-0731ae7158ca; ajs_anonymous_id=2ab399dd-70bd-401f-8dfa-d8ca4fb6ffb2; kampylePageLoadedTimestamp=1731055926995; LAST_INVITATION_VIEW=1731055938237; DECLINED_DATE=1731055978044; _hjSession_1340161=eyJpZCI6ImM5MDAwOTQzLTdjZGYtNDQwNy04MjhkLTdkMDRlYjc3YjkwMCIsImMiOjE3MzEyMjYxMTUwOTIsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjowLCJzcCI6MH0=; clockOffset=-60; TAsessionID=711076d7-0220-4903-aa8e-c0953d36bbd2|EXISTING; notice_behavior=implied,eu; __stripe_sid=bda9ca5c-106d-4b3f-8a8e-3dde8c07738d707504; kampyleUserSession=1731226632919; kampyleUserSessionsCount=19; kampyleSessionPageCounter=1; _dd_s=rum=1&id=52b83969-a1d9-4efa-a3aa-57831f0a21c4&created=1731226115047&expire=1731227539560',
         'origin': 'https://www.rbauction.com',
         'priority': 'u=1, i',
         'referer': 'https://www.rbauction.com/',
