@@ -8,7 +8,7 @@ TAXONOMY = 'taxonomy.json' # file that contains the gov_deals  3-level taxonomy
 
 def get_response():
     url = "https://maestro.lqdt1.com/menus/categories"
-    with open("../config.json", "r") as f:
+    with open("../../config.json", "r") as f:
         c = json.load(f)
         config = c["gov_deals"]
 

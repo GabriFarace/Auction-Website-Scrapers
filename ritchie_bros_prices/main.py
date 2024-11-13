@@ -50,7 +50,7 @@ def find_main():
     try:
 
         scraper.log_in()
-        with open("../ritchie_bros_taxonomy/taxonomy.json", "r") as t:
+        with open("../taxonomy_scrapers/ritchie_bros_taxonomy/taxonomy.json", "r") as t:
             taxonomy = json.load(t)
 
         keep_going = True

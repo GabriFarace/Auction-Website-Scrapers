@@ -121,7 +121,7 @@ class SurplusRecordCategoriesBrowserScraper(SurplusRecordTaxonomyScraper):
 class SurplusRecordCategoriesRequestsScraper(SurplusRecordTaxonomyScraper):
     ''' Scraper of categories in the surplus record auction website'''
     def __init__(self):
-        with open("../config.json", "r") as f:
+        with open("../../config.json", "r") as f:
             c = json.load(f)
             self.config = c["surplus_record"]
 
