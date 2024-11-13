@@ -96,7 +96,7 @@ class PlantAndEquipmentTaxonomyScraper:
         result = []
 
         for ids,button in sub_categories_ids_buttons:
-            second_level_category = {"name" : button.text, "url" : url + button.text}
+            second_level_category = {"name" : button.text, "url" : url + "/" + button.text.lower()}
             self.driver.execute_script("arguments[0].click();", button)
             time.sleep(5)
             # Wait for the subcategories to load
@@ -104,7 +104,7 @@ class PlantAndEquipmentTaxonomyScraper:
                 EC.presence_of_all_elements_located((By.CSS_SELECTOR, f"#nestedSubCategoryItems{ids}"))
             )
             third_level_categories = self.driver.find_elements(By.CSS_SELECTOR, f"#nestedSubCategoryItems{ids} li div.left")
-            second_level_category["subcategories"] = [{"name" : third_cat.text, "url" : second_level_category["url"] + third_cat.text} for third_cat in third_level_categories]
+            second_level_category["subcategories"] = [{"name" : third_cat.text, "url" : second_level_category["url"] + "/" + third_cat.text.lower()} for third_cat in third_level_categories]
             result.append(second_level_category)
 
         return result

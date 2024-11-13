@@ -63,10 +63,10 @@ def get_complete_taxonomy(file_taxonomy, response):
     with open(file_taxonomy, 'w') as outfile:
         json.dump(categories, outfile, indent=4)
 
-def get_ritchie_bros_taxonomy():
+def get_machinery_trader_taxonomy():
     get_complete_taxonomy(TAXONOMY, get_response())
 
 
 if __name__ == '__main__':
-    get_ritchie_bros_taxonomy()
+    get_machinery_trader_taxonomy()
 

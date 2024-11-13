@@ -52,7 +52,7 @@ def get_response():
 
 
 def get_complete_taxonomy(file_taxonomy, url, response):
-    ''' Get the complete taxonomy of ritchie bros using the refactored json file sniffed by inspection in the website'''
+    ''' Get the complete taxonomy of gov deals '''
 
     first_level_categories = response["menus"]
     categories = []
@@ -86,10 +86,10 @@ def get_complete_taxonomy(file_taxonomy, url, response):
     with open(file_taxonomy, 'w') as outfile:
         json.dump(categories, outfile, indent=4)
 
-def get_ritchie_bros_taxonomy():
+def get_gov_deals_taxonomy():
     get_complete_taxonomy(TAXONOMY, URL, get_response())
 
 
 if __name__ == '__main__':
-    get_ritchie_bros_taxonomy()
+    get_gov_deals_taxonomy()
 
