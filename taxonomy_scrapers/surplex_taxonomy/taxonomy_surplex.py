@@ -1,11 +1,11 @@
 import json
-import requests
 from bs4 import BeautifulSoup, Tag
 import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+
 URL = "https://www.surplex.com"
 
 TAXONOMY = 'taxonomy.json' # file that contains the  3-level taxonomy
@@ -46,7 +46,6 @@ class SurplexTaxonomyScraper:
         button = WebDriverWait(self.driver, 10).until(
             EC.presence_of_element_located((By.CSS_SELECTOR, "div.btn.btn--tertiary.btn--iconLeft.btn--iconLarge[role='button']"))
         )
-        print(button.text)
         self.driver.execute_script("arguments[0].click();", button)
 
         time.sleep(5)
