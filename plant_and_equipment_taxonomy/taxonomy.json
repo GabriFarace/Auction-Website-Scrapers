@@ -1,0 +1,1061 @@
+[
+    {
+        "name": "\nConstruction Equipment\n",
+        "url": "https://www.plantandequipment.com/construction",
+        "subcategories": [
+            {
+                "name": "Excavators",
+                "url": "https://www.plantandequipment.com/constructionExcavators",
+                "subcategories": [
+                    {
+                        "name": "Tracked Excavators",
+                        "url": "https://www.plantandequipment.com/constructionExcavatorsTracked Excavators"
+                    },
+                    {
+                        "name": "Mini Excavators",
+                        "url": "https://www.plantandequipment.com/constructionExcavatorsMini Excavators"
+                    },
+                    {
+                        "name": "Wheeled Excavators",
+                        "url": "https://www.plantandequipment.com/constructionExcavatorsWheeled Excavators"
+                    },
+                    {
+                        "name": "Waste Excavators",
+                        "url": "https://www.plantandequipment.com/constructionExcavatorsWaste Excavators"
+                    },
+                    {
+                        "name": "Long Reach Excavators",
+                        "url": "https://www.plantandequipment.com/constructionExcavatorsLong Reach Excavators"
+                    },
+                    {
+                        "name": "Amphibious Excavators",
+                        "url": "https://www.plantandequipment.com/constructionExcavatorsAmphibious Excavators"
+                    },
+                    {
+                        "name": "Demolition Excavators",
+                        "url": "https://www.plantandequipment.com/constructionExcavatorsDemolition Excavators"
+                    },
+                    {
+                        "name": "Railway Excavators",
+                        "url": "https://www.plantandequipment.com/constructionExcavatorsRailway Excavators"
+                    },
+                    {
+                        "name": "Draglines",
+                        "url": "https://www.plantandequipment.com/constructionExcavatorsDraglines"
+                    }
+                ]
+            },
+            {
+                "name": "Attachments",
+                "url": "https://www.plantandequipment.com/constructionAttachments",
+                "subcategories": [
+                    {
+                        "name": "Buckets",
+                        "url": "https://www.plantandequipment.com/constructionAttachmentsBuckets"
+                    },
+                    {
+                        "name": "Hammers",
+                        "url": "https://www.plantandequipment.com/constructionAttachmentsHammers"
+                    },
+                    {
+                        "name": "Grapples",
+                        "url": "https://www.plantandequipment.com/constructionAttachmentsGrapples"
+                    },
+                    {
+                        "name": "Winch",
+                        "url": "https://www.plantandequipment.com/constructionAttachmentsWinch"
+                    },
+                    {
+                        "name": "Hydraulic Hammers",
+                        "url": "https://www.plantandequipment.com/constructionAttachmentsHydraulic Hammers"
+                    },
+                    {
+                        "name": "Demolition Shears",
+                        "url": "https://www.plantandequipment.com/constructionAttachmentsDemolition Shears"
+                    },
+                    {
+                        "name": "Ripper",
+                        "url": "https://www.plantandequipment.com/constructionAttachmentsRipper"
+                    },
+                    {
+                        "name": "Pulverizers",
+                        "url": "https://www.plantandequipment.com/constructionAttachmentsPulverizers"
+                    },
+                    {
+                        "name": "Snow Blades",
+                        "url": "https://www.plantandequipment.com/constructionAttachmentsSnow Blades"
+                    },
+                    {
+                        "name": "Mechanical Clamshell",
+                        "url": "https://www.plantandequipment.com/constructionAttachmentsMechanical Clamshell"
+                    },
+                    {
+                        "name": "Crusher Bucket",
+                        "url": "https://www.plantandequipment.com/constructionAttachmentsCrusher Bucket"
+                    },
+                    {
+                        "name": "Screening Bucket",
+                        "url": "https://www.plantandequipment.com/constructionAttachmentsScreening Bucket"
+                    },
+                    {
+                        "name": "Tipping Skips",
+                        "url": "https://www.plantandequipment.com/constructionAttachmentsTipping Skips"
+                    },
+                    {
+                        "name": "Fork Attachments",
+                        "url": "https://www.plantandequipment.com/constructionAttachmentsFork Attachments"
+                    },
+                    {
+                        "name": "Screeds",
+                        "url": "https://www.plantandequipment.com/constructionAttachmentsScreeds"
+                    },
+                    {
+                        "name": "Skeleton Buckets",
+                        "url": "https://www.plantandequipment.com/constructionAttachmentsSkeleton Buckets"
+                    },
+                    {
+                        "name": "Drum Cutters",
+                        "url": "https://www.plantandequipment.com/constructionAttachmentsDrum Cutters"
+                    }
+                ]
+            },
+            {
+                "name": "Wheel Loaders",
+                "url": "https://www.plantandequipment.com/constructionWheel Loaders",
+                "subcategories": []
+            },
+            {
+                "name": "Generators",
+                "url": "https://www.plantandequipment.com/constructionGenerators",
+                "subcategories": [
+                    {
+                        "name": "Gensets",
+                        "url": "https://www.plantandequipment.com/constructionGeneratorsGensets"
+                    },
+                    {
+                        "name": "Transformer",
+                        "url": "https://www.plantandequipment.com/constructionGeneratorsTransformer"
+                    },
+                    {
+                        "name": "Power Units",
+                        "url": "https://www.plantandequipment.com/constructionGeneratorsPower Units"
+                    },
+                    {
+                        "name": "Load Bank",
+                        "url": "https://www.plantandequipment.com/constructionGeneratorsLoad Bank"
+                    }
+                ]
+            },
+            {
+                "name": "Compaction Equipment",
+                "url": "https://www.plantandequipment.com/constructionCompaction Equipment",
+                "subcategories": [
+                    {
+                        "name": "Compactors",
+                        "url": "https://www.plantandequipment.com/constructionCompaction EquipmentCompactors"
+                    },
+                    {
+                        "name": "Tandem Vibratory Rollers",
+                        "url": "https://www.plantandequipment.com/constructionCompaction EquipmentTandem Vibratory Rollers"
+                    },
+                    {
+                        "name": "Pneumatic Rollers",
+                        "url": "https://www.plantandequipment.com/constructionCompaction EquipmentPneumatic Rollers"
+                    },
+                    {
+                        "name": "Vibratory Soil Compactors",
+                        "url": "https://www.plantandequipment.com/constructionCompaction EquipmentVibratory Soil Compactors"
+                    },
+                    {
+                        "name": "Soil Compactors",
+                        "url": "https://www.plantandequipment.com/constructionCompaction EquipmentSoil Compactors"
+                    },
+                    {
+                        "name": "Trench Rammer",
+                        "url": "https://www.plantandequipment.com/constructionCompaction EquipmentTrench Rammer"
+                    }
+                ]
+            },
+            {
+                "name": "Dozers",
+                "url": "https://www.plantandequipment.com/constructionDozers",
+                "subcategories": [
+                    {
+                        "name": "Crawler Dozers",
+                        "url": "https://www.plantandequipment.com/constructionDozersCrawler Dozers"
+                    },
+                    {
+                        "name": "Wheel Dozers",
+                        "url": "https://www.plantandequipment.com/constructionDozersWheel Dozers"
+                    }
+                ]
+            },
+            {
+                "name": "Crushers & Screens",
+                "url": "https://www.plantandequipment.com/constructionCrushers & Screens",
+                "subcategories": [
+                    {
+                        "name": "Jaw Crusher",
+                        "url": "https://www.plantandequipment.com/constructionCrushers & ScreensJaw Crusher"
+                    },
+                    {
+                        "name": "Crushers",
+                        "url": "https://www.plantandequipment.com/constructionCrushers & ScreensCrushers"
+                    },
+                    {
+                        "name": "Cone Crusher",
+                        "url": "https://www.plantandequipment.com/constructionCrushers & ScreensCone Crusher"
+                    },
+                    {
+                        "name": "Impact Crusher",
+                        "url": "https://www.plantandequipment.com/constructionCrushers & ScreensImpact Crusher"
+                    },
+                    {
+                        "name": "Screens",
+                        "url": "https://www.plantandequipment.com/constructionCrushers & ScreensScreens"
+                    },
+                    {
+                        "name": "Conveyors",
+                        "url": "https://www.plantandequipment.com/constructionCrushers & ScreensConveyors"
+                    },
+                    {
+                        "name": "Trommels",
+                        "url": "https://www.plantandequipment.com/constructionCrushers & ScreensTrommels"
+                    },
+                    {
+                        "name": "Sand Washer",
+                        "url": "https://www.plantandequipment.com/constructionCrushers & ScreensSand Washer"
+                    },
+                    {
+                        "name": "Milling & Paver",
+                        "url": "https://www.plantandequipment.com/constructionCrushers & ScreensMilling & Paver"
+                    },
+                    {
+                        "name": "Pugmills",
+                        "url": "https://www.plantandequipment.com/constructionCrushers & ScreensPugmills"
+                    }
+                ]
+            },
+            {
+                "name": "Compressors",
+                "url": "https://www.plantandequipment.com/constructionCompressors",
+                "subcategories": []
+            },
+            {
+                "name": "Drilling Equipment",
+                "url": "https://www.plantandequipment.com/constructionDrilling Equipment",
+                "subcategories": [
+                    {
+                        "name": "Drilling Rig",
+                        "url": "https://www.plantandequipment.com/constructionDrilling EquipmentDrilling Rig"
+                    },
+                    {
+                        "name": "Rotary Drilling Rig",
+                        "url": "https://www.plantandequipment.com/constructionDrilling EquipmentRotary Drilling Rig"
+                    },
+                    {
+                        "name": "Locating Systems",
+                        "url": "https://www.plantandequipment.com/constructionDrilling EquipmentLocating Systems"
+                    },
+                    {
+                        "name": "Directional Drilling",
+                        "url": "https://www.plantandequipment.com/constructionDrilling EquipmentDirectional Drilling"
+                    },
+                    {
+                        "name": "Transmitters",
+                        "url": "https://www.plantandequipment.com/constructionDrilling EquipmentTransmitters"
+                    },
+                    {
+                        "name": "Drills",
+                        "url": "https://www.plantandequipment.com/constructionDrilling EquipmentDrills"
+                    },
+                    {
+                        "name": "Horizontal Drilling Rig",
+                        "url": "https://www.plantandequipment.com/constructionDrilling EquipmentHorizontal Drilling Rig"
+                    },
+                    {
+                        "name": "Piling Rigs",
+                        "url": "https://www.plantandequipment.com/constructionDrilling EquipmentPiling Rigs"
+                    },
+                    {
+                        "name": "Dredger",
+                        "url": "https://www.plantandequipment.com/constructionDrilling EquipmentDredger"
+                    }
+                ]
+            },
+            {
+                "name": "Concrete Equipment",
+                "url": "https://www.plantandequipment.com/constructionConcrete Equipment",
+                "subcategories": [
+                    {
+                        "name": "Concrete Transit Mixers",
+                        "url": "https://www.plantandequipment.com/constructionConcrete EquipmentConcrete Transit Mixers"
+                    },
+                    {
+                        "name": "Self Loading Mixer",
+                        "url": "https://www.plantandequipment.com/constructionConcrete EquipmentSelf Loading Mixer"
+                    },
+                    {
+                        "name": "Concrete Pumps - Stationary",
+                        "url": "https://www.plantandequipment.com/constructionConcrete EquipmentConcrete Pumps - Stationary"
+                    },
+                    {
+                        "name": "Concrete Cutters",
+                        "url": "https://www.plantandequipment.com/constructionConcrete EquipmentConcrete Cutters"
+                    }
+                ]
+            },
+            {
+                "name": "Motor Graders",
+                "url": "https://www.plantandequipment.com/constructionMotor Graders",
+                "subcategories": []
+            },
+            {
+                "name": "Site Dumpers",
+                "url": "https://www.plantandequipment.com/constructionSite Dumpers",
+                "subcategories": []
+            },
+            {
+                "name": "Concrete Pumps",
+                "url": "https://www.plantandequipment.com/constructionConcrete Pumps",
+                "subcategories": []
+            },
+            {
+                "name": "Backhoe Loaders",
+                "url": "https://www.plantandequipment.com/constructionBackhoe Loaders",
+                "subcategories": []
+            },
+            {
+                "name": "Skid Steer Loaders",
+                "url": "https://www.plantandequipment.com/constructionSkid Steer Loaders",
+                "subcategories": []
+            },
+            {
+                "name": "Pavers",
+                "url": "https://www.plantandequipment.com/constructionPavers",
+                "subcategories": []
+            },
+            {
+                "name": "Light Towers",
+                "url": "https://www.plantandequipment.com/constructionLight Towers",
+                "subcategories": []
+            },
+            {
+                "name": "Plants",
+                "url": "https://www.plantandequipment.com/constructionPlants",
+                "subcategories": [
+                    {
+                        "name": "Mobile Crushers Plants",
+                        "url": "https://www.plantandequipment.com/constructionPlantsMobile Crushers Plants"
+                    },
+                    {
+                        "name": "Concrete Batching Plants",
+                        "url": "https://www.plantandequipment.com/constructionPlantsConcrete Batching Plants"
+                    },
+                    {
+                        "name": "Crushing Plant",
+                        "url": "https://www.plantandequipment.com/constructionPlantsCrushing Plant"
+                    },
+                    {
+                        "name": "Compact Concrete Plants",
+                        "url": "https://www.plantandequipment.com/constructionPlantsCompact Concrete Plants"
+                    },
+                    {
+                        "name": "Mobile Concrete Batching Plant",
+                        "url": "https://www.plantandequipment.com/constructionPlantsMobile Concrete Batching Plant"
+                    },
+                    {
+                        "name": "Asphalt Plants",
+                        "url": "https://www.plantandequipment.com/constructionPlantsAsphalt Plants"
+                    },
+                    {
+                        "name": "Stationary Crushing Plant",
+                        "url": "https://www.plantandequipment.com/constructionPlantsStationary Crushing Plant"
+                    },
+                    {
+                        "name": "Block Making Machines",
+                        "url": "https://www.plantandequipment.com/constructionPlantsBlock Making Machines"
+                    },
+                    {
+                        "name": "Silos",
+                        "url": "https://www.plantandequipment.com/constructionPlantsSilos"
+                    },
+                    {
+                        "name": "Bagging Plant",
+                        "url": "https://www.plantandequipment.com/constructionPlantsBagging Plant"
+                    },
+                    {
+                        "name": "Power Plant",
+                        "url": "https://www.plantandequipment.com/constructionPlantsPower Plant"
+                    },
+                    {
+                        "name": "Vertical Roller Mills",
+                        "url": "https://www.plantandequipment.com/constructionPlantsVertical Roller Mills"
+                    }
+                ]
+            },
+            {
+                "name": "Cold Milling Machines",
+                "url": "https://www.plantandequipment.com/constructionCold Milling Machines",
+                "subcategories": []
+            },
+            {
+                "name": "Piling Equipment",
+                "url": "https://www.plantandequipment.com/constructionPiling Equipment",
+                "subcategories": []
+            },
+            {
+                "name": "Trenchers",
+                "url": "https://www.plantandequipment.com/constructionTrenchers",
+                "subcategories": []
+            },
+            {
+                "name": "Welding Sets",
+                "url": "https://www.plantandequipment.com/constructionWelding Sets",
+                "subcategories": []
+            },
+            {
+                "name": "Road Reclaimers",
+                "url": "https://www.plantandequipment.com/constructionRoad Reclaimers",
+                "subcategories": []
+            },
+            {
+                "name": "Air Compressors",
+                "url": "https://www.plantandequipment.com/constructionAir Compressors",
+                "subcategories": []
+            },
+            {
+                "name": "Asphalt Equipment",
+                "url": "https://www.plantandequipment.com/constructionAsphalt Equipment",
+                "subcategories": [
+                    {
+                        "name": "Asphalt Sprayers",
+                        "url": "https://www.plantandequipment.com/constructionAsphalt EquipmentAsphalt Sprayers"
+                    }
+                ]
+            },
+            {
+                "name": "Pipelayers",
+                "url": "https://www.plantandequipment.com/constructionPipelayers",
+                "subcategories": []
+            },
+            {
+                "name": "Crawler Loaders",
+                "url": "https://www.plantandequipment.com/constructionCrawler Loaders",
+                "subcategories": []
+            },
+            {
+                "name": "Porta Cabins",
+                "url": "https://www.plantandequipment.com/constructionPorta Cabins",
+                "subcategories": []
+            },
+            {
+                "name": "Demolition Equipment",
+                "url": "https://www.plantandequipment.com/constructionDemolition Equipment",
+                "subcategories": [
+                    {
+                        "name": "Demolition Grapples",
+                        "url": "https://www.plantandequipment.com/constructionDemolition EquipmentDemolition Grapples"
+                    }
+                ]
+            },
+            {
+                "name": "Mining Equipment",
+                "url": "https://www.plantandequipment.com/constructionMining Equipment",
+                "subcategories": []
+            },
+            {
+                "name": "Scrapers",
+                "url": "https://www.plantandequipment.com/constructionScrapers",
+                "subcategories": []
+            },
+            {
+                "name": "Boring Machines",
+                "url": "https://www.plantandequipment.com/constructionBoring Machines",
+                "subcategories": []
+            },
+            {
+                "name": "Landfill Compactors",
+                "url": "https://www.plantandequipment.com/constructionLandfill Compactors",
+                "subcategories": []
+            },
+            {
+                "name": "Rebar Bender",
+                "url": "https://www.plantandequipment.com/constructionRebar Bender",
+                "subcategories": []
+            },
+            {
+                "name": "Portable Power Equipment",
+                "url": "https://www.plantandequipment.com/constructionPortable Power Equipment",
+                "subcategories": []
+            }
+        ]
+    },
+    {
+        "name": "\nTrucks and Trailers\n",
+        "url": "https://www.plantandequipment.com/trucks-and-transport",
+        "subcategories": [
+            {
+                "name": "Trucks",
+                "url": "https://www.plantandequipment.com/trucks-and-transportTrucks",
+                "subcategories": [
+                    {
+                        "name": "Semi Trucks",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrucksSemi Trucks"
+                    },
+                    {
+                        "name": "Dump Trucks",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrucksDump Trucks"
+                    },
+                    {
+                        "name": "Box Body Trucks",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrucksBox Body Trucks"
+                    },
+                    {
+                        "name": "Articulated Dump Trucks",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrucksArticulated Dump Trucks"
+                    },
+                    {
+                        "name": "Chassis Trucks",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrucksChassis Trucks"
+                    },
+                    {
+                        "name": "Hook Loader Trucks",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrucksHook Loader Trucks"
+                    },
+                    {
+                        "name": "Temperature Controlled Trucks",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrucksTemperature Controlled Trucks"
+                    },
+                    {
+                        "name": "Flatbed Trucks",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrucksFlatbed Trucks"
+                    },
+                    {
+                        "name": "Tankers",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrucksTankers"
+                    },
+                    {
+                        "name": "Tow Tractor",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrucksTow Tractor"
+                    },
+                    {
+                        "name": "Curtainsider Trucks",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrucksCurtainsider Trucks"
+                    },
+                    {
+                        "name": "Off Highway - Rigid Trucks",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrucksOff Highway - Rigid Trucks"
+                    },
+                    {
+                        "name": "Waste Trucks",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrucksWaste Trucks"
+                    },
+                    {
+                        "name": "Skip Trucks",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrucksSkip Trucks"
+                    },
+                    {
+                        "name": "Fire Trucks",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrucksFire Trucks"
+                    },
+                    {
+                        "name": "Terminal Tractors",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrucksTerminal Tractors"
+                    },
+                    {
+                        "name": "Container Frame Trucks",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrucksContainer Frame Trucks"
+                    },
+                    {
+                        "name": "Demountable Trucks",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrucksDemountable Trucks"
+                    },
+                    {
+                        "name": "Vacuum Trucks",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrucksVacuum Trucks"
+                    },
+                    {
+                        "name": "Off-Highway Trucks",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrucksOff-Highway Trucks"
+                    },
+                    {
+                        "name": "Vocational Trucks",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrucksVocational Trucks"
+                    },
+                    {
+                        "name": "Livestock Trucks",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrucksLivestock Trucks"
+                    }
+                ]
+            },
+            {
+                "name": "Trailers",
+                "url": "https://www.plantandequipment.com/trucks-and-transportTrailers",
+                "subcategories": [
+                    {
+                        "name": "Curtainsider Trailers",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrailersCurtainsider Trailers"
+                    },
+                    {
+                        "name": "Temperature Controlled Trailers",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrailersTemperature Controlled Trailers"
+                    },
+                    {
+                        "name": "Tipping Trailers",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrailersTipping Trailers"
+                    },
+                    {
+                        "name": "Flatbed Trailers",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrailersFlatbed Trailers"
+                    },
+                    {
+                        "name": "Box Body Semi Trailers",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrailersBox Body Semi Trailers"
+                    },
+                    {
+                        "name": "Container Chassis",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrailersContainer Chassis"
+                    },
+                    {
+                        "name": "Lowbed Trailers",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrailersLowbed Trailers"
+                    },
+                    {
+                        "name": "Trailers - Other",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrailersTrailers - Other"
+                    },
+                    {
+                        "name": "Low Loader Semi Trailers",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrailersLow Loader Semi Trailers"
+                    },
+                    {
+                        "name": "Vehicle Transporters",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrailersVehicle Transporters"
+                    },
+                    {
+                        "name": "Cement Mixer Semi-Trailers",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrailersCement Mixer Semi-Trailers"
+                    },
+                    {
+                        "name": "Tanker Trailers",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrailersTanker Trailers"
+                    },
+                    {
+                        "name": "Tanker Semi Trailers",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrailersTanker Semi Trailers"
+                    },
+                    {
+                        "name": "Water Tankers",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrailersWater Tankers"
+                    },
+                    {
+                        "name": "Fuel Tankers",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrailersFuel Tankers"
+                    },
+                    {
+                        "name": "Boxvan Trailers",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrailersBoxvan Trailers"
+                    },
+                    {
+                        "name": "Dollies",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrailersDollies"
+                    },
+                    {
+                        "name": "Log Loaders",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrailersLog Loaders"
+                    },
+                    {
+                        "name": "Cement Tankers",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrailersCement Tankers"
+                    },
+                    {
+                        "name": "Demountable Semi Trailers",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrailersDemountable Semi Trailers"
+                    },
+                    {
+                        "name": "Semi Trailer Chassis",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrailersSemi Trailer Chassis"
+                    },
+                    {
+                        "name": "Bitumen Tankers",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrailersBitumen Tankers"
+                    },
+                    {
+                        "name": "Drawbar Trailers",
+                        "url": "https://www.plantandequipment.com/trucks-and-transportTrailersDrawbar Trailers"
+                    }
+                ]
+            },
+            {
+                "name": "Bowsers",
+                "url": "https://www.plantandequipment.com/trucks-and-transportBowsers",
+                "subcategories": []
+            },
+            {
+                "name": "Sweepers",
+                "url": "https://www.plantandequipment.com/trucks-and-transportSweepers",
+                "subcategories": []
+            },
+            {
+                "name": "Tracked Dumpers",
+                "url": "https://www.plantandequipment.com/trucks-and-transportTracked Dumpers",
+                "subcategories": []
+            },
+            {
+                "name": "Containers",
+                "url": "https://www.plantandequipment.com/trucks-and-transportContainers",
+                "subcategories": []
+            },
+            {
+                "name": "Snow Throwers",
+                "url": "https://www.plantandequipment.com/trucks-and-transportSnow Throwers",
+                "subcategories": []
+            }
+        ]
+    },
+    {
+        "name": "\nLifting Equipment\n",
+        "url": "https://www.plantandequipment.com/lifting-equipment",
+        "subcategories": [
+            {
+                "name": "Lifts",
+                "url": "https://www.plantandequipment.com/lifting-equipmentLifts",
+                "subcategories": [
+                    {
+                        "name": "Forklifts",
+                        "url": "https://www.plantandequipment.com/lifting-equipmentLiftsForklifts"
+                    },
+                    {
+                        "name": "Scissor Lifts",
+                        "url": "https://www.plantandequipment.com/lifting-equipmentLiftsScissor Lifts"
+                    },
+                    {
+                        "name": "Telescopic Handlers",
+                        "url": "https://www.plantandequipment.com/lifting-equipmentLiftsTelescopic Handlers"
+                    },
+                    {
+                        "name": "Articulated Boom Lifts",
+                        "url": "https://www.plantandequipment.com/lifting-equipmentLiftsArticulated Boom Lifts"
+                    },
+                    {
+                        "name": "Aerial Lifts",
+                        "url": "https://www.plantandequipment.com/lifting-equipmentLiftsAerial Lifts"
+                    },
+                    {
+                        "name": "Telescopic Boom Lifts",
+                        "url": "https://www.plantandequipment.com/lifting-equipmentLiftsTelescopic Boom Lifts"
+                    },
+                    {
+                        "name": "Mast Lifts",
+                        "url": "https://www.plantandequipment.com/lifting-equipmentLiftsMast Lifts"
+                    },
+                    {
+                        "name": "Spider Lift",
+                        "url": "https://www.plantandequipment.com/lifting-equipmentLiftsSpider Lift"
+                    },
+                    {
+                        "name": "Reach Trucks",
+                        "url": "https://www.plantandequipment.com/lifting-equipmentLiftsReach Trucks"
+                    },
+                    {
+                        "name": "Rough Terrain Forklifts",
+                        "url": "https://www.plantandequipment.com/lifting-equipmentLiftsRough Terrain Forklifts"
+                    },
+                    {
+                        "name": "Side Loaders",
+                        "url": "https://www.plantandequipment.com/lifting-equipmentLiftsSide Loaders"
+                    },
+                    {
+                        "name": "Pedestrian Pallet Truck",
+                        "url": "https://www.plantandequipment.com/lifting-equipmentLiftsPedestrian Pallet Truck"
+                    }
+                ]
+            },
+            {
+                "name": "Cranes",
+                "url": "https://www.plantandequipment.com/lifting-equipmentCranes",
+                "subcategories": [
+                    {
+                        "name": "All Terrain Cranes",
+                        "url": "https://www.plantandequipment.com/lifting-equipmentCranesAll Terrain Cranes"
+                    },
+                    {
+                        "name": "Truck Cranes",
+                        "url": "https://www.plantandequipment.com/lifting-equipmentCranesTruck Cranes"
+                    },
+                    {
+                        "name": "Crawler Cranes",
+                        "url": "https://www.plantandequipment.com/lifting-equipmentCranesCrawler Cranes"
+                    },
+                    {
+                        "name": "Rough Terrain Cranes",
+                        "url": "https://www.plantandequipment.com/lifting-equipmentCranesRough Terrain Cranes"
+                    },
+                    {
+                        "name": "Tower Cranes",
+                        "url": "https://www.plantandequipment.com/lifting-equipmentCranesTower Cranes"
+                    },
+                    {
+                        "name": "Truck Mounted Cranes",
+                        "url": "https://www.plantandequipment.com/lifting-equipmentCranesTruck Mounted Cranes"
+                    },
+                    {
+                        "name": "Knuckle Boom Cranes",
+                        "url": "https://www.plantandequipment.com/lifting-equipmentCranesKnuckle Boom Cranes"
+                    },
+                    {
+                        "name": "Cranes - Other",
+                        "url": "https://www.plantandequipment.com/lifting-equipmentCranesCranes - Other"
+                    },
+                    {
+                        "name": "Gantry Cranes",
+                        "url": "https://www.plantandequipment.com/lifting-equipmentCranesGantry Cranes"
+                    },
+                    {
+                        "name": "Carry Deck Cranes",
+                        "url": "https://www.plantandequipment.com/lifting-equipmentCranesCarry Deck Cranes"
+                    },
+                    {
+                        "name": "Electric Pick & Carry Crane",
+                        "url": "https://www.plantandequipment.com/lifting-equipmentCranesElectric Pick & Carry Crane"
+                    },
+                    {
+                        "name": "Over Head Cranes",
+                        "url": "https://www.plantandequipment.com/lifting-equipmentCranesOver Head Cranes"
+                    },
+                    {
+                        "name": "Cranes & Draglines",
+                        "url": "https://www.plantandequipment.com/lifting-equipmentCranesCranes & Draglines"
+                    },
+                    {
+                        "name": "Container Cranes",
+                        "url": "https://www.plantandequipment.com/lifting-equipmentCranesContainer Cranes"
+                    },
+                    {
+                        "name": "Hydraulic Cranes",
+                        "url": "https://www.plantandequipment.com/lifting-equipmentCranesHydraulic Cranes"
+                    },
+                    {
+                        "name": "Diesel Pick & Carry Crane",
+                        "url": "https://www.plantandequipment.com/lifting-equipmentCranesDiesel Pick & Carry Crane"
+                    }
+                ]
+            },
+            {
+                "name": "Reachstackers",
+                "url": "https://www.plantandequipment.com/lifting-equipmentReachstackers",
+                "subcategories": []
+            },
+            {
+                "name": "Pallet Stacker",
+                "url": "https://www.plantandequipment.com/lifting-equipmentPallet Stacker",
+                "subcategories": [
+                    {
+                        "name": "Electric Pallet Truck",
+                        "url": "https://www.plantandequipment.com/lifting-equipmentPallet StackerElectric Pallet Truck"
+                    },
+                    {
+                        "name": "Pedestrian Pallet Stacker",
+                        "url": "https://www.plantandequipment.com/lifting-equipmentPallet StackerPedestrian Pallet Stacker"
+                    }
+                ]
+            },
+            {
+                "name": "Container Handlers",
+                "url": "https://www.plantandequipment.com/lifting-equipmentContainer Handlers",
+                "subcategories": []
+            },
+            {
+                "name": "Hoists",
+                "url": "https://www.plantandequipment.com/lifting-equipmentHoists",
+                "subcategories": []
+            },
+            {
+                "name": "Access Equipment",
+                "url": "https://www.plantandequipment.com/lifting-equipmentAccess Equipment",
+                "subcategories": []
+            }
+        ]
+    },
+    {
+        "name": "\nAgricultural Equipment\n",
+        "url": "https://www.plantandequipment.com/agricultural-equipment",
+        "subcategories": [
+            {
+                "name": "Tractors",
+                "url": "https://www.plantandequipment.com/agricultural-equipmentTractors",
+                "subcategories": []
+            },
+            {
+                "name": "Agricultural & Forestry",
+                "url": "https://www.plantandequipment.com/agricultural-equipmentAgricultural & Forestry",
+                "subcategories": []
+            },
+            {
+                "name": "Harvesters",
+                "url": "https://www.plantandequipment.com/agricultural-equipmentHarvesters",
+                "subcategories": []
+            },
+            {
+                "name": "Agricultural Trailers",
+                "url": "https://www.plantandequipment.com/agricultural-equipmentAgricultural Trailers",
+                "subcategories": []
+            },
+            {
+                "name": "Agriculture Equipment",
+                "url": "https://www.plantandequipment.com/agricultural-equipmentAgriculture Equipment",
+                "subcategories": [
+                    {
+                        "name": "Forage Headers",
+                        "url": "https://www.plantandequipment.com/agricultural-equipmentAgriculture EquipmentForage Headers"
+                    },
+                    {
+                        "name": "Fertiliser Spreaders",
+                        "url": "https://www.plantandequipment.com/agricultural-equipmentAgriculture EquipmentFertiliser Spreaders"
+                    },
+                    {
+                        "name": "Plough",
+                        "url": "https://www.plantandequipment.com/agricultural-equipmentAgriculture EquipmentPlough"
+                    },
+                    {
+                        "name": "Trailed Sprayers",
+                        "url": "https://www.plantandequipment.com/agricultural-equipmentAgriculture EquipmentTrailed Sprayers"
+                    },
+                    {
+                        "name": "Grassland Harrows",
+                        "url": "https://www.plantandequipment.com/agricultural-equipmentAgriculture EquipmentGrassland Harrows"
+                    },
+                    {
+                        "name": "Self Loading Forage Wagon",
+                        "url": "https://www.plantandequipment.com/agricultural-equipmentAgriculture EquipmentSelf Loading Forage Wagon"
+                    },
+                    {
+                        "name": "Hay Equipment",
+                        "url": "https://www.plantandequipment.com/agricultural-equipmentAgriculture EquipmentHay Equipment"
+                    },
+                    {
+                        "name": "Balers",
+                        "url": "https://www.plantandequipment.com/agricultural-equipmentAgriculture EquipmentBalers"
+                    }
+                ]
+            },
+            {
+                "name": "Mowers",
+                "url": "https://www.plantandequipment.com/agricultural-equipmentMowers",
+                "subcategories": []
+            },
+            {
+                "name": "Chippers",
+                "url": "https://www.plantandequipment.com/agricultural-equipmentChippers",
+                "subcategories": []
+            },
+            {
+                "name": "Cultivators",
+                "url": "https://www.plantandequipment.com/agricultural-equipmentCultivators",
+                "subcategories": []
+            },
+            {
+                "name": "Seeders",
+                "url": "https://www.plantandequipment.com/agricultural-equipmentSeeders",
+                "subcategories": []
+            },
+            {
+                "name": "Feeders",
+                "url": "https://www.plantandequipment.com/agricultural-equipmentFeeders",
+                "subcategories": []
+            },
+            {
+                "name": "Square Balers",
+                "url": "https://www.plantandequipment.com/agricultural-equipmentSquare Balers",
+                "subcategories": []
+            },
+            {
+                "name": "Cutters",
+                "url": "https://www.plantandequipment.com/agricultural-equipmentCutters",
+                "subcategories": []
+            },
+            {
+                "name": "Plows",
+                "url": "https://www.plantandequipment.com/agricultural-equipmentPlows",
+                "subcategories": []
+            },
+            {
+                "name": "Rakes",
+                "url": "https://www.plantandequipment.com/agricultural-equipmentRakes",
+                "subcategories": []
+            },
+            {
+                "name": "Mulcher Tractors",
+                "url": "https://www.plantandequipment.com/agricultural-equipmentMulcher Tractors",
+                "subcategories": []
+            }
+        ]
+    },
+    {
+        "name": "\nVehicles\n",
+        "url": "https://www.plantandequipment.com/vehicles",
+        "subcategories": [
+            {
+                "name": "Commercial Vehicles",
+                "url": "https://www.plantandequipment.com/vehiclesCommercial Vehicles",
+                "subcategories": []
+            },
+            {
+                "name": "Cars",
+                "url": "https://www.plantandequipment.com/vehiclesCars",
+                "subcategories": []
+            },
+            {
+                "name": "Buses",
+                "url": "https://www.plantandequipment.com/vehiclesBuses",
+                "subcategories": []
+            },
+            {
+                "name": "Pickup Trucks",
+                "url": "https://www.plantandequipment.com/vehiclesPickup Trucks",
+                "subcategories": []
+            },
+            {
+                "name": "Vans",
+                "url": "https://www.plantandequipment.com/vehiclesVans",
+                "subcategories": []
+            },
+            {
+                "name": "Utility Vehicle",
+                "url": "https://www.plantandequipment.com/vehiclesUtility Vehicle",
+                "subcategories": []
+            },
+            {
+                "name": "Atv'S",
+                "url": "https://www.plantandequipment.com/vehiclesAtv'S",
+                "subcategories": []
+            },
+            {
+                "name": "Service Vehicles",
+                "url": "https://www.plantandequipment.com/vehiclesService Vehicles",
+                "subcategories": []
+            },
+            {
+                "name": "Motorcycles",
+                "url": "https://www.plantandequipment.com/vehiclesMotorcycles",
+                "subcategories": []
+            },
+            {
+                "name": "Ambulances",
+                "url": "https://www.plantandequipment.com/vehiclesAmbulances",
+                "subcategories": []
+            },
+            {
+                "name": "Boats",
+                "url": "https://www.plantandequipment.com/vehiclesBoats",
+                "subcategories": []
+            },
+            {
+                "name": "Waste Compactors",
+                "url": "https://www.plantandequipment.com/vehiclesWaste Compactors",
+                "subcategories": []
+            }
+        ]
+    }
+]
