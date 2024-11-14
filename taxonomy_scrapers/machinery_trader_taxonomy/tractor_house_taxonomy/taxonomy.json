@@ -1,0 +1,1513 @@
+[
+    {
+        "name": "Tractors",
+        "value": "1100",
+        "url": "https://www.tractorhouse.com/listings/search?Category=1100&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "300 HP or Greater Tractors",
+                "value": "1234",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1234&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "175 HP to 299 HP Tractors",
+                "value": "1108",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1108&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "100 HP to 174 HP Tractors",
+                "value": "1109",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1109&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "40 HP to 99 HP Tractors",
+                "value": "1110",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1110&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Less than 40 HP Tractors",
+                "value": "1111",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1111&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Harvesters",
+        "value": "1101",
+        "url": "https://www.tractorhouse.com/listings/search?Category=1101&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Combines",
+                "value": "1112",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1112&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Cotton Pickers/Strippers",
+                "value": "1113",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1113&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Forage Harvesters",
+                "value": "1114",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1114&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Self-Propelled Forage Harvesters",
+                        "value": "300012",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=300012&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Pull-Type Forage Harvesters",
+                        "value": "300014",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=300014&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Headers",
+                "value": "1115",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1115&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Row Crop Headers",
+                        "value": "300000",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=300000&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Platform Headers",
+                        "value": "300002",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=300002&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Forage Headers",
+                        "value": "300004",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=300004&ListingType=Auction%20Results&page=1",
+                        "sub_categories": [
+                            {
+                                "name": "Row Crop Forage Headers",
+                                "value": "300006",
+                                "url": "https://www.tractorhouse.com/listings/search?Category=300006&ListingType=Auction%20Results&page=1"
+                            },
+                            {
+                                "name": "Rotary Forage Headers",
+                                "value": "300008",
+                                "url": "https://www.tractorhouse.com/listings/search?Category=300008&ListingType=Auction%20Results&page=1"
+                            },
+                            {
+                                "name": "Windrow Forage Headers",
+                                "value": "300010",
+                                "url": "https://www.tractorhouse.com/listings/search?Category=300010&ListingType=Auction%20Results&page=1"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Other Harvesters",
+                "value": "1116",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1116&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Harvest Equipment",
+        "value": "1102",
+        "url": "https://www.tractorhouse.com/listings/search?Category=1102&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Forage Wagons",
+                "value": "300033",
+                "url": "https://www.tractorhouse.com/listings/search?Category=300033&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Grain Carts",
+                "value": "1118",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1118&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Gravity Wagons",
+                "value": "1119",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1119&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Other Harvest Equipment",
+                "value": "1120",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1120&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Planting Equipment",
+        "value": "1103",
+        "url": "https://www.tractorhouse.com/listings/search?Category=1103&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Air Seeders/Air Carts",
+                "value": "1121",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1121&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Grain Drills",
+                "value": "1122",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1122&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Planters",
+                "value": "1123",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1123&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Seed Tenders",
+                "value": "300043",
+                "url": "https://www.tractorhouse.com/listings/search?Category=300043&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Other Planting Equipment",
+                "value": "1124",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1124&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Tillage Equipment",
+        "value": "1104",
+        "url": "https://www.tractorhouse.com/listings/search?Category=1104&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Chisel Plows",
+                "value": "1155",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1155&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Disks",
+                "value": "1125",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1125&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Field Cultivators",
+                "value": "1126",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1126&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Land Rollers",
+                "value": "300036",
+                "url": "https://www.tractorhouse.com/listings/search?Category=300036&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Mulch Finishers",
+                "value": "1127",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1127&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Plows",
+                "value": "1198",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1198&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Rippers",
+                "value": "1199",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1199&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Rotary Tillage",
+                "value": "1129",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1129&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Row Crop Cultivators",
+                "value": "1130",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1130&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Vertical Tillage",
+                "value": "300037",
+                "url": "https://www.tractorhouse.com/listings/search?Category=300037&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Other",
+                "value": "1131",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1131&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Hay and Forage Equipment",
+        "value": "1105",
+        "url": "https://www.tractorhouse.com/listings/search?Category=1105&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Bale Accumulators / Movers",
+                "value": "1151",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1151&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Bale Wrappers",
+                "value": "1238",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1238&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Disc Mowers",
+                "value": "1172",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1172&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Mower Conditioners/Windrowers",
+                "value": "1132",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1132&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Self-Propelled Mower Conditioners/Windrowers",
+                        "value": "1235",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=1235&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Pull-Type Mower Conditioners/Windrowers",
+                        "value": "1236",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=1236&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Mounted Mower Conditioners/Windrowers",
+                        "value": "1237",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=1237&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Hay Rakes",
+                "value": "1133",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1133&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Tedders",
+                "value": "1242",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1242&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Rotary Mowers",
+                "value": "1134",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1134&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Round Balers",
+                "value": "1135",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1135&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Square Balers",
+                "value": "1136",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1136&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Large Square Balers",
+                        "value": "300081",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=300081&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Small Square Balers",
+                        "value": "300082",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=300082&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Stalk Choppers/Flail Mowers",
+                "value": "1137",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1137&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Tub Grinders/Bale Processors",
+                "value": "1138",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1138&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Other Hay and Forage Equipment",
+                "value": "1139",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1139&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Chemical Applicators",
+        "value": "1106",
+        "url": "https://www.tractorhouse.com/listings/search?Category=1106&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Fertilizer Applicators",
+                "value": "1140",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1140&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Dry Fertilizer Applicators",
+                        "value": "300022",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=300022&ListingType=Auction%20Results&page=1",
+                        "sub_categories": [
+                            {
+                                "name": "Pull Type Dry Fertilizer Applicators",
+                                "value": "300046",
+                                "url": "https://www.tractorhouse.com/listings/search?Category=300046&ListingType=Auction%20Results&page=1"
+                            },
+                            {
+                                "name": "Self Propelled Dry Fertilizer Applicators",
+                                "value": "300047",
+                                "url": "https://www.tractorhouse.com/listings/search?Category=300047&ListingType=Auction%20Results&page=1"
+                            },
+                            {
+                                "name": "3 Point / Mounted Dry Fertilizer Applicators",
+                                "value": "300048",
+                                "url": "https://www.tractorhouse.com/listings/search?Category=300048&ListingType=Auction%20Results&page=1"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Liquid Fertilizer Applicators",
+                        "value": "300020",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=300020&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Anhydrous Fertilizer Applicators",
+                        "value": "300024",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=300024&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Floaters",
+                "value": "1141",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1141&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Dry Floaters",
+                        "value": "1156",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=1156&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Liquid Floaters",
+                        "value": "1157",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=1157&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Sprayers",
+                "value": "1142",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1142&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Pull Type Sprayers",
+                        "value": "300016",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=300016&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Self Propelled Sprayers",
+                        "value": "300018",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=300018&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "3 pt/Mounted Sprayers",
+                        "value": "300026",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=300026&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Tenders",
+                "value": "300040",
+                "url": "https://www.tractorhouse.com/listings/search?Category=300040&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Dry Tenders",
+                        "value": "300041",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=300041&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Liquid Tenders",
+                        "value": "300042",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=300042&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Anhydrous Tenders",
+                        "value": "300045",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=300045&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Other Chemical Applicators",
+                "value": "1143",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1143&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Manure Handling",
+        "value": "1152",
+        "url": "https://www.tractorhouse.com/listings/search?Category=1152&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Manure Spreaders",
+                "value": "300028",
+                "url": "https://www.tractorhouse.com/listings/search?Category=300028&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Dry Manure Spreaders",
+                        "value": "300029",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=300029&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Liquid Manure Spreaders",
+                        "value": "300030",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=300030&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Manure Systems",
+                "value": "1197",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1197&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Poultry Litter Equipment",
+                "value": "1154",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1154&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Grain Handling / Storage Equipment",
+        "value": "300050",
+        "url": "https://www.tractorhouse.com/listings/search?Category=300050&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Grain Bins",
+                "value": "300055",
+                "url": "https://www.tractorhouse.com/listings/search?Category=300055&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Grain Augers",
+                "value": "1117",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1117&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Grain Conveyors",
+                "value": "300060",
+                "url": "https://www.tractorhouse.com/listings/search?Category=300060&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Grain Vacs",
+                "value": "300065",
+                "url": "https://www.tractorhouse.com/listings/search?Category=300065&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Grain Dryers",
+                "value": "300070",
+                "url": "https://www.tractorhouse.com/listings/search?Category=300070&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Grain Elevators / Legs",
+                "value": "300075",
+                "url": "https://www.tractorhouse.com/listings/search?Category=300075&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Grain Baggers",
+                "value": "300129",
+                "url": "https://www.tractorhouse.com/listings/search?Category=300129&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Grain Bag Unloaders",
+                "value": "300130",
+                "url": "https://www.tractorhouse.com/listings/search?Category=300130&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Other Grain Handling / Storage Equipment",
+                "value": "300080",
+                "url": "https://www.tractorhouse.com/listings/search?Category=300080&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Ag Trailers",
+        "value": "300027",
+        "url": "https://www.tractorhouse.com/listings/search?Category=300027&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Material Handling Trailers",
+                "value": "300031",
+                "url": "https://www.tractorhouse.com/listings/search?Category=300031&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Livestock Trailers",
+                "value": "300032",
+                "url": "https://www.tractorhouse.com/listings/search?Category=300032&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Header Trailers",
+                "value": "300034",
+                "url": "https://www.tractorhouse.com/listings/search?Category=300034&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Other Ag Trailers",
+                "value": "300035",
+                "url": "https://www.tractorhouse.com/listings/search?Category=300035&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Outdoor Power",
+        "value": "1185",
+        "url": "https://www.tractorhouse.com/listings/search?Category=1185&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Chainsaws",
+                "value": "1186",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1186&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Lawn Mowers",
+                "value": "1188",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1188&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Riding Lawn Mowers",
+                        "value": "1170",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=1170&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Stand On Lawn Mowers",
+                        "value": "1189",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=1189&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Walk-Behind Lawn Mowers",
+                        "value": "1190",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=1190&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Zero Turn Lawn Mowers",
+                        "value": "1191",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=1191&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Snow Blowers",
+                "value": "1193",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1193&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Other Outdoor Power",
+                "value": "1195",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1195&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Motorsports",
+        "value": "151000",
+        "url": "https://www.tractorhouse.com/listings/search?Category=151000&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "ATVs",
+                "value": "1168",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1168&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Recreation / Utility ATVs",
+                        "value": "151005",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=151005&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Sport ATVs",
+                        "value": "151006",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=151006&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Youth ATVs",
+                        "value": "151007",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=151007&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Other ATVs",
+                        "value": "151008",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=151008&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Utility Vehicles",
+                "value": "1171",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1171&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Utility Utility Vehicles",
+                        "value": "151009",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=151009&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Sport / Recreation Utility Vehicles",
+                        "value": "151010",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=151010&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Other Utility Vehicles",
+                        "value": "151011",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=151011&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Snowmobiles",
+                "value": "1194",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1194&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Trail Snowmobiles",
+                        "value": "151012",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=151012&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Performance Snowmobiles",
+                        "value": "151013",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=151013&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Touring Snowmobiles",
+                        "value": "151014",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=151014&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Mountain Snowmobiles",
+                        "value": "151015",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=151015&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Utility Snowmobiles",
+                        "value": "151016",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=151016&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Cross Over Snowmobiles",
+                        "value": "151017",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=151017&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Youth Snowmobiles",
+                        "value": "151018",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=151018&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Other Snowmobiles",
+                        "value": "151019",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=151019&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Motorcycles",
+                "value": "1192",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1192&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Cruiser Motorcycles",
+                        "value": "151020",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=151020&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Sport Bike Motorcycles",
+                        "value": "151021",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=151021&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Touring Motorcycles",
+                        "value": "151022",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=151022&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Dirt Bike Motorcycles",
+                        "value": "151023",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=151023&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Dual Sport Motorcycles",
+                        "value": "151024",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=151024&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Standard Motorcycles",
+                        "value": "151025",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=151025&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Trike Motorcycles",
+                        "value": "151026",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=151026&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Scooter Motorcycles",
+                        "value": "151027",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=151027&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Sport Touring Motorcycles",
+                        "value": "151028",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=151028&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Motocross Motorcycles",
+                        "value": "151029",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=151029&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Vintage Motorcycles",
+                        "value": "151030",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=151030&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Moped Motorcycles",
+                        "value": "151031",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=151031&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Other Motorcycles",
+                        "value": "151032",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=151032&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Go Karts",
+                "value": "151033",
+                "url": "https://www.tractorhouse.com/listings/search?Category=151033&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Drones",
+        "value": "1243",
+        "url": "https://www.tractorhouse.com/listings/search?Category=1243&ListingType=Auction%20Results&page=1"
+    },
+    {
+        "name": "Precision Ag",
+        "value": "1244",
+        "url": "https://www.tractorhouse.com/listings/search?Category=1244&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Application / Flow Controls Precision Ag",
+                "value": "1245",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1245&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Displays / Monitors Precision Ag",
+                "value": "1246",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1246&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "GPS Receivers / Base Stations Precision Ag",
+                "value": "1247",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1247&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Performance Chips Precision Ag",
+                "value": "1248",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1248&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Radios Precision Ag",
+                "value": "1249",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1249&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Software / Telematics Precision Ag",
+                "value": "1250",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1250&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Steering Systems Precision Ag",
+                "value": "1251",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1251&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Miscellaneous Precision Ag",
+                "value": "1252",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1252&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Other Equipment",
+        "value": "1107",
+        "url": "https://www.tractorhouse.com/listings/search?Category=1107&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Blades/Box Scrapers",
+                "value": "1144",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1144&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Feed Grinders",
+                "value": "1145",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1145&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Feed/Mixer Wagon",
+                "value": "1146",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1146&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Loaders",
+                "value": "1147",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1147&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Power Units",
+                "value": "1169",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1169&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Miscellaneous Other Equipment",
+                "value": "1149",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1149&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Specialty Crop Equipment",
+        "value": "300100",
+        "url": "https://www.tractorhouse.com/listings/search?Category=300100&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Orchard / Vineyard Tractors",
+                "value": "300127",
+                "url": "https://www.tractorhouse.com/listings/search?Category=300127&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Harvesters Specialty Crop Equipment",
+                "value": "300101",
+                "url": "https://www.tractorhouse.com/listings/search?Category=300101&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Nut Harvesters Specialty Crop Equipment",
+                        "value": "300102",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=300102&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Grape / Berry Harvesters Specialty Crop Equipment",
+                        "value": "300103",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=300103&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Vegetable Harvesters Specialty Crop Equipment",
+                        "value": "300104",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=300104&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Other Harvesters Specialty Crop Equipment",
+                        "value": "300105",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=300105&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Shakers",
+                "value": "300106",
+                "url": "https://www.tractorhouse.com/listings/search?Category=300106&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Front Shakers",
+                        "value": "300107",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=300107&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Side Shakers",
+                        "value": "300108",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=300108&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Receivers",
+                "value": "300109",
+                "url": "https://www.tractorhouse.com/listings/search?Category=300109&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Blowers",
+                "value": "300110",
+                "url": "https://www.tractorhouse.com/listings/search?Category=300110&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Sweepers",
+                "value": "300111",
+                "url": "https://www.tractorhouse.com/listings/search?Category=300111&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Carts",
+                "value": "300112",
+                "url": "https://www.tractorhouse.com/listings/search?Category=300112&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Self Propelled Carts",
+                        "value": "300113",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=300113&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Pull Type Carts",
+                        "value": "300114",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=300114&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Bin Carriers",
+                "value": "300115",
+                "url": "https://www.tractorhouse.com/listings/search?Category=300115&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Conditioners",
+                "value": "300116",
+                "url": "https://www.tractorhouse.com/listings/search?Category=300116&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Orchard Sprayers",
+                "value": "300117",
+                "url": "https://www.tractorhouse.com/listings/search?Category=300117&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Self Propelled Orchard Sprayers",
+                        "value": "300118",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=300118&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Pull Type Orchard Sprayers",
+                        "value": "300119",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=300119&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "3pt / Mounted Orchard Sprayers",
+                        "value": "300120",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=300120&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Pruners",
+                "value": "300121",
+                "url": "https://www.tractorhouse.com/listings/search?Category=300121&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Tower Pruners",
+                        "value": "300122",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=300122&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Hedger Pruners",
+                        "value": "300123",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=300123&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Soil / Floor Management",
+                "value": "300125",
+                "url": "https://www.tractorhouse.com/listings/search?Category=300125&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Other Equipment Specialty Crop Equipment",
+                "value": "300126",
+                "url": "https://www.tractorhouse.com/listings/search?Category=300126&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Livestock Equipment",
+        "value": "1201",
+        "url": "https://www.tractorhouse.com/listings/search?Category=1201&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Feeders",
+                "value": "1202",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1202&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Gates & Panels",
+                "value": "1203",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1203&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Handling Equipment",
+                "value": "1204",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1204&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Scales",
+                "value": "1205",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1205&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Sweep & Corral Systems",
+                "value": "1206",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1206&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Water Tanks",
+                "value": "1207",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1207&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Other Livestock Equipment",
+                "value": "1208",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1208&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Irrigation Equipment",
+        "value": "1200",
+        "url": "https://www.tractorhouse.com/listings/search?Category=1200&ListingType=Auction%20Results&page=1"
+    },
+    {
+        "name": "Turf Equipment",
+        "value": "12001",
+        "url": "https://www.tractorhouse.com/listings/search?Category=12001&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Mowers",
+                "value": "12002",
+                "url": "https://www.tractorhouse.com/listings/search?Category=12002&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Fairway Mowers",
+                        "value": "12003",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=12003&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Greens & Tees - Riding Mowers",
+                        "value": "12004",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=12004&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Greens & Tees - Walking Mowers",
+                        "value": "12005",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=12005&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Rough - Reel Mowers",
+                        "value": "12006",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=12006&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Rough - Rotary Mowers",
+                        "value": "12007",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=12007&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Trim, Surrounds & Slope Mowers",
+                        "value": "12008",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=12008&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Greens Rollers",
+                "value": "12014",
+                "url": "https://www.tractorhouse.com/listings/search?Category=12014&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Top Dressers & Spreaders",
+                "value": "12015",
+                "url": "https://www.tractorhouse.com/listings/search?Category=12015&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Seeders",
+                "value": "12016",
+                "url": "https://www.tractorhouse.com/listings/search?Category=12016&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Trap & Bunker Rakes",
+                "value": "12017",
+                "url": "https://www.tractorhouse.com/listings/search?Category=12017&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Miscellaneous Turf Equipment",
+                "value": "12018",
+                "url": "https://www.tractorhouse.com/listings/search?Category=12018&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Sprayers Turf Equipment",
+                "value": "12029",
+                "url": "https://www.tractorhouse.com/listings/search?Category=12029&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Blowers, Sweepers & Vacuums Turf Equipment",
+                "value": "12030",
+                "url": "https://www.tractorhouse.com/listings/search?Category=12030&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Aerators & Dethatchers",
+                "value": "12031",
+                "url": "https://www.tractorhouse.com/listings/search?Category=12031&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Golf Carts",
+                "value": "1187",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1187&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Electric Golf Carts",
+                        "value": "1240",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=1240&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Gas Golf Carts",
+                        "value": "1241",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=1241&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dozers",
+        "value": "1025",
+        "url": "https://www.tractorhouse.com/listings/search?Category=1025&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Crawler Dozers",
+                "value": "1026",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1026&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Wheel Dozers",
+                "value": "1027",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1027&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Excavators",
+        "value": "1031",
+        "url": "https://www.tractorhouse.com/listings/search?Category=1031&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Crawler Excavators",
+                "value": "1032",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1032&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Mini (up to 12,000 lbs) Excavators",
+                "value": "1033",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1033&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Lifts",
+        "value": "1040",
+        "url": "https://www.tractorhouse.com/listings/search?Category=1040&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Forklifts",
+                "value": "1036",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1036&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Pneumatic Tire Forklifts",
+                        "value": "13050",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=13050&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Cushion Tire Forklifts",
+                        "value": "13051",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=13051&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Rough Terrain Forklifts",
+                        "value": "13052",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=13052&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Stand Up / Reach Forklifts",
+                        "value": "13053",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=13053&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Order Picker Forklifts",
+                        "value": "13054",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=13054&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Truck Mounted Forklifts",
+                        "value": "13055",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=13055&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Swing Reach Forklifts",
+                        "value": "13056",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=13056&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Walkie Stacker Forklifts",
+                        "value": "13057",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=13057&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Pallet Jack Forklifts",
+                        "value": "13058",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=13058&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Side Loader / Bi-Directional Forklifts",
+                        "value": "13059",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=13059&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Straddle Carrier Forklifts",
+                        "value": "13060",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=13060&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Die Handler Forklifts",
+                        "value": "13061",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=13061&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Other Forklifts",
+                        "value": "13062",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=13062&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Telehandlers",
+                "value": "1038",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1038&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Loader Backhoes",
+        "value": "1046",
+        "url": "https://www.tractorhouse.com/listings/search?Category=1046&ListingType=Auction%20Results&page=1"
+    },
+    {
+        "name": "Scrapers",
+        "value": "1054",
+        "url": "https://www.tractorhouse.com/listings/search?Category=1054&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Motor Scrapers",
+                "value": "1081",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1081&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Pull Scrapers",
+                "value": "1082",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1082&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Skid Steers",
+        "value": "1055",
+        "url": "https://www.tractorhouse.com/listings/search?Category=1055&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Track Skid Steers",
+                "value": "1072",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1072&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Wheel Skid Steers",
+                "value": "1073",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1073&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Mini Skid Steers",
+                "value": "1088",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1088&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Trenchers / Cable Plows",
+        "value": "1058",
+        "url": "https://www.tractorhouse.com/listings/search?Category=1058&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Ride On Trenchers / Cable Plows",
+                "value": "31564",
+                "url": "https://www.tractorhouse.com/listings/search?Category=31564&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Walk Behind / Stand On Trenchers / Cable Plows",
+                "value": "31565",
+                "url": "https://www.tractorhouse.com/listings/search?Category=31565&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Trench Boxes Trenchers / Cable Plows",
+                "value": "1087",
+                "url": "https://www.tractorhouse.com/listings/search?Category=1087&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Other Trenchers / Cable Plows",
+                "value": "31566",
+                "url": "https://www.tractorhouse.com/listings/search?Category=31566&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Wheel Loaders",
+        "value": "1060",
+        "url": "https://www.tractorhouse.com/listings/search?Category=1060&ListingType=Auction%20Results&page=1"
+    },
+    {
+        "name": "Trucks",
+        "value": "16000",
+        "url": "https://www.tractorhouse.com/listings/search?Category=16000&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Cab & Chassis Trucks",
+                "value": "16009",
+                "url": "https://www.tractorhouse.com/listings/search?Category=16009&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Day Cab Trucks",
+                "value": "16013",
+                "url": "https://www.tractorhouse.com/listings/search?Category=16013&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Farm Trucks / Grain Trucks",
+                "value": "16017",
+                "url": "https://www.tractorhouse.com/listings/search?Category=16017&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Fire Trucks",
+                "value": "16018",
+                "url": "https://www.tractorhouse.com/listings/search?Category=16018&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Flatbed Trucks",
+                "value": "16019",
+                "url": "https://www.tractorhouse.com/listings/search?Category=16019&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Pickup Trucks",
+                "value": "16034",
+                "url": "https://www.tractorhouse.com/listings/search?Category=16034&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "1 Ton Pickup Trucks",
+                        "value": "16035",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=16035&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "1/2 Ton Pickup Trucks",
+                        "value": "16036",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=16036&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "3/4 Ton Pickup Trucks",
+                        "value": "16037",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=16037&ListingType=Auction%20Results&page=1"
+                    },
+                    {
+                        "name": "Other Pickup Trucks",
+                        "value": "16038",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=16038&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            },
+            {
+                "name": "Service Trucks / Utility Trucks / Mechanic Trucks",
+                "value": "16043",
+                "url": "https://www.tractorhouse.com/listings/search?Category=16043&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Sleeper Trucks",
+                "value": "16045",
+                "url": "https://www.tractorhouse.com/listings/search?Category=16045&ListingType=Auction%20Results&page=1"
+            }
+        ]
+    },
+    {
+        "name": "Semi-Trailers",
+        "value": "880",
+        "url": "https://www.tractorhouse.com/listings/search?Category=880&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Agriculture Equipment Transport Trailers",
+                "value": "860",
+                "url": "https://www.tractorhouse.com/listings/search?Category=860&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Hopper / Grain Trailers",
+                "value": "54",
+                "url": "https://www.tractorhouse.com/listings/search?Category=54&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Live Floor Trailers",
+                "value": "342",
+                "url": "https://www.tractorhouse.com/listings/search?Category=342&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Livestock Trailers",
+                "value": "16",
+                "url": "https://www.tractorhouse.com/listings/search?Category=16&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Lowboy Trailers",
+                "value": "18",
+                "url": "https://www.tractorhouse.com/listings/search?Category=18&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Open Top Trailers",
+                "value": "19",
+                "url": "https://www.tractorhouse.com/listings/search?Category=19&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Tank Trailers",
+                "value": "21",
+                "url": "https://www.tractorhouse.com/listings/search?Category=21&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Non Code Tank Trailers",
+                        "value": "65",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=65&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Trailers",
+        "value": "881",
+        "url": "https://www.tractorhouse.com/listings/search?Category=881&ListingType=Auction%20Results&page=1",
+        "sub_categories": [
+            {
+                "name": "Flatbed / Tag Trailers",
+                "value": "886",
+                "url": "https://www.tractorhouse.com/listings/search?Category=886&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Horse Trailers",
+                "value": "365",
+                "url": "https://www.tractorhouse.com/listings/search?Category=365&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Livestock Trailers",
+                "value": "887",
+                "url": "https://www.tractorhouse.com/listings/search?Category=887&ListingType=Auction%20Results&page=1"
+            },
+            {
+                "name": "Tank Trailers",
+                "value": "890",
+                "url": "https://www.tractorhouse.com/listings/search?Category=890&ListingType=Auction%20Results&page=1",
+                "sub_categories": [
+                    {
+                        "name": "Gasoline / Fuel Tank Trailers",
+                        "value": "891",
+                        "url": "https://www.tractorhouse.com/listings/search?Category=891&ListingType=Auction%20Results&page=1"
+                    }
+                ]
+            }
+        ]
+    }
+]
