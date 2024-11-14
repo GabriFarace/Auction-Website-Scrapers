@@ -2,26 +2,26 @@ import json
 import requests
 
 
-URL = "https://www.machinerytrader.com"
+URL = "https://www.tractorhouse.com"
 
 TAXONOMY = 'taxonomy3.json' # file that contains the gov_deals  3-level taxonomy
 
 def get_response():
-    with open("../../config.json", "r") as f:
+    with open("../../../config.json", "r") as f:
         c = json.load(f)
-        config = c["machinery_trader"]
+        config = c["tractor_house"]
 
 
-    url = "https://www.machinerytrader.com/ajaxcontent/getdrilldownsearch?lang=en-US&eListingType=1&eDrillDownField=1&isAttachmentSearch=false"
+    url = "https://www.tractorhouse.com/ajaxcontent/getdrilldownsearch?lang=en-US&eListingType=1&eDrillDownField=1&isAttachmentSearch=false"
 
     payload = {}
     headers = {
         'accept': 'application/json, text/plain, */*',
         'accept-language': 'it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7',
         'content-type': 'application/json',
-        'cookie' : config["cookie"],
+        'cookie': config['cookie'],
         'priority': 'u=1, i',
-        'referer': 'https://www.machinerytrader.com/',
+        'referer': 'https://www.tractorhouse.com/',
         'sec-ch-ua': '"Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"',
         'sec-ch-ua-mobile': '?0',
         'sec-ch-ua-platform': '"Windows"',
@@ -29,7 +29,7 @@ def get_response():
         'sec-fetch-mode': 'cors',
         'sec-fetch-site': 'same-origin',
         'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36',
-        'x-xsrf-token': config["x-xsrf-token"],
+        'x-xsrf-token': config["x-xsrf-token"]
     }
 
     response = requests.request("GET", url, headers=headers, data=payload)
@@ -54,7 +54,7 @@ def get_recursive_subcategories(all_categories, index, parent_value):
     return index, result
 
 def get_complete_taxonomy(file_taxonomy, response):
-    ''' Get the complete taxonomy of machinery trader using the refactored json file sniffed by inspection in the website'''
+    ''' Get the complete taxonomy of tractor house using the refactored json file sniffed by inspection in the website'''
 
     all_categories = response["Categories"][1:]
     index, categories = get_recursive_subcategories(all_categories, 0, "")

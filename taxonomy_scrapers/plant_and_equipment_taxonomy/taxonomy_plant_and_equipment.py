@@ -10,7 +10,7 @@ from selenium.webdriver.support import expected_conditions as EC
 ###TODO FIX URLS
 URL = "https://www.plantandequipment.com"
 
-TAXONOMY = 'taxonomy.json' # file that contains the plant and equipment taxonomy
+TAXONOMY = 'taxonomy3.json' # file that contains the plant and equipment taxonomy
 
 class PlantAndEquipmentTaxonomyScraper:
     ''' Taxonomy scraper of the plant and equipment website'''

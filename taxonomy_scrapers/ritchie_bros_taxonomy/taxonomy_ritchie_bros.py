@@ -5,7 +5,7 @@ import requests
 URL = "https://www.rbauction.com"
 URL_ITA = "https://www.rbauction.it"# ritchie bros italian website URL
 
-TAXONOMY = 'taxonomy.json' # file that contains the ritchie bros 3-level taxonomy
+TAXONOMY = 'taxonomy3.json' # file that contains the ritchie bros 3-level taxonomy
 TAXONOMY_ITA = 'taxonomy_ita.json' # file that contains the ritchie bros 3-level taxonomy in italian
 
 def get_response(url):
