@@ -9,7 +9,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 URL = "https://surplusrecord.com"
 
-TAXONOMY = 'taxonomy3.json' # file that contains the surplus record taxonomy
+TAXONOMY = 'taxonomy.json' # file that contains the surplus record taxonomy
 
 class SurplusRecordTaxonomyScraper:
     ''' Abstract taxonomy scraper of the surplus record website'''

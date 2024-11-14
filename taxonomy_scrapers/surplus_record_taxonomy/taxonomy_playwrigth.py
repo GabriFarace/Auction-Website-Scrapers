@@ -5,7 +5,7 @@ import random
 
 URL = "https://surplusrecord.com"
 
-TAXONOMY = 'taxonomy3.json' # file that contains the surplus record taxonomy
+TAXONOMY = 'taxonomy.json' # file that contains the surplus record taxonomy
 
 
 class WebScraper:

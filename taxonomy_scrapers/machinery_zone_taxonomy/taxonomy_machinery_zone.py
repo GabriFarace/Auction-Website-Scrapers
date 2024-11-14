@@ -11,7 +11,7 @@ from selenium.webdriver.support import expected_conditions as EC
 URL_CONSTRUCTION = "https://www.machineryzone.com"
 URL_AGRICULTURE = "https://www.agriaffaires.us"
 URL_MAP = {URL_CONSTRUCTION : "construction.html", URL_AGRICULTURE : "agriculture.html"}
-TAXONOMY = 'taxonomy3.json' # file that contains the machinery zone  3-level taxonomy
+TAXONOMY = 'taxonomy.json' # file that contains the machinery zone  3-level taxonomy
 
 
 def get_response(url):

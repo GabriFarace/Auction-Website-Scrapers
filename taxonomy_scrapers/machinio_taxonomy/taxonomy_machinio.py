@@ -8,7 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 URL = "https://www.machinio.com"
 
-TAXONOMY = 'taxonomy3.json' # file that contains the taxonomy
+TAXONOMY = 'taxonomy.json' # file that contains the taxonomy
 
 class MachinioTaxonomyScraper:
     ''' Taxonomy scraper of the machinio website'''

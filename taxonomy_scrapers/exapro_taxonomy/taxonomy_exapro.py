@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 URL = "https://www.exapro.com"
 
-TAXONOMY = 'taxonomy3.json' # file that contains the gov_deals  3-level taxonomy
+TAXONOMY = 'taxonomy.json' # file that contains the gov_deals  3-level taxonomy
 
 def get_response():
 

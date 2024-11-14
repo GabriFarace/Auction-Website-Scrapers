@@ -8,7 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 URL = "https://www.surplex.com"
 
-TAXONOMY = 'taxonomy3.json' # file that contains the  3-level taxonomy
+TAXONOMY = 'taxonomy.json' # file that contains the  3-level taxonomy
 
 class SurplexTaxonomyScraper:
     ''' Taxonomy scraper of the surplex website'''
