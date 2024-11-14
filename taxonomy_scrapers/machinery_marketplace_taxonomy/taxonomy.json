@@ -1,0 +1,1429 @@
+[
+    {
+        "name": "Construction",
+        "subcategories": [
+            {
+                "name": "Aggregate Equipment",
+                "id": "142",
+                "subcategories": [
+                    {
+                        "name": "Belt Sampler & De-Watering System",
+                        "id": 367,
+                        "parent_id": 142
+                    },
+                    {
+                        "name": "Cone & Jaw Plants",
+                        "id": 366,
+                        "parent_id": 142
+                    },
+                    {
+                        "name": "Control Cab",
+                        "id": 369,
+                        "parent_id": 142
+                    },
+                    {
+                        "name": "Conveyors-Feeders",
+                        "id": 298,
+                        "parent_id": 142
+                    },
+                    {
+                        "name": "Crushers",
+                        "id": 296,
+                        "parent_id": 142
+                    },
+                    {
+                        "name": "Feeders & Surge Bins",
+                        "id": 364,
+                        "parent_id": 142
+                    },
+                    {
+                        "name": "Generators",
+                        "id": 363,
+                        "parent_id": 142
+                    },
+                    {
+                        "name": "Other",
+                        "id": 300,
+                        "parent_id": 142
+                    },
+                    {
+                        "name": "Power Vans",
+                        "id": 362,
+                        "parent_id": 142
+                    },
+                    {
+                        "name": "Screens",
+                        "id": 297,
+                        "parent_id": 142
+                    },
+                    {
+                        "name": "Shotcrete Equipment ",
+                        "id": 342,
+                        "parent_id": 142
+                    },
+                    {
+                        "name": "Splitter Chutes",
+                        "id": 368,
+                        "parent_id": 142
+                    },
+                    {
+                        "name": "Stackers",
+                        "id": 299,
+                        "parent_id": 142
+                    },
+                    {
+                        "name": "Wash Plants",
+                        "id": 365,
+                        "parent_id": 142
+                    }
+                ]
+            },
+            {
+                "name": "Air Compressors",
+                "id": "99",
+                "subcategories": [
+                    {
+                        "name": "Diesel",
+                        "id": 356,
+                        "parent_id": 99
+                    },
+                    {
+                        "name": "Electric",
+                        "id": 355,
+                        "parent_id": 99
+                    },
+                    {
+                        "name": "Heavy Duty",
+                        "id": 269,
+                        "parent_id": 99
+                    },
+                    {
+                        "name": "Mini",
+                        "id": 268,
+                        "parent_id": 99
+                    },
+                    {
+                        "name": "Other",
+                        "id": 270,
+                        "parent_id": 99
+                    }
+                ]
+            },
+            {
+                "name": "Asphalt & Conrete",
+                "id": "145",
+                "subcategories": [
+                    {
+                        "name": "Asphalt Paver",
+                        "id": 319,
+                        "parent_id": 145
+                    },
+                    {
+                        "name": "Stabilizer/Asphalt Recyler",
+                        "id": 310,
+                        "parent_id": 145
+                    }
+                ]
+            },
+            {
+                "name": "Boom Trucks",
+                "id": "95",
+                "subcategories": [
+                    {
+                        "name": "Articulated",
+                        "id": 307,
+                        "parent_id": 95
+                    },
+                    {
+                        "name": "Stand-up",
+                        "id": 256,
+                        "parent_id": 95
+                    },
+                    {
+                        "name": "Swing Seat",
+                        "id": 257,
+                        "parent_id": 95
+                    },
+                    {
+                        "name": "Other",
+                        "id": 258,
+                        "parent_id": 95
+                    }
+                ]
+            },
+            {
+                "name": "Bulldozers",
+                "id": "89",
+                "subcategories": [
+                    {
+                        "name": "Attachments",
+                        "id": 231,
+                        "parent_id": 89
+                    },
+                    {
+                        "name": "Crawler",
+                        "id": 229,
+                        "parent_id": 89
+                    },
+                    {
+                        "name": "Pipelayer",
+                        "id": 349,
+                        "parent_id": 89
+                    },
+                    {
+                        "name": "Wheel",
+                        "id": 230,
+                        "parent_id": 89
+                    },
+                    {
+                        "name": "Other",
+                        "id": 232,
+                        "parent_id": 89
+                    }
+                ]
+            },
+            {
+                "name": "Compactors",
+                "id": "94",
+                "subcategories": [
+                    {
+                        "name": "Attachments",
+                        "id": 254,
+                        "parent_id": 94
+                    },
+                    {
+                        "name": "Combination",
+                        "id": 252,
+                        "parent_id": 94
+                    },
+                    {
+                        "name": "Landfill",
+                        "id": 348,
+                        "parent_id": 94
+                    },
+                    {
+                        "name": "Single-Drum",
+                        "id": 253,
+                        "parent_id": 94
+                    },
+                    {
+                        "name": "Static Rollers",
+                        "id": 251,
+                        "parent_id": 94
+                    },
+                    {
+                        "name": "Tandem Rollers",
+                        "id": 250,
+                        "parent_id": 94
+                    },
+                    {
+                        "name": "Other",
+                        "id": 255,
+                        "parent_id": 94
+                    }
+                ]
+            },
+            {
+                "name": "Concrete Mixers",
+                "id": "134",
+                "subcategories": []
+            },
+            {
+                "name": "Construction Hoists & Elevators",
+                "id": "162",
+                "subcategories": []
+            },
+            {
+                "name": "Construction Materials",
+                "id": "164",
+                "subcategories": [
+                    {
+                        "name": "Dunnage",
+                        "id": 345,
+                        "parent_id": 164
+                    },
+                    {
+                        "name": "Ecology Blocks",
+                        "id": 346,
+                        "parent_id": 164
+                    },
+                    {
+                        "name": "Pipes",
+                        "id": 344,
+                        "parent_id": 164
+                    },
+                    {
+                        "name": "Road Plates",
+                        "id": 343,
+                        "parent_id": 164
+                    }
+                ]
+            },
+            {
+                "name": "Cranes",
+                "id": "96",
+                "subcategories": [
+                    {
+                        "name": "Aerial",
+                        "id": 335,
+                        "parent_id": 96
+                    },
+                    {
+                        "name": "All Terrain",
+                        "id": 259,
+                        "parent_id": 96
+                    },
+                    {
+                        "name": "Attachments",
+                        "id": 263,
+                        "parent_id": 96
+                    },
+                    {
+                        "name": "Boom Truck",
+                        "id": 338,
+                        "parent_id": 96
+                    },
+                    {
+                        "name": "Carry Deck",
+                        "id": 262,
+                        "parent_id": 96
+                    },
+                    {
+                        "name": "Crawler",
+                        "id": 261,
+                        "parent_id": 96
+                    },
+                    {
+                        "name": "Floating",
+                        "id": 334,
+                        "parent_id": 96
+                    },
+                    {
+                        "name": "Harbor",
+                        "id": 333,
+                        "parent_id": 96
+                    },
+                    {
+                        "name": "Level Luffing",
+                        "id": 337,
+                        "parent_id": 96
+                    },
+                    {
+                        "name": "Railroad",
+                        "id": 331,
+                        "parent_id": 96
+                    },
+                    {
+                        "name": "Rough Terrain",
+                        "id": 328,
+                        "parent_id": 96
+                    },
+                    {
+                        "name": "Telescopic",
+                        "id": 336,
+                        "parent_id": 96
+                    },
+                    {
+                        "name": "Telescopic Handler",
+                        "id": 332,
+                        "parent_id": 96
+                    },
+                    {
+                        "name": "Tower",
+                        "id": 330,
+                        "parent_id": 96
+                    },
+                    {
+                        "name": "Truck Mounted",
+                        "id": 260,
+                        "parent_id": 96
+                    },
+                    {
+                        "name": "Other",
+                        "id": 264,
+                        "parent_id": 96
+                    }
+                ]
+            },
+            {
+                "name": "Crushers",
+                "id": "141",
+                "subcategories": [
+                    {
+                        "name": "Cone",
+                        "id": 293,
+                        "parent_id": 141
+                    },
+                    {
+                        "name": "Gyratory",
+                        "id": 291,
+                        "parent_id": 141
+                    },
+                    {
+                        "name": "Hammer",
+                        "id": 292,
+                        "parent_id": 141
+                    },
+                    {
+                        "name": "Impact",
+                        "id": 289,
+                        "parent_id": 141
+                    },
+                    {
+                        "name": "Jaw",
+                        "id": 290,
+                        "parent_id": 141
+                    },
+                    {
+                        "name": "Other",
+                        "id": 295,
+                        "parent_id": 141
+                    },
+                    {
+                        "name": "Roll",
+                        "id": 294,
+                        "parent_id": 141
+                    }
+                ]
+            },
+            {
+                "name": "Dump Trailers",
+                "id": "149",
+                "subcategories": []
+            },
+            {
+                "name": "Dump Trucks",
+                "id": "93",
+                "subcategories": [
+                    {
+                        "name": "Articulated",
+                        "id": 246,
+                        "parent_id": 93
+                    },
+                    {
+                        "name": "Electric",
+                        "id": 248,
+                        "parent_id": 93
+                    },
+                    {
+                        "name": "Mechanical",
+                        "id": 247,
+                        "parent_id": 93
+                    },
+                    {
+                        "name": "Other",
+                        "id": 249,
+                        "parent_id": 93
+                    }
+                ]
+            },
+            {
+                "name": "Excavators",
+                "id": "88",
+                "subcategories": [
+                    {
+                        "name": "Attachments",
+                        "id": 227,
+                        "parent_id": 88
+                    },
+                    {
+                        "name": "Crawler",
+                        "id": 223,
+                        "parent_id": 88
+                    },
+                    {
+                        "name": "Mini",
+                        "id": 224,
+                        "parent_id": 88
+                    },
+                    {
+                        "name": "Shovels",
+                        "id": 226,
+                        "parent_id": 88
+                    },
+                    {
+                        "name": "Wheel",
+                        "id": 225,
+                        "parent_id": 88
+                    },
+                    {
+                        "name": "Other",
+                        "id": 228,
+                        "parent_id": 88
+                    }
+                ]
+            },
+            {
+                "name": "Generators",
+                "id": "98",
+                "subcategories": [
+                    {
+                        "name": "Over 100kW",
+                        "id": 266,
+                        "parent_id": 98
+                    },
+                    {
+                        "name": "Under 100kW",
+                        "id": 265,
+                        "parent_id": 98
+                    },
+                    {
+                        "name": "Other",
+                        "id": 267,
+                        "parent_id": 98
+                    }
+                ]
+            },
+            {
+                "name": "Loader Backhoes",
+                "id": "91",
+                "subcategories": [
+                    {
+                        "name": "Articulated",
+                        "id": 241,
+                        "parent_id": 91
+                    },
+                    {
+                        "name": "Attachments",
+                        "id": 242,
+                        "parent_id": 91
+                    },
+                    {
+                        "name": "Mini",
+                        "id": 239,
+                        "parent_id": 91
+                    },
+                    {
+                        "name": "Rigid",
+                        "id": 240,
+                        "parent_id": 91
+                    },
+                    {
+                        "name": "Other",
+                        "id": 243,
+                        "parent_id": 91
+                    }
+                ]
+            },
+            {
+                "name": "Loaders",
+                "id": "90",
+                "subcategories": [
+                    {
+                        "name": "Attachments",
+                        "id": 237,
+                        "parent_id": 90
+                    },
+                    {
+                        "name": "Compact",
+                        "id": 235,
+                        "parent_id": 90
+                    },
+                    {
+                        "name": "Crawler",
+                        "id": 311,
+                        "parent_id": 90
+                    },
+                    {
+                        "name": "Skid Steers",
+                        "id": 236,
+                        "parent_id": 90
+                    },
+                    {
+                        "name": "Telescopic",
+                        "id": 233,
+                        "parent_id": 90
+                    },
+                    {
+                        "name": "Track",
+                        "id": 234,
+                        "parent_id": 90
+                    },
+                    {
+                        "name": "Wheel",
+                        "id": 308,
+                        "parent_id": 90
+                    },
+                    {
+                        "name": "Other",
+                        "id": 238,
+                        "parent_id": 90
+                    }
+                ]
+            },
+            {
+                "name": "Motor Grader",
+                "id": "167",
+                "subcategories": []
+            },
+            {
+                "name": "Multi-Purpose Truck ",
+                "id": "160",
+                "subcategories": [
+                    {
+                        "name": "Articulating",
+                        "id": 340,
+                        "parent_id": 160
+                    }
+                ]
+            },
+            {
+                "name": "Pumps",
+                "id": "140",
+                "subcategories": [
+                    {
+                        "name": "Dewatering",
+                        "id": 288,
+                        "parent_id": 140
+                    }
+                ]
+            },
+            {
+                "name": "Rock Truck",
+                "id": "159",
+                "subcategories": []
+            },
+            {
+                "name": "Skid Steers",
+                "id": "166",
+                "subcategories": [
+                    {
+                        "name": "Track",
+                        "id": 359,
+                        "parent_id": 166
+                    },
+                    {
+                        "name": "Wheel",
+                        "id": 360,
+                        "parent_id": 166
+                    }
+                ]
+            },
+            {
+                "name": "Specialized Lifting & Moving Equipment",
+                "id": "163",
+                "subcategories": []
+            },
+            {
+                "name": "Spreaders",
+                "id": "101",
+                "subcategories": [
+                    {
+                        "name": "Chip Spreader",
+                        "id": 271,
+                        "parent_id": 101
+                    },
+                    {
+                        "name": "Salt Spreader",
+                        "id": 272,
+                        "parent_id": 101
+                    },
+                    {
+                        "name": "Other",
+                        "id": 273,
+                        "parent_id": 101
+                    }
+                ]
+            },
+            {
+                "name": "Sweepers & Broom Equipment",
+                "id": "161",
+                "subcategories": []
+            },
+            {
+                "name": "Tankers",
+                "id": "137",
+                "subcategories": []
+            },
+            {
+                "name": "Tow Trailers",
+                "id": "128",
+                "subcategories": []
+            },
+            {
+                "name": "Tunnel & Mining",
+                "id": "165",
+                "subcategories": [
+                    {
+                        "name": "Consumables",
+                        "id": 354,
+                        "parent_id": 165
+                    },
+                    {
+                        "name": "Conveyor",
+                        "id": 351,
+                        "parent_id": 165
+                    },
+                    {
+                        "name": "Electrical",
+                        "id": 352,
+                        "parent_id": 165
+                    },
+                    {
+                        "name": "Equipment",
+                        "id": 350,
+                        "parent_id": 165
+                    },
+                    {
+                        "name": "TBM Parts",
+                        "id": 353,
+                        "parent_id": 165
+                    }
+                ]
+            },
+            {
+                "name": "Water Trucks",
+                "id": "122",
+                "subcategories": []
+            },
+            {
+                "name": "Attachments",
+                "id": "144",
+                "subcategories": [
+                    {
+                        "name": "Booms",
+                        "id": 321,
+                        "parent_id": 144
+                    },
+                    {
+                        "name": "Buckets",
+                        "id": 301,
+                        "parent_id": 144
+                    },
+                    {
+                        "name": "Cutter Implements",
+                        "id": 303,
+                        "parent_id": 144
+                    },
+                    {
+                        "name": "Grapples",
+                        "id": 302,
+                        "parent_id": 144
+                    },
+                    {
+                        "name": "Hammer-Breaker",
+                        "id": 324,
+                        "parent_id": 144
+                    },
+                    {
+                        "name": "Jib",
+                        "id": 322,
+                        "parent_id": 144
+                    },
+                    {
+                        "name": "Pallet Fork",
+                        "id": 320,
+                        "parent_id": 144
+                    },
+                    {
+                        "name": "Planetary",
+                        "id": 323,
+                        "parent_id": 144
+                    }
+                ]
+            },
+            {
+                "name": "Wheels & Tires",
+                "id": "129",
+                "subcategories": [
+                    {
+                        "name": "Construction & Farming",
+                        "id": 315,
+                        "parent_id": 129
+                    },
+                    {
+                        "name": "Lifts & Handlers",
+                        "id": 317,
+                        "parent_id": 129
+                    },
+                    {
+                        "name": "Trucks & Trailers",
+                        "id": 316,
+                        "parent_id": 129
+                    }
+                ]
+            },
+            {
+                "name": "Other Construction Equipment",
+                "id": "146",
+                "subcategories": [
+                    {
+                        "name": "Landfill Compactor",
+                        "id": 326,
+                        "parent_id": 146
+                    },
+                    {
+                        "name": "Motor Scraper",
+                        "id": 313,
+                        "parent_id": 146
+                    },
+                    {
+                        "name": "Rotary Mixer",
+                        "id": 361,
+                        "parent_id": 146
+                    },
+                    {
+                        "name": "Shovel",
+                        "id": 318,
+                        "parent_id": 146
+                    },
+                    {
+                        "name": "Soil Stabilizer",
+                        "id": 325,
+                        "parent_id": 146
+                    },
+                    {
+                        "name": "Trencher",
+                        "id": 309,
+                        "parent_id": 146
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Farming",
+        "subcategories": [
+            {
+                "name": "Animal Feeders",
+                "id": "117",
+                "subcategories": []
+            },
+            {
+                "name": "Disc, Tine & Tillage",
+                "id": "121",
+                "subcategories": []
+            },
+            {
+                "name": "Graders & Scrapers",
+                "id": "100",
+                "subcategories": [
+                    {
+                        "name": "Motor",
+                        "id": 357,
+                        "parent_id": 100
+                    },
+                    {
+                        "name": "Pull",
+                        "id": 358,
+                        "parent_id": 100
+                    }
+                ]
+            },
+            {
+                "name": "Grinder Mixer",
+                "id": "157",
+                "subcategories": []
+            },
+            {
+                "name": "Harvesters",
+                "id": "111",
+                "subcategories": []
+            },
+            {
+                "name": "Hay & Forage",
+                "id": "119",
+                "subcategories": []
+            },
+            {
+                "name": "Loaders",
+                "id": "90",
+                "subcategories": [
+                    {
+                        "name": "Attachments",
+                        "id": 237,
+                        "parent_id": 90
+                    },
+                    {
+                        "name": "Compact",
+                        "id": 235,
+                        "parent_id": 90
+                    },
+                    {
+                        "name": "Crawler",
+                        "id": 311,
+                        "parent_id": 90
+                    },
+                    {
+                        "name": "Skid Steers",
+                        "id": 236,
+                        "parent_id": 90
+                    },
+                    {
+                        "name": "Telescopic",
+                        "id": 233,
+                        "parent_id": 90
+                    },
+                    {
+                        "name": "Track",
+                        "id": 234,
+                        "parent_id": 90
+                    },
+                    {
+                        "name": "Wheel",
+                        "id": 308,
+                        "parent_id": 90
+                    },
+                    {
+                        "name": "Other",
+                        "id": 238,
+                        "parent_id": 90
+                    }
+                ]
+            },
+            {
+                "name": "Motor Grader",
+                "id": "167",
+                "subcategories": []
+            },
+            {
+                "name": "Multi-Purpose Truck ",
+                "id": "160",
+                "subcategories": [
+                    {
+                        "name": "Articulating",
+                        "id": 340,
+                        "parent_id": 160
+                    }
+                ]
+            },
+            {
+                "name": "Power Harrow",
+                "id": "120",
+                "subcategories": []
+            },
+            {
+                "name": "Pumps",
+                "id": "140",
+                "subcategories": [
+                    {
+                        "name": "Dewatering",
+                        "id": 288,
+                        "parent_id": 140
+                    }
+                ]
+            },
+            {
+                "name": "Rolls & Presses",
+                "id": "118",
+                "subcategories": []
+            },
+            {
+                "name": "Seed Drills",
+                "id": "112",
+                "subcategories": []
+            },
+            {
+                "name": "Shredders",
+                "id": "115",
+                "subcategories": []
+            },
+            {
+                "name": "Spreaders",
+                "id": "101",
+                "subcategories": [
+                    {
+                        "name": "Chip Spreader",
+                        "id": 271,
+                        "parent_id": 101
+                    },
+                    {
+                        "name": "Salt Spreader",
+                        "id": 272,
+                        "parent_id": 101
+                    },
+                    {
+                        "name": "Other",
+                        "id": 273,
+                        "parent_id": 101
+                    }
+                ]
+            },
+            {
+                "name": "Tractors",
+                "id": "113",
+                "subcategories": [
+                    {
+                        "name": "Crawler",
+                        "id": 312,
+                        "parent_id": 113
+                    },
+                    {
+                        "name": "Tow",
+                        "id": 341,
+                        "parent_id": 113
+                    }
+                ]
+            },
+            {
+                "name": "Attachments",
+                "id": "144",
+                "subcategories": [
+                    {
+                        "name": "Booms",
+                        "id": 321,
+                        "parent_id": 144
+                    },
+                    {
+                        "name": "Buckets",
+                        "id": 301,
+                        "parent_id": 144
+                    },
+                    {
+                        "name": "Cutter Implements",
+                        "id": 303,
+                        "parent_id": 144
+                    },
+                    {
+                        "name": "Grapples",
+                        "id": 302,
+                        "parent_id": 144
+                    },
+                    {
+                        "name": "Hammer-Breaker",
+                        "id": 324,
+                        "parent_id": 144
+                    },
+                    {
+                        "name": "Jib",
+                        "id": 322,
+                        "parent_id": 144
+                    },
+                    {
+                        "name": "Pallet Fork",
+                        "id": 320,
+                        "parent_id": 144
+                    },
+                    {
+                        "name": "Planetary",
+                        "id": 323,
+                        "parent_id": 144
+                    }
+                ]
+            },
+            {
+                "name": "Wheels & Tires",
+                "id": "129",
+                "subcategories": [
+                    {
+                        "name": "Construction & Farming",
+                        "id": 315,
+                        "parent_id": 129
+                    },
+                    {
+                        "name": "Lifts & Handlers",
+                        "id": 317,
+                        "parent_id": 129
+                    },
+                    {
+                        "name": "Trucks & Trailers",
+                        "id": 316,
+                        "parent_id": 129
+                    }
+                ]
+            },
+            {
+                "name": "Other Farming Equipment",
+                "id": "147",
+                "subcategories": [
+                    {
+                        "name": "Applicator",
+                        "id": 314,
+                        "parent_id": 147
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lifts & Handlers",
+        "subcategories": [
+            {
+                "name": "Aerial Work Platforms",
+                "id": "104",
+                "subcategories": [
+                    {
+                        "name": "Electric Scissor Lifts",
+                        "id": 283,
+                        "parent_id": 104
+                    },
+                    {
+                        "name": "Engine Powered Scissor Lifts",
+                        "id": 285,
+                        "parent_id": 104
+                    },
+                    {
+                        "name": "Push Around Lifts",
+                        "id": 284,
+                        "parent_id": 104
+                    },
+                    {
+                        "name": "Towable Boom Lifts",
+                        "id": 286,
+                        "parent_id": 104
+                    },
+                    {
+                        "name": "Other",
+                        "id": 287,
+                        "parent_id": 104
+                    }
+                ]
+            },
+            {
+                "name": "Boom Lifts",
+                "id": "158",
+                "subcategories": [
+                    {
+                        "name": "Telescopic",
+                        "id": 327,
+                        "parent_id": 158
+                    }
+                ]
+            },
+            {
+                "name": "Boom Trucks",
+                "id": "95",
+                "subcategories": [
+                    {
+                        "name": "Articulated",
+                        "id": 307,
+                        "parent_id": 95
+                    },
+                    {
+                        "name": "Stand-up",
+                        "id": 256,
+                        "parent_id": 95
+                    },
+                    {
+                        "name": "Swing Seat",
+                        "id": 257,
+                        "parent_id": 95
+                    },
+                    {
+                        "name": "Other",
+                        "id": 258,
+                        "parent_id": 95
+                    }
+                ]
+            },
+            {
+                "name": "Cranes",
+                "id": "96",
+                "subcategories": [
+                    {
+                        "name": "Aerial",
+                        "id": 335,
+                        "parent_id": 96
+                    },
+                    {
+                        "name": "All Terrain",
+                        "id": 259,
+                        "parent_id": 96
+                    },
+                    {
+                        "name": "Attachments",
+                        "id": 263,
+                        "parent_id": 96
+                    },
+                    {
+                        "name": "Boom Truck",
+                        "id": 338,
+                        "parent_id": 96
+                    },
+                    {
+                        "name": "Carry Deck",
+                        "id": 262,
+                        "parent_id": 96
+                    },
+                    {
+                        "name": "Crawler",
+                        "id": 261,
+                        "parent_id": 96
+                    },
+                    {
+                        "name": "Floating",
+                        "id": 334,
+                        "parent_id": 96
+                    },
+                    {
+                        "name": "Harbor",
+                        "id": 333,
+                        "parent_id": 96
+                    },
+                    {
+                        "name": "Level Luffing",
+                        "id": 337,
+                        "parent_id": 96
+                    },
+                    {
+                        "name": "Railroad",
+                        "id": 331,
+                        "parent_id": 96
+                    },
+                    {
+                        "name": "Rough Terrain",
+                        "id": 328,
+                        "parent_id": 96
+                    },
+                    {
+                        "name": "Telescopic",
+                        "id": 336,
+                        "parent_id": 96
+                    },
+                    {
+                        "name": "Telescopic Handler",
+                        "id": 332,
+                        "parent_id": 96
+                    },
+                    {
+                        "name": "Tower",
+                        "id": 330,
+                        "parent_id": 96
+                    },
+                    {
+                        "name": "Truck Mounted",
+                        "id": 260,
+                        "parent_id": 96
+                    },
+                    {
+                        "name": "Other",
+                        "id": 264,
+                        "parent_id": 96
+                    }
+                ]
+            },
+            {
+                "name": "Forklifts",
+                "id": "102",
+                "subcategories": [
+                    {
+                        "name": "Diesel",
+                        "id": 277,
+                        "parent_id": 102
+                    },
+                    {
+                        "name": "Electric",
+                        "id": 276,
+                        "parent_id": 102
+                    },
+                    {
+                        "name": "Gasoline",
+                        "id": 278,
+                        "parent_id": 102
+                    },
+                    {
+                        "name": "Heavy Duty",
+                        "id": 275,
+                        "parent_id": 102
+                    },
+                    {
+                        "name": "Rough Terrain",
+                        "id": 339,
+                        "parent_id": 102
+                    },
+                    {
+                        "name": "Telescopic",
+                        "id": 274,
+                        "parent_id": 102
+                    },
+                    {
+                        "name": "Other",
+                        "id": 279,
+                        "parent_id": 102
+                    }
+                ]
+            },
+            {
+                "name": "Warehouse Lifts",
+                "id": "103",
+                "subcategories": [
+                    {
+                        "name": "Pallet Stackers",
+                        "id": 281,
+                        "parent_id": 103
+                    },
+                    {
+                        "name": "Pallet Trucks",
+                        "id": 280,
+                        "parent_id": 103
+                    },
+                    {
+                        "name": "Other",
+                        "id": 282,
+                        "parent_id": 103
+                    }
+                ]
+            },
+            {
+                "name": "Wheels & Tires",
+                "id": "129",
+                "subcategories": [
+                    {
+                        "name": "Construction & Farming",
+                        "id": 315,
+                        "parent_id": 129
+                    },
+                    {
+                        "name": "Lifts & Handlers",
+                        "id": 317,
+                        "parent_id": 129
+                    },
+                    {
+                        "name": "Trucks & Trailers",
+                        "id": 316,
+                        "parent_id": 129
+                    }
+                ]
+            },
+            {
+                "name": "Other Lifts & Handlers",
+                "id": "133",
+                "subcategories": []
+            }
+        ]
+    },
+    {
+        "name": "Trucks & Trailers",
+        "subcategories": [
+            {
+                "name": "Boom Trucks",
+                "id": "95",
+                "subcategories": [
+                    {
+                        "name": "Articulated",
+                        "id": 307,
+                        "parent_id": 95
+                    },
+                    {
+                        "name": "Stand-up",
+                        "id": 256,
+                        "parent_id": 95
+                    },
+                    {
+                        "name": "Swing Seat",
+                        "id": 257,
+                        "parent_id": 95
+                    },
+                    {
+                        "name": "Other",
+                        "id": 258,
+                        "parent_id": 95
+                    }
+                ]
+            },
+            {
+                "name": "Bus & Vans",
+                "id": "138",
+                "subcategories": []
+            },
+            {
+                "name": "Cab Chassis Trucks",
+                "id": "135",
+                "subcategories": []
+            },
+            {
+                "name": "Concrete Mixers",
+                "id": "134",
+                "subcategories": []
+            },
+            {
+                "name": "Dump Trailers",
+                "id": "149",
+                "subcategories": []
+            },
+            {
+                "name": "Dump Trucks",
+                "id": "93",
+                "subcategories": [
+                    {
+                        "name": "Articulated",
+                        "id": 246,
+                        "parent_id": 93
+                    },
+                    {
+                        "name": "Electric",
+                        "id": 248,
+                        "parent_id": 93
+                    },
+                    {
+                        "name": "Mechanical",
+                        "id": 247,
+                        "parent_id": 93
+                    },
+                    {
+                        "name": "Other",
+                        "id": 249,
+                        "parent_id": 93
+                    }
+                ]
+            },
+            {
+                "name": "Freight Trucks",
+                "id": "124",
+                "subcategories": []
+            },
+            {
+                "name": "Garbage Trucks",
+                "id": "136",
+                "subcategories": []
+            },
+            {
+                "name": "Rock Truck",
+                "id": "159",
+                "subcategories": []
+            },
+            {
+                "name": "Tankers",
+                "id": "137",
+                "subcategories": []
+            },
+            {
+                "name": "Tow Trailers",
+                "id": "128",
+                "subcategories": []
+            },
+            {
+                "name": "Trailers",
+                "id": "125",
+                "subcategories": []
+            },
+            {
+                "name": "Water Trucks",
+                "id": "122",
+                "subcategories": []
+            },
+            {
+                "name": "Wheels & Tires",
+                "id": "129",
+                "subcategories": [
+                    {
+                        "name": "Construction & Farming",
+                        "id": 315,
+                        "parent_id": 129
+                    },
+                    {
+                        "name": "Lifts & Handlers",
+                        "id": 317,
+                        "parent_id": 129
+                    },
+                    {
+                        "name": "Trucks & Trailers",
+                        "id": 316,
+                        "parent_id": 129
+                    }
+                ]
+            },
+            {
+                "name": "Other Trucks & Trailers",
+                "id": "139",
+                "subcategories": [
+                    {
+                        "name": "Roll-off",
+                        "id": 347,
+                        "parent_id": 139
+                    }
+                ]
+            }
+        ]
+    }
+]
