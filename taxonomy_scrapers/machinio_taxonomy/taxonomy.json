@@ -1,0 +1,2328 @@
+[
+    {
+        "name": "Agriculture",
+        "url": "https://www.machinio.com/agriculture",
+        "subcategories": [
+            {
+                "name": "Applicators",
+                "url": "https://www.machinio.com/applicators"
+            },
+            {
+                "name": "Bale Processors",
+                "url": "https://www.machinio.com/bale-processors"
+            },
+            {
+                "name": "Bale or Hay trailers",
+                "url": "https://www.machinio.com/bale-hay-trailers"
+            },
+            {
+                "name": "Balers",
+                "url": "https://www.machinio.com/balers"
+            },
+            {
+                "name": "Combines",
+                "url": "https://www.machinio.com/combines"
+            },
+            {
+                "name": "Dairy Farming Equipment",
+                "url": "https://www.machinio.com/dairy-farming"
+            },
+            {
+                "name": "Disc Mowers",
+                "url": "https://www.machinio.com/disc-mowers"
+            },
+            {
+                "name": "Feeder & Mixer Wagons",
+                "url": "https://www.machinio.com/feeder-mixer-wagons"
+            },
+            {
+                "name": "Fertilizer Spreaders",
+                "url": "https://www.machinio.com/fertilizer-spreaders"
+            },
+            {
+                "name": "Flail Mowers",
+                "url": "https://www.machinio.com/flail-mowers"
+            },
+            {
+                "name": "Forage Harvesters",
+                "url": "https://www.machinio.com/forage-harvesters"
+            },
+            {
+                "name": "Forage Wagons",
+                "url": "https://www.machinio.com/forage-wagons"
+            },
+            {
+                "name": "Grain Augers",
+                "url": "https://www.machinio.com/grain-augers"
+            },
+            {
+                "name": "Grain Carts & Gravity Wagons",
+                "url": "https://www.machinio.com/grain-carts-gravity-wagons"
+            },
+            {
+                "name": "Grain Handling",
+                "url": "https://www.machinio.com/grain-handling"
+            },
+            {
+                "name": "Harvester Headers",
+                "url": "https://www.machinio.com/harvester-headers"
+            },
+            {
+                "name": "Hay Rakes",
+                "url": "https://www.machinio.com/hay-rakes"
+            },
+            {
+                "name": "Hay Tedders",
+                "url": "https://www.machinio.com/hay-tedders"
+            },
+            {
+                "name": "Horticulture & Greenhouse Equipment",
+                "url": "https://www.machinio.com/horticulture-greenhouse"
+            },
+            {
+                "name": "Irrigation",
+                "url": "https://www.machinio.com/irrigation"
+            },
+            {
+                "name": "Lawn & Turf Equipment",
+                "url": "https://www.machinio.com/lawn-turf-equipment"
+            },
+            {
+                "name": "Lawn Mowers",
+                "url": "https://www.machinio.com/lawn-mowers"
+            },
+            {
+                "name": "Livestock Equipment",
+                "url": "https://www.machinio.com/livestock-equipment"
+            },
+            {
+                "name": "Mower Conditioners",
+                "url": "https://www.machinio.com/mower-conditioners"
+            },
+            {
+                "name": "Planting Equipment",
+                "url": "https://www.machinio.com/planting"
+            },
+            {
+                "name": "Potato Harvesters",
+                "url": "https://www.machinio.com/potato-harvesters"
+            },
+            {
+                "name": "Precision Agriculture",
+                "url": "https://www.machinio.com/precision-agriculture"
+            },
+            {
+                "name": "Rotary Mowers",
+                "url": "https://www.machinio.com/rotary-mowers"
+            },
+            {
+                "name": "Swathers/Windrowers",
+                "url": "https://www.machinio.com/swathers"
+            },
+            {
+                "name": "Tillage Equipment",
+                "url": "https://www.machinio.com/tillage"
+            },
+            {
+                "name": "Tractors",
+                "url": "https://www.machinio.com/tractors"
+            }
+        ]
+    },
+    {
+        "name": "Boats & Marine Equipment",
+        "url": "https://www.machinio.com/boats-marine-equipment",
+        "subcategories": [
+            {
+                "name": "Cargo Ships",
+                "url": "https://www.machinio.com/cargo-ships"
+            },
+            {
+                "name": "Dredges",
+                "url": "https://www.machinio.com/dredges"
+            },
+            {
+                "name": "Fishing Vessels",
+                "url": "https://www.machinio.com/fishing-vessels"
+            },
+            {
+                "name": "Marine Engines & Generators",
+                "url": "https://www.machinio.com/marine-engines-generators"
+            },
+            {
+                "name": "Marine Equipment",
+                "url": "https://www.machinio.com/marine-equipment"
+            },
+            {
+                "name": "Maritime Cranes & Port Equipment",
+                "url": "https://www.machinio.com/maritime-cranes-port-equipment"
+            },
+            {
+                "name": "Offshore Support Vessels",
+                "url": "https://www.machinio.com/offshore-support-vessels"
+            },
+            {
+                "name": "Passenger Ships",
+                "url": "https://www.machinio.com/passenger-ships"
+            },
+            {
+                "name": "Power Boats",
+                "url": "https://www.machinio.com/power-boats"
+            },
+            {
+                "name": "Sail Boats",
+                "url": "https://www.machinio.com/sail-boats"
+            },
+            {
+                "name": "Service Vessels",
+                "url": "https://www.machinio.com/service-vessels"
+            }
+        ]
+    },
+    {
+        "name": "Construction",
+        "url": "https://www.machinio.com/construction",
+        "subcategories": [
+            {
+                "name": "Aggregate Equipment",
+                "url": "https://www.machinio.com/aggregate-equipment"
+            },
+            {
+                "name": "Asphalt & Concrete Saws",
+                "url": "https://www.machinio.com/concrete-asphalt-saws"
+            },
+            {
+                "name": "Asphalt Crack Sealing Equipment",
+                "url": "https://www.machinio.com/asphalt-crack-sealing"
+            },
+            {
+                "name": "Asphalt Distributors",
+                "url": "https://www.machinio.com/asphalt-distributors"
+            },
+            {
+                "name": "Asphalt Milling Machines",
+                "url": "https://www.machinio.com/asphalt-milling-machines"
+            },
+            {
+                "name": "Asphalt Mixing Plants",
+                "url": "https://www.machinio.com/asphalt-mixing-plants"
+            },
+            {
+                "name": "Asphalt Pavers",
+                "url": "https://www.machinio.com/asphalt-pavers"
+            },
+            {
+                "name": "Backhoe Loaders",
+                "url": "https://www.machinio.com/backhoe-loaders"
+            },
+            {
+                "name": "Block, Brick & Paver Making Machines",
+                "url": "https://www.machinio.com/block-brick-machines"
+            },
+            {
+                "name": "Cable Laying & Stringing",
+                "url": "https://www.machinio.com/cable-stringing-laying"
+            },
+            {
+                "name": "Compact Track Loaders",
+                "url": "https://www.machinio.com/compact-track-loaders"
+            },
+            {
+                "name": "Compactors",
+                "url": "https://www.machinio.com/compactors"
+            },
+            {
+                "name": "Compressors",
+                "url": "https://www.machinio.com/air-compressors"
+            },
+            {
+                "name": "Concrete Batching Plants",
+                "url": "https://www.machinio.com/concrete-batching-plants"
+            },
+            {
+                "name": "Concrete Buggies",
+                "url": "https://www.machinio.com/concrete-buggies"
+            },
+            {
+                "name": "Concrete Pumps",
+                "url": "https://www.machinio.com/concrete-pumps"
+            },
+            {
+                "name": "Construction/Industrial Engines",
+                "url": "https://www.machinio.com/construction-industrial-engines"
+            },
+            {
+                "name": "Cranes",
+                "url": "https://www.machinio.com/cranes"
+            },
+            {
+                "name": "Crawler Loaders",
+                "url": "https://www.machinio.com/crawler-loaders"
+            },
+            {
+                "name": "Digger Derricks",
+                "url": "https://www.machinio.com/digger-derricks"
+            },
+            {
+                "name": "Directional Drilling",
+                "url": "https://www.machinio.com/directional-drilling"
+            },
+            {
+                "name": "Dozers",
+                "url": "https://www.machinio.com/dozers"
+            },
+            {
+                "name": "Excavators",
+                "url": "https://www.machinio.com/excavators"
+            },
+            {
+                "name": "Floor Grinders & Polishers",
+                "url": "https://www.machinio.com/floor-grinders-polishers"
+            },
+            {
+                "name": "Generator Sets",
+                "url": "https://www.machinio.com/generator-sets"
+            },
+            {
+                "name": "Lifts",
+                "url": "https://www.machinio.com/lifts"
+            },
+            {
+                "name": "Light Towers",
+                "url": "https://www.machinio.com/light-towers"
+            },
+            {
+                "name": "Motor Graders",
+                "url": "https://www.machinio.com/motor-graders"
+            },
+            {
+                "name": "Personnel Carriers",
+                "url": "https://www.machinio.com/personnel-carriers"
+            },
+            {
+                "name": "Piling Rigs",
+                "url": "https://www.machinio.com/piling-rigs"
+            },
+            {
+                "name": "Pipelayers",
+                "url": "https://www.machinio.com/pipelayers"
+            },
+            {
+                "name": "Portable Cement Mixers",
+                "url": "https://www.machinio.com/portable-cement-mixers"
+            },
+            {
+                "name": "Power Tools",
+                "url": "https://www.machinio.com/power-tools"
+            },
+            {
+                "name": "Power Trowels",
+                "url": "https://www.machinio.com/power-trowels"
+            },
+            {
+                "name": "Road Marking Equipment",
+                "url": "https://www.machinio.com/road-marking-equipment"
+            },
+            {
+                "name": "Rock Drilling",
+                "url": "https://www.machinio.com/rock-drilling"
+            },
+            {
+                "name": "Scrapers",
+                "url": "https://www.machinio.com/scrapers"
+            },
+            {
+                "name": "Screed",
+                "url": "https://www.machinio.com/screed"
+            },
+            {
+                "name": "Shotcrete Machines",
+                "url": "https://www.machinio.com/shotcrete-machines"
+            },
+            {
+                "name": "Skid Steer Loaders",
+                "url": "https://www.machinio.com/skid-steer-loaders"
+            },
+            {
+                "name": "Skip Loaders",
+                "url": "https://www.machinio.com/skip-loaders"
+            },
+            {
+                "name": "Slipform Pavers",
+                "url": "https://www.machinio.com/slipform-pavers"
+            },
+            {
+                "name": "Soil Stabilizers",
+                "url": "https://www.machinio.com/soil-stabilizers"
+            },
+            {
+                "name": "Suction Excavators",
+                "url": "https://www.machinio.com/suction-excavators"
+            },
+            {
+                "name": "Topography & Surveying Equipment",
+                "url": "https://www.machinio.com/topography-surveying-equipment"
+            },
+            {
+                "name": "Trenchers",
+                "url": "https://www.machinio.com/trenchers"
+            },
+            {
+                "name": "Wheel Loaders",
+                "url": "https://www.machinio.com/wheel-loaders"
+            }
+        ]
+    },
+    {
+        "name": "Energy",
+        "url": "https://www.machinio.com/energy",
+        "subcategories": [
+            {
+                "name": "Batteries & Chargers",
+                "url": "https://www.machinio.com/batteries-chargers"
+            },
+            {
+                "name": "Boilers",
+                "url": "https://www.machinio.com/boilers"
+            },
+            {
+                "name": "Circuit Breakers",
+                "url": "https://www.machinio.com/circuit-breakers"
+            },
+            {
+                "name": "Cogeneration Plants",
+                "url": "https://www.machinio.com/cogeneration-plants"
+            },
+            {
+                "name": "Diesel Engines & Generators",
+                "url": "https://www.machinio.com/diesel-engines"
+            },
+            {
+                "name": "Electrical & Electronic Components",
+                "url": "https://www.machinio.com/electrical-electronic-components"
+            },
+            {
+                "name": "Power Plants",
+                "url": "https://www.machinio.com/power-plants"
+            },
+            {
+                "name": "Solar Power",
+                "url": "https://www.machinio.com/solar-power"
+            },
+            {
+                "name": "Transformers",
+                "url": "https://www.machinio.com/transformers"
+            },
+            {
+                "name": "Turbines",
+                "url": "https://www.machinio.com/turbines"
+            }
+        ]
+    },
+    {
+        "name": "Food & Beverage Processing",
+        "url": "https://www.machinio.com/food-beverage-processing",
+        "subcategories": [
+            {
+                "name": "Bakery & Pastry Equipment",
+                "url": "https://www.machinio.com/bakery-pastry-equipment"
+            },
+            {
+                "name": "Bottling, Filling & Packaging",
+                "url": "https://www.machinio.com/bottling-filling-lines"
+            },
+            {
+                "name": "Coffee Machines",
+                "url": "https://www.machinio.com/coffee-machines"
+            },
+            {
+                "name": "Confectionery Equipment",
+                "url": "https://www.machinio.com/confectionery-equipment"
+            },
+            {
+                "name": "Dairy Processing",
+                "url": "https://www.machinio.com/dairy-processing"
+            },
+            {
+                "name": "Dish Washing Machines",
+                "url": "https://www.machinio.com/dish-washing-machines"
+            },
+            {
+                "name": "Fish Processing",
+                "url": "https://www.machinio.com/fish-processing"
+            },
+            {
+                "name": "Food Inspection & Safety",
+                "url": "https://www.machinio.com/food-safety"
+            },
+            {
+                "name": "Food Refrigeration",
+                "url": "https://www.machinio.com/food-refrigeration"
+            },
+            {
+                "name": "Fruit & Vegetable Processing",
+                "url": "https://www.machinio.com/fruit-vegetable-processing"
+            },
+            {
+                "name": "Grain Processing",
+                "url": "https://www.machinio.com/grain-processing"
+            },
+            {
+                "name": "Industrial Cooking Machines",
+                "url": "https://www.machinio.com/industrial-cooking-machines"
+            },
+            {
+                "name": "Kitchen & Restaurant Equipment",
+                "url": "https://www.machinio.com/kitchen-restaurant-equipment"
+            },
+            {
+                "name": "Meat & Poultry Processing",
+                "url": "https://www.machinio.com/meat-poultry-processing"
+            },
+            {
+                "name": "Ovens & Grills",
+                "url": "https://www.machinio.com/ovens-grills"
+            },
+            {
+                "name": "Vending Machines",
+                "url": "https://www.machinio.com/vending-machines"
+            },
+            {
+                "name": "Wine Processing",
+                "url": "https://www.machinio.com/wine-making-equipment"
+            }
+        ]
+    },
+    {
+        "name": "Forestry",
+        "url": "https://www.machinio.com/forestry-equipment",
+        "subcategories": [
+            {
+                "name": "Feller Bunchers",
+                "url": "https://www.machinio.com/feller-bunchers"
+            },
+            {
+                "name": "Forestry Harvesters",
+                "url": "https://www.machinio.com/forestry-harvesters"
+            },
+            {
+                "name": "Forwarders",
+                "url": "https://www.machinio.com/forwarders"
+            },
+            {
+                "name": "Horizontal Grinders",
+                "url": "https://www.machinio.com/horizontal-grinders"
+            },
+            {
+                "name": "Knuckleboom Loaders",
+                "url": "https://www.machinio.com/knuckleboom-loaders"
+            },
+            {
+                "name": "Mulchers",
+                "url": "https://www.machinio.com/mulchers"
+            },
+            {
+                "name": "Skidders",
+                "url": "https://www.machinio.com/skidders"
+            },
+            {
+                "name": "Tub Grinders",
+                "url": "https://www.machinio.com/tub-grinders"
+            },
+            {
+                "name": "Wood Chippers",
+                "url": "https://www.machinio.com/wood-chippers"
+            },
+            {
+                "name": "Yarders",
+                "url": "https://www.machinio.com/yarders"
+            }
+        ]
+    },
+    {
+        "name": "Industrial Automation",
+        "url": "https://www.machinio.com/industrial-automation",
+        "subcategories": [
+            {
+                "name": "Actuators",
+                "url": "https://www.machinio.com/actuators"
+            },
+            {
+                "name": "Barcode Readers",
+                "url": "https://www.machinio.com/barcode-readers"
+            },
+            {
+                "name": "Electric Motors",
+                "url": "https://www.machinio.com/electric-motors"
+            },
+            {
+                "name": "Human Machine Interfaces (HMI)",
+                "url": "https://www.machinio.com/human-machine-interfaces"
+            },
+            {
+                "name": "IT Infrastructure",
+                "url": "https://www.machinio.com/computers-servers-it-infrastructure"
+            },
+            {
+                "name": "Industrial Robots",
+                "url": "https://www.machinio.com/industrial-robots"
+            },
+            {
+                "name": "Input/Output Modules",
+                "url": "https://www.machinio.com/input-output-modules"
+            },
+            {
+                "name": "Machine Vision (MV)",
+                "url": "https://www.machinio.com/machine-vision"
+            },
+            {
+                "name": "Mass Flow Controllers",
+                "url": "https://www.machinio.com/mass-flow-controllers"
+            },
+            {
+                "name": "Metal Detectors",
+                "url": "https://www.machinio.com/metal-detectors"
+            },
+            {
+                "name": "Motion Control",
+                "url": "https://www.machinio.com/motion-control"
+            },
+            {
+                "name": "Programmable Logic Controllers (PLC)",
+                "url": "https://www.machinio.com/plc"
+            },
+            {
+                "name": "Sensors",
+                "url": "https://www.machinio.com/sensors"
+            },
+            {
+                "name": "Surveillance",
+                "url": "https://www.machinio.com/surveillance"
+            },
+            {
+                "name": "Temperature Controllers",
+                "url": "https://www.machinio.com/temperature-controllers"
+            },
+            {
+                "name": "Vacuum Controllers & Gauges",
+                "url": "https://www.machinio.com/vacuum-controllers-gauges"
+            }
+        ]
+    },
+    {
+        "name": "Machine Tools",
+        "url": "https://www.machinio.com/machine-tools",
+        "subcategories": [
+            {
+                "name": "Bar & Tube Straightening Machines",
+                "url": "https://www.machinio.com/bar-tube-straightening"
+            },
+            {
+                "name": "Bar Feeders/Loaders",
+                "url": "https://www.machinio.com/bar-feeders-loaders"
+            },
+            {
+                "name": "Bar Peeling Machines",
+                "url": "https://www.machinio.com/bar-peeling-machines"
+            },
+            {
+                "name": "Beam & Profile Processing Lines",
+                "url": "https://www.machinio.com/beam-profile-processing-lines"
+            },
+            {
+                "name": "Bending & Forming",
+                "url": "https://www.machinio.com/bending-forming"
+            },
+            {
+                "name": "Boring Mills",
+                "url": "https://www.machinio.com/boring-mills"
+            },
+            {
+                "name": "Broaching, Slotting",
+                "url": "https://www.machinio.com/broaching-slotting"
+            },
+            {
+                "name": "CNC Lathes",
+                "url": "https://www.machinio.com/cnc-lathes"
+            },
+            {
+                "name": "Centre Lathes",
+                "url": "https://www.machinio.com/centre-lathes"
+            },
+            {
+                "name": "Coil Handling",
+                "url": "https://www.machinio.com/coil-handling"
+            },
+            {
+                "name": "Crank Presses",
+                "url": "https://www.machinio.com/crank-presses"
+            },
+            {
+                "name": "Cut-to-Length Lines",
+                "url": "https://www.machinio.com/cut-to-length-lines"
+            },
+            {
+                "name": "Deburring machines",
+                "url": "https://www.machinio.com/deburring-machines"
+            },
+            {
+                "name": "Deep Hole Drills",
+                "url": "https://www.machinio.com/deep-hole-drills"
+            },
+            {
+                "name": "Drill Lines",
+                "url": "https://www.machinio.com/drill-lines"
+            },
+            {
+                "name": "EDM machines",
+                "url": "https://www.machinio.com/edm"
+            },
+            {
+                "name": "Eccentric Presses",
+                "url": "https://www.machinio.com/eccentric-presses"
+            },
+            {
+                "name": "Engraving Machines",
+                "url": "https://www.machinio.com/engraving-machines"
+            },
+            {
+                "name": "Facing & Centering Machines",
+                "url": "https://www.machinio.com/facing-centering-machines"
+            },
+            {
+                "name": "Forging",
+                "url": "https://www.machinio.com/forging"
+            },
+            {
+                "name": "Forging Presses",
+                "url": "https://www.machinio.com/forging-presses"
+            },
+            {
+                "name": "Gantry/Planer/Portal Mills",
+                "url": "https://www.machinio.com/gantry-planer-mills"
+            },
+            {
+                "name": "Gear Cutting",
+                "url": "https://www.machinio.com/gear-cutting"
+            },
+            {
+                "name": "Gear Finishing",
+                "url": "https://www.machinio.com/gear-finishing"
+            },
+            {
+                "name": "Gear Generators",
+                "url": "https://www.machinio.com/gear-generators"
+            },
+            {
+                "name": "Gear Hobbing",
+                "url": "https://www.machinio.com/gear-hobbing"
+            },
+            {
+                "name": "Gear Inspection",
+                "url": "https://www.machinio.com/gear-inspection"
+            },
+            {
+                "name": "Gear Shaping",
+                "url": "https://www.machinio.com/gear-shaping"
+            },
+            {
+                "name": "Grinding machines",
+                "url": "https://www.machinio.com/grinding-machines"
+            },
+            {
+                "name": "Heavy Duty Lathes",
+                "url": "https://www.machinio.com/heavy-duty-lathes"
+            },
+            {
+                "name": "Honing machines",
+                "url": "https://www.machinio.com/honing-machines"
+            },
+            {
+                "name": "Laser Cutters",
+                "url": "https://www.machinio.com/laser-cutters"
+            },
+            {
+                "name": "Lathes",
+                "url": "https://www.machinio.com/lathes"
+            },
+            {
+                "name": "Machining Centers",
+                "url": "https://www.machinio.com/machining-centers"
+            },
+            {
+                "name": "Metal Rolling",
+                "url": "https://www.machinio.com/metal-rolling"
+            },
+            {
+                "name": "Metalworking Measuring Instruments",
+                "url": "https://www.machinio.com/metalworking-measuring-instruments"
+            },
+            {
+                "name": "Milling Machines",
+                "url": "https://www.machinio.com/milling-machines"
+            },
+            {
+                "name": "Multi-spindle Drilling Machines",
+                "url": "https://www.machinio.com/multi-spindle-drilling-machines"
+            },
+            {
+                "name": "Notching Machines",
+                "url": "https://www.machinio.com/notching-machines"
+            },
+            {
+                "name": "Parts Washers",
+                "url": "https://www.machinio.com/parts-cleaning-parts-washers"
+            },
+            {
+                "name": "Pillar Drills & Drill Presses",
+                "url": "https://www.machinio.com/pillar-drills"
+            },
+            {
+                "name": "Plasma Cutters",
+                "url": "https://www.machinio.com/plasma-cutters"
+            },
+            {
+                "name": "Press Brakes",
+                "url": "https://www.machinio.com/press-brakes"
+            },
+            {
+                "name": "Presses",
+                "url": "https://www.machinio.com/presses"
+            },
+            {
+                "name": "Punch Machines",
+                "url": "https://www.machinio.com/punch-machines"
+            },
+            {
+                "name": "Punch Presses",
+                "url": "https://www.machinio.com/punch-presses"
+            },
+            {
+                "name": "Radial drills",
+                "url": "https://www.machinio.com/radial-drills"
+            },
+            {
+                "name": "Riveting Machines",
+                "url": "https://www.machinio.com/riveting-machines"
+            },
+            {
+                "name": "Rotary Tables",
+                "url": "https://www.machinio.com/rotary-tables"
+            },
+            {
+                "name": "Saws",
+                "url": "https://www.machinio.com/saws"
+            },
+            {
+                "name": "Shearing Equipment",
+                "url": "https://www.machinio.com/shearing-equipment"
+            },
+            {
+                "name": "Sheet Metal Processing",
+                "url": "https://www.machinio.com/sheet-metal-processing"
+            },
+            {
+                "name": "Slitters & Slitting Lines",
+                "url": "https://www.machinio.com/slitting-machines"
+            },
+            {
+                "name": "Stamping Presses",
+                "url": "https://www.machinio.com/stamping-presses"
+            },
+            {
+                "name": "Threading & Tapping",
+                "url": "https://www.machinio.com/threading-and-tapping"
+            },
+            {
+                "name": "Transfer Machines",
+                "url": "https://www.machinio.com/transfer-machines"
+            },
+            {
+                "name": "Turret Lathes",
+                "url": "https://www.machinio.com/turret-lathes"
+            },
+            {
+                "name": "Vertical Lathes",
+                "url": "https://www.machinio.com/vertical-lathes"
+            },
+            {
+                "name": "Vibratory Finishing Machines",
+                "url": "https://www.machinio.com/vibratory-finishing"
+            },
+            {
+                "name": "Water Jet Cutters",
+                "url": "https://www.machinio.com/water-jet-cutters"
+            },
+            {
+                "name": "Welding equipment",
+                "url": "https://www.machinio.com/welding-equipment"
+            },
+            {
+                "name": "Wire Machinery",
+                "url": "https://www.machinio.com/wire-machinery"
+            }
+        ]
+    },
+    {
+        "name": "Material handling",
+        "url": "https://www.machinio.com/material-handling",
+        "subcategories": [
+            {
+                "name": "Airport Ground Support Equipment (GSE)",
+                "url": "https://www.machinio.com/airport-ground-support"
+            },
+            {
+                "name": "Forklifts",
+                "url": "https://www.machinio.com/forklifts"
+            },
+            {
+                "name": "Material Handlers",
+                "url": "https://www.machinio.com/material-handlers"
+            },
+            {
+                "name": "Order Pickers",
+                "url": "https://www.machinio.com/order-pickers"
+            },
+            {
+                "name": "Overhead Cranes",
+                "url": "https://www.machinio.com/overhead-cranes"
+            },
+            {
+                "name": "Pallet Stackers",
+                "url": "https://www.machinio.com/pallet-stackers"
+            },
+            {
+                "name": "Pallet Trucks",
+                "url": "https://www.machinio.com/pallet-trucks"
+            },
+            {
+                "name": "Reach Stackers & Container Handlers",
+                "url": "https://www.machinio.com/reach-stackers"
+            },
+            {
+                "name": "Reach Trucks",
+                "url": "https://www.machinio.com/reach-trucks"
+            },
+            {
+                "name": "Sideloaders",
+                "url": "https://www.machinio.com/sideloaders"
+            },
+            {
+                "name": "Telehandlers",
+                "url": "https://www.machinio.com/telehandlers"
+            },
+            {
+                "name": "Terminal Tractors",
+                "url": "https://www.machinio.com/terminal-tractors"
+            },
+            {
+                "name": "Tow Tractors",
+                "url": "https://www.machinio.com/tow-tractors"
+            },
+            {
+                "name": "Turret Trucks(VNA)",
+                "url": "https://www.machinio.com/turret-trucks-vna"
+            },
+            {
+                "name": "Vacuum Lifts, Sheet Metal Lifters",
+                "url": "https://www.machinio.com/vacuum-sheet-metal-lifters"
+            }
+        ]
+    },
+    {
+        "name": "Oil, Gas & Mining",
+        "url": "https://www.machinio.com/oil-gas-mining",
+        "subcategories": [
+            {
+                "name": "Apron Plate Feeders",
+                "url": "https://www.machinio.com/apron-plate-feeders"
+            },
+            {
+                "name": "Articulated Haulers",
+                "url": "https://www.machinio.com/articulated-haulers"
+            },
+            {
+                "name": "Ball Mills (mineral processing)",
+                "url": "https://www.machinio.com/ball-mills-mineral-processing"
+            },
+            {
+                "name": "Coiled Tubing",
+                "url": "https://www.machinio.com/coiled-tubing"
+            },
+            {
+                "name": "Crushers and Screening Plants",
+                "url": "https://www.machinio.com/crushers-screening-plants"
+            },
+            {
+                "name": "Drilling Rigs",
+                "url": "https://www.machinio.com/drilling"
+            },
+            {
+                "name": "Duplex Pumps",
+                "url": "https://www.machinio.com/duplex-pumps"
+            },
+            {
+                "name": "Frac Pumps",
+                "url": "https://www.machinio.com/frac-pumps"
+            },
+            {
+                "name": "Frac Tanks",
+                "url": "https://www.machinio.com/frac-tanks"
+            },
+            {
+                "name": "Ground Support Mining Equipment",
+                "url": "https://www.machinio.com/ground-support"
+            },
+            {
+                "name": "Haul Trucks",
+                "url": "https://www.machinio.com/haul-trucks"
+            },
+            {
+                "name": "Jumbo Drills",
+                "url": "https://www.machinio.com/jumbo-drills"
+            },
+            {
+                "name": "LHD - Mining Loaders",
+                "url": "https://www.machinio.com/lhd"
+            },
+            {
+                "name": "Mineral Processing",
+                "url": "https://www.machinio.com/mineral-processing"
+            },
+            {
+                "name": "Mud Pumps",
+                "url": "https://www.machinio.com/mud-pumps"
+            },
+            {
+                "name": "Oil & Gas Separators",
+                "url": "https://www.machinio.com/oil-gas-separators"
+            },
+            {
+                "name": "Oilfield Equipment",
+                "url": "https://www.machinio.com/oilfield-equipment"
+            },
+            {
+                "name": "Quintuplex Pumps",
+                "url": "https://www.machinio.com/quintuplex-pumps"
+            },
+            {
+                "name": "Shale Shakers",
+                "url": "https://www.machinio.com/shale-shakers"
+            },
+            {
+                "name": "Stacking Conveyors",
+                "url": "https://www.machinio.com/stacking-conveyors"
+            },
+            {
+                "name": "Tanks & Vessels",
+                "url": "https://www.machinio.com/tanks-vessels"
+            },
+            {
+                "name": "Triplex Pumps",
+                "url": "https://www.machinio.com/triplex-pumps"
+            },
+            {
+                "name": "Tunnel Boring Machines",
+                "url": "https://www.machinio.com/tunnel-boring-machines"
+            },
+            {
+                "name": "Underground Trucks",
+                "url": "https://www.machinio.com/underground-trucks"
+            },
+            {
+                "name": "Well Control",
+                "url": "https://www.machinio.com/well-control"
+            }
+        ]
+    },
+    {
+        "name": "Printing",
+        "url": "https://www.machinio.com/printing",
+        "subcategories": [
+            {
+                "name": "3D Printers",
+                "url": "https://www.machinio.com/3d-printers"
+            },
+            {
+                "name": "3D Scanners",
+                "url": "https://www.machinio.com/3d-scanners"
+            },
+            {
+                "name": "Book Binding",
+                "url": "https://www.machinio.com/book-binding"
+            },
+            {
+                "name": "Book sewing machines",
+                "url": "https://www.machinio.com/book-sewing-machines"
+            },
+            {
+                "name": "CTF (computer to film)",
+                "url": "https://www.machinio.com/ctf-computer-to-film"
+            },
+            {
+                "name": "CTP (computer to plate)",
+                "url": "https://www.machinio.com/ctp-computer-to-plate"
+            },
+            {
+                "name": "Collators and Gatherers",
+                "url": "https://www.machinio.com/collators-and-gatherers"
+            },
+            {
+                "name": "Die Cutters",
+                "url": "https://www.machinio.com/die-cutters"
+            },
+            {
+                "name": "Digital Printing",
+                "url": "https://www.machinio.com/digital-printing"
+            },
+            {
+                "name": "Envelope production and printing",
+                "url": "https://www.machinio.com/envelope-production-and-printing"
+            },
+            {
+                "name": "Flatbed Digital Cutting Tables & Plotters",
+                "url": "https://www.machinio.com/digital-cutting-tables-plotters"
+            },
+            {
+                "name": "Flexographic printing",
+                "url": "https://www.machinio.com/flexographic-printing"
+            },
+            {
+                "name": "Folding machines",
+                "url": "https://www.machinio.com/folding-machines"
+            },
+            {
+                "name": "Guillotines",
+                "url": "https://www.machinio.com/guillotines"
+            },
+            {
+                "name": "Hot Stamping",
+                "url": "https://www.machinio.com/hot-stamping"
+            },
+            {
+                "name": "Label Printing",
+                "url": "https://www.machinio.com/label-printing"
+            },
+            {
+                "name": "Large Wide Format Printers",
+                "url": "https://www.machinio.com/large-wide-format-printers"
+            },
+            {
+                "name": "Letterpress",
+                "url": "https://www.machinio.com/letterpress"
+            },
+            {
+                "name": "Mail Folding & Inserting Machines",
+                "url": "https://www.machinio.com/mail-folding-inserting"
+            },
+            {
+                "name": "Offset press",
+                "url": "https://www.machinio.com/offset-press"
+            },
+            {
+                "name": "Pad printing",
+                "url": "https://www.machinio.com/pad-printing"
+            },
+            {
+                "name": "Paper Drilling",
+                "url": "https://www.machinio.com/paper-drilling"
+            },
+            {
+                "name": "Perfect Binders",
+                "url": "https://www.machinio.com/perfect-binders"
+            },
+            {
+                "name": "Plate Punch and Benders",
+                "url": "https://www.machinio.com/plate-punch-and-benders"
+            },
+            {
+                "name": "Polywrapping and Inserting",
+                "url": "https://www.machinio.com/inserting-machines"
+            },
+            {
+                "name": "Post-press",
+                "url": "https://www.machinio.com/post-press"
+            },
+            {
+                "name": "Pre-press",
+                "url": "https://www.machinio.com/pre-press"
+            },
+            {
+                "name": "Rotary printing",
+                "url": "https://www.machinio.com/rotary-printing"
+            },
+            {
+                "name": "Rotogravure printing",
+                "url": "https://www.machinio.com/rotogravure-printing"
+            },
+            {
+                "name": "Saddle Stitchers",
+                "url": "https://www.machinio.com/saddle-stitchers"
+            },
+            {
+                "name": "Screen Printing",
+                "url": "https://www.machinio.com/screen-printing"
+            },
+            {
+                "name": "Sheet-fed press",
+                "url": "https://www.machinio.com/sheet-fed-press"
+            },
+            {
+                "name": "Stackers",
+                "url": "https://www.machinio.com/stackers"
+            },
+            {
+                "name": "Three-knife Trimmers",
+                "url": "https://www.machinio.com/three-knife-trimmers"
+            },
+            {
+                "name": "UV-\u0421oating",
+                "url": "https://www.machinio.com/uv-coating"
+            },
+            {
+                "name": "Web-fed press",
+                "url": "https://www.machinio.com/web-fed-press"
+            }
+        ]
+    },
+    {
+        "name": "Processing",
+        "url": "https://www.machinio.com/processing",
+        "subcategories": [
+            {
+                "name": "Agitators, Blenders, Mixers",
+                "url": "https://www.machinio.com/agitators-blenders-mixers"
+            },
+            {
+                "name": "Air Conditioning",
+                "url": "https://www.machinio.com/air-conditioning"
+            },
+            {
+                "name": "Ball Mills",
+                "url": "https://www.machinio.com/ball-mills-general"
+            },
+            {
+                "name": "Blister Packaging",
+                "url": "https://www.machinio.com/blister-packaging"
+            },
+            {
+                "name": "Blow Molding",
+                "url": "https://www.machinio.com/blow-molding"
+            },
+            {
+                "name": "Blowers",
+                "url": "https://www.machinio.com/blowers"
+            },
+            {
+                "name": "Bridge Saws",
+                "url": "https://www.machinio.com/bridge-saws"
+            },
+            {
+                "name": "Briquetting",
+                "url": "https://www.machinio.com/briquetting"
+            },
+            {
+                "name": "CNC Stone Routers",
+                "url": "https://www.machinio.com/cnc-stone-routers"
+            },
+            {
+                "name": "Cartoning Machines",
+                "url": "https://www.machinio.com/cartoning-machines"
+            },
+            {
+                "name": "Case & Tray Formers and Erectors",
+                "url": "https://www.machinio.com/case-tray-formers-erectors"
+            },
+            {
+                "name": "Centrifugal Separators",
+                "url": "https://www.machinio.com/centrifugal-separators"
+            },
+            {
+                "name": "Coating & Laminating",
+                "url": "https://www.machinio.com/coating-laminating"
+            },
+            {
+                "name": "Complete Plants",
+                "url": "https://www.machinio.com/complete-plants"
+            },
+            {
+                "name": "Condensers",
+                "url": "https://www.machinio.com/condensers"
+            },
+            {
+                "name": "Conveyors",
+                "url": "https://www.machinio.com/conveyors"
+            },
+            {
+                "name": "Cooling Towers",
+                "url": "https://www.machinio.com/cooling-towers"
+            },
+            {
+                "name": "Dehumidifiers",
+                "url": "https://www.machinio.com/dehumidifiers"
+            },
+            {
+                "name": "Diamond Wire Saws",
+                "url": "https://www.machinio.com/diamond-wire-saws"
+            },
+            {
+                "name": "Dryers",
+                "url": "https://www.machinio.com/dryers"
+            },
+            {
+                "name": "Dust Collectors",
+                "url": "https://www.machinio.com/dust-collectors"
+            },
+            {
+                "name": "Edge Polishers",
+                "url": "https://www.machinio.com/edge-polishers"
+            },
+            {
+                "name": "Evaporators",
+                "url": "https://www.machinio.com/evaporators"
+            },
+            {
+                "name": "Extruders",
+                "url": "https://www.machinio.com/extruders"
+            },
+            {
+                "name": "Fans & Ventilation",
+                "url": "https://www.machinio.com/fans-ventilation"
+            },
+            {
+                "name": "Film Blowing Machines",
+                "url": "https://www.machinio.com/film-blowing-machines"
+            },
+            {
+                "name": "Filter Presses",
+                "url": "https://www.machinio.com/filter-presses"
+            },
+            {
+                "name": "Foundry & Casting",
+                "url": "https://www.machinio.com/foundry-and-casting"
+            },
+            {
+                "name": "Glass equipment",
+                "url": "https://www.machinio.com/glass"
+            },
+            {
+                "name": "Granulators & Pelletizers",
+                "url": "https://www.machinio.com/granulators"
+            },
+            {
+                "name": "Hammermills",
+                "url": "https://www.machinio.com/hammermills"
+            },
+            {
+                "name": "Heat Exchangers",
+                "url": "https://www.machinio.com/heat-exchangers"
+            },
+            {
+                "name": "Heaters",
+                "url": "https://www.machinio.com/heaters"
+            },
+            {
+                "name": "Homogenizers",
+                "url": "https://www.machinio.com/homogenizers"
+            },
+            {
+                "name": "IBC Tanks",
+                "url": "https://www.machinio.com/ibc-tanks"
+            },
+            {
+                "name": "Ice Machines",
+                "url": "https://www.machinio.com/ice-machines"
+            },
+            {
+                "name": "Industrial Chillers",
+                "url": "https://www.machinio.com/industrial-chillers"
+            },
+            {
+                "name": "Industrial Compressors",
+                "url": "https://www.machinio.com/industrial-compressors"
+            },
+            {
+                "name": "Industrial Furnaces & Ovens",
+                "url": "https://www.machinio.com/furnaces"
+            },
+            {
+                "name": "Industrial Vacuum Cleaners",
+                "url": "https://www.machinio.com/industrial-vacuum-cleaners"
+            },
+            {
+                "name": "Injection Molding",
+                "url": "https://www.machinio.com/injection-molding"
+            },
+            {
+                "name": "Labelers",
+                "url": "https://www.machinio.com/labelers"
+            },
+            {
+                "name": "Packaging Machinery",
+                "url": "https://www.machinio.com/packaging-machinery"
+            },
+            {
+                "name": "Paint Booths",
+                "url": "https://www.machinio.com/paint-booths"
+            },
+            {
+                "name": "Palletizers",
+                "url": "https://www.machinio.com/palletizers"
+            },
+            {
+                "name": "Paper Cup Machines",
+                "url": "https://www.machinio.com/paper-cup-machines"
+            },
+            {
+                "name": "Paper/Plastic Bag Machines",
+                "url": "https://www.machinio.com/paper-plastic-bag-machines"
+            },
+            {
+                "name": "Papermaking",
+                "url": "https://www.machinio.com/paper-making-machines"
+            },
+            {
+                "name": "Plastic Processing",
+                "url": "https://www.machinio.com/plastic-rubber"
+            },
+            {
+                "name": "Pugmill Mixing Plants",
+                "url": "https://www.machinio.com/pugmill-mixing-plants"
+            },
+            {
+                "name": "Reactors",
+                "url": "https://www.machinio.com/reactors"
+            },
+            {
+                "name": "Refrigeration Compressors",
+                "url": "https://www.machinio.com/refrigeration-compressors"
+            },
+            {
+                "name": "Sandblasting & Shotblasting",
+                "url": "https://www.machinio.com/sandblasting-shotblasting"
+            },
+            {
+                "name": "Shrink Wrapping Machines",
+                "url": "https://www.machinio.com/shrink-wrapping-machines"
+            },
+            {
+                "name": "Stone CNC Machining Centers",
+                "url": "https://www.machinio.com/stone-cnc-machining-centers"
+            },
+            {
+                "name": "Stone Equipment",
+                "url": "https://www.machinio.com/stone"
+            },
+            {
+                "name": "Strapping Machines",
+                "url": "https://www.machinio.com/strapping-machines"
+            },
+            {
+                "name": "Tanks & Kettles",
+                "url": "https://www.machinio.com/tanks-kettles"
+            },
+            {
+                "name": "Thermoforming",
+                "url": "https://www.machinio.com/thermoform-packaging"
+            },
+            {
+                "name": "Toilet Paper & Napkin Machines",
+                "url": "https://www.machinio.com/toilet-paper-napkin-machines"
+            },
+            {
+                "name": "Ultrasonic Cleaners",
+                "url": "https://www.machinio.com/ultrasonic-cleaning"
+            },
+            {
+                "name": "Vertical Form Fill Sealing Machines (VFFS)",
+                "url": "https://www.machinio.com/vffs"
+            },
+            {
+                "name": "Vibratory Separators",
+                "url": "https://www.machinio.com/vibratory-separators"
+            },
+            {
+                "name": "Water Treatment",
+                "url": "https://www.machinio.com/water-treatment"
+            }
+        ]
+    },
+    {
+        "name": "Semiconductors",
+        "url": "https://www.machinio.com/semiconductors",
+        "subcategories": [
+            {
+                "name": "Ashers & Etchers",
+                "url": "https://www.machinio.com/ashers-etchers"
+            },
+            {
+                "name": "Bonders",
+                "url": "https://www.machinio.com/bonders"
+            },
+            {
+                "name": "CVD/PVD",
+                "url": "https://www.machinio.com/cvd-pvd"
+            },
+            {
+                "name": "Die Bonders",
+                "url": "https://www.machinio.com/die-bonders"
+            },
+            {
+                "name": "Laser Marking",
+                "url": "https://www.machinio.com/laser-marking"
+            },
+            {
+                "name": "Mask Aligners",
+                "url": "https://www.machinio.com/mask-aligners"
+            },
+            {
+                "name": "PCB Assembly",
+                "url": "https://www.machinio.com/pcb-assembly"
+            },
+            {
+                "name": "Photoresist",
+                "url": "https://www.machinio.com/photoresist"
+            },
+            {
+                "name": "Reflow Ovens",
+                "url": "https://www.machinio.com/reflow-ovens"
+            },
+            {
+                "name": "Screen Printers",
+                "url": "https://www.machinio.com/screen-printers"
+            },
+            {
+                "name": "Semiconductor Inspection & Test",
+                "url": "https://www.machinio.com/semiconductor-test"
+            },
+            {
+                "name": "Semiconductor Lithography",
+                "url": "https://www.machinio.com/semiconductor-lithography"
+            },
+            {
+                "name": "Semiconductor Metrology",
+                "url": "https://www.machinio.com/semiconductor-metrology"
+            },
+            {
+                "name": "Semiconductor Processing",
+                "url": "https://www.machinio.com/semiconductor-processing"
+            },
+            {
+                "name": "Soldering",
+                "url": "https://www.machinio.com/soldering"
+            },
+            {
+                "name": "Wafer Coating",
+                "url": "https://www.machinio.com/wafer-coating"
+            },
+            {
+                "name": "Wafer Dicing",
+                "url": "https://www.machinio.com/wafer-dicing"
+            },
+            {
+                "name": "Wafer Grinding",
+                "url": "https://www.machinio.com/wafer-grinding"
+            },
+            {
+                "name": "Wafer Handlers",
+                "url": "https://www.machinio.com/wafer-handlers"
+            },
+            {
+                "name": "Wafer Steppers",
+                "url": "https://www.machinio.com/wafer-steppers"
+            },
+            {
+                "name": "Wire Bonders",
+                "url": "https://www.machinio.com/wire-bonders"
+            }
+        ]
+    },
+    {
+        "name": "Test, Lab, Medical equipment",
+        "url": "https://www.machinio.com/test-lab-medical-equipment",
+        "subcategories": [
+            {
+                "name": "Aesthetic Medicine",
+                "url": "https://www.machinio.com/aesthetic-medicine"
+            },
+            {
+                "name": "Air Purifiers",
+                "url": "https://www.machinio.com/air-purifiers"
+            },
+            {
+                "name": "Air Showers/Pass Boxes",
+                "url": "https://www.machinio.com/air-showers-pass-boxes"
+            },
+            {
+                "name": "Amplifiers",
+                "url": "https://www.machinio.com/amplifiers"
+            },
+            {
+                "name": "Anesthesia Machines",
+                "url": "https://www.machinio.com/anesthesia-machines"
+            },
+            {
+                "name": "Antenna, Cable & PIM Analyzers",
+                "url": "https://www.machinio.com/antenna-cable-pim-analyzers"
+            },
+            {
+                "name": "Audio Analyzers",
+                "url": "https://www.machinio.com/audio-analyzers"
+            },
+            {
+                "name": "Autoclaves & Sterilizers",
+                "url": "https://www.machinio.com/autoclaves-and-sterilizers"
+            },
+            {
+                "name": "Bioreactors",
+                "url": "https://www.machinio.com/bioreactors"
+            },
+            {
+                "name": "Biosafety Cabinets",
+                "url": "https://www.machinio.com/biosafety-cabinets"
+            },
+            {
+                "name": "Biotechnology & Life Science",
+                "url": "https://www.machinio.com/biotechnology-and-life-science"
+            },
+            {
+                "name": "Cable Testers",
+                "url": "https://www.machinio.com/cable-testers"
+            },
+            {
+                "name": "Chromatography",
+                "url": "https://www.machinio.com/chromatography"
+            },
+            {
+                "name": "Communication Analyzers",
+                "url": "https://www.machinio.com/communication-analyzers"
+            },
+            {
+                "name": "Comparators",
+                "url": "https://www.machinio.com/comparators"
+            },
+            {
+                "name": "Coordinate Measuring Machines (CMM)",
+                "url": "https://www.machinio.com/coordinate-measuring"
+            },
+            {
+                "name": "Cryostats",
+                "url": "https://www.machinio.com/cryostats"
+            },
+            {
+                "name": "DNA Sequencers",
+                "url": "https://www.machinio.com/dna-sequencers"
+            },
+            {
+                "name": "Defibrillators",
+                "url": "https://www.machinio.com/defibrillators"
+            },
+            {
+                "name": "Dental Equipment",
+                "url": "https://www.machinio.com/dental-equipment"
+            },
+            {
+                "name": "Dry Baths",
+                "url": "https://www.machinio.com/dry-baths"
+            },
+            {
+                "name": "EKG Machines",
+                "url": "https://www.machinio.com/ekg-machines"
+            },
+            {
+                "name": "Electrical Safety Testers",
+                "url": "https://www.machinio.com/electrical-safety-testers"
+            },
+            {
+                "name": "Electrical Test Instruments",
+                "url": "https://www.machinio.com/electrical-test-instruments"
+            },
+            {
+                "name": "Environmental Chambers",
+                "url": "https://www.machinio.com/environmental-chambers"
+            },
+            {
+                "name": "Flow, Electric & Gas Meters",
+                "url": "https://www.machinio.com/flow-electric-and-gas-meters"
+            },
+            {
+                "name": "Frequency Counters",
+                "url": "https://www.machinio.com/frequency-counters"
+            },
+            {
+                "name": "Fusion Splicers",
+                "url": "https://www.machinio.com/fusion-splicers"
+            },
+            {
+                "name": "Gas Analyzers",
+                "url": "https://www.machinio.com/gas-analyzers"
+            },
+            {
+                "name": "General Analytical Equipment",
+                "url": "https://www.machinio.com/general-analytical-equipment"
+            },
+            {
+                "name": "General Laboratory Equipment",
+                "url": "https://www.machinio.com/general-laboratory-equipment"
+            },
+            {
+                "name": "General Medical Equipment",
+                "url": "https://www.machinio.com/general-medical-equipment"
+            },
+            {
+                "name": "Gloveboxes",
+                "url": "https://www.machinio.com/gloveboxes"
+            },
+            {
+                "name": "Hospital Beds",
+                "url": "https://www.machinio.com/hospital-beds"
+            },
+            {
+                "name": "Immersion Circulators",
+                "url": "https://www.machinio.com/immersion-circulators"
+            },
+            {
+                "name": "Incubators",
+                "url": "https://www.machinio.com/incubators"
+            },
+            {
+                "name": "Lab Evaporators",
+                "url": "https://www.machinio.com/laboratory-evaporators"
+            },
+            {
+                "name": "Lab Freezers & Refrigerators",
+                "url": "https://www.machinio.com/lab-freezers-refrigerators"
+            },
+            {
+                "name": "Laboratory Centrifuges",
+                "url": "https://www.machinio.com/laboratory-centrifuges"
+            },
+            {
+                "name": "Laboratory Chillers",
+                "url": "https://www.machinio.com/laboratory-chillers"
+            },
+            {
+                "name": "Laboratory Fume Hoods",
+                "url": "https://www.machinio.com/laboratory-fume-hoods"
+            },
+            {
+                "name": "Laboratory Glassware Washers",
+                "url": "https://www.machinio.com/laboratory-glassware-washers"
+            },
+            {
+                "name": "Laboratory Ovens",
+                "url": "https://www.machinio.com/laboratory-ovens"
+            },
+            {
+                "name": "Laboratory Pumps",
+                "url": "https://www.machinio.com/laboratory-pumps"
+            },
+            {
+                "name": "Laminar Flow Cabinets",
+                "url": "https://www.machinio.com/laminar-flow-cabinets"
+            },
+            {
+                "name": "Lasers & Light Sources",
+                "url": "https://www.machinio.com/lasers-light-sources"
+            },
+            {
+                "name": "Logic Analyzers",
+                "url": "https://www.machinio.com/logic-analyzers"
+            },
+            {
+                "name": "Materials Testing",
+                "url": "https://www.machinio.com/materials-testing"
+            },
+            {
+                "name": "Medical Imaging",
+                "url": "https://www.machinio.com/medical-imaging"
+            },
+            {
+                "name": "Medical Ultrasound",
+                "url": "https://www.machinio.com/medical-ultrasound"
+            },
+            {
+                "name": "Microplate Dispensers",
+                "url": "https://www.machinio.com/microplate-dispensers"
+            },
+            {
+                "name": "Microplate Readers",
+                "url": "https://www.machinio.com/microplate-readers"
+            },
+            {
+                "name": "Microplate Washers",
+                "url": "https://www.machinio.com/microplate-washers"
+            },
+            {
+                "name": "Microscopes",
+                "url": "https://www.machinio.com/microscopes"
+            },
+            {
+                "name": "Microtomes",
+                "url": "https://www.machinio.com/microtomes"
+            },
+            {
+                "name": "Mills, Grinders, Crushers (laboratory)",
+                "url": "https://www.machinio.com/mills-grinders-crushers-laboratory"
+            },
+            {
+                "name": "Mixers, Shakers, Stirrers (laboratory)",
+                "url": "https://www.machinio.com/mixers-shakers-stirrers-laboratory"
+            },
+            {
+                "name": "Multimeters",
+                "url": "https://www.machinio.com/multimeters"
+            },
+            {
+                "name": "Network Analyzers",
+                "url": "https://www.machinio.com/network-analyzers"
+            },
+            {
+                "name": "Ohmmeters",
+                "url": "https://www.machinio.com/ohmmeters"
+            },
+            {
+                "name": "Optical Spectrum Analyzers",
+                "url": "https://www.machinio.com/optical-spectrum-analyzers"
+            },
+            {
+                "name": "Oscilloscopes",
+                "url": "https://www.machinio.com/oscilloscopes"
+            },
+            {
+                "name": "Patient Monitors",
+                "url": "https://www.machinio.com/patient-monitors"
+            },
+            {
+                "name": "Pharmaceutical Industry",
+                "url": "https://www.machinio.com/pharmaceutical-industry"
+            },
+            {
+                "name": "Photometers",
+                "url": "https://www.machinio.com/photometers"
+            },
+            {
+                "name": "Power Analyzers",
+                "url": "https://www.machinio.com/power-analyzers"
+            },
+            {
+                "name": "Power Supply",
+                "url": "https://www.machinio.com/ac-dc-power-supplies"
+            },
+            {
+                "name": "Pulse Oximeters",
+                "url": "https://www.machinio.com/pulse-oximeters"
+            },
+            {
+                "name": "Rheometers & Viscometers",
+                "url": "https://www.machinio.com/rheometers-viscometers"
+            },
+            {
+                "name": "Signal Analyzers",
+                "url": "https://www.machinio.com/signal-analyzers"
+            },
+            {
+                "name": "Spectrometers",
+                "url": "https://www.machinio.com/spectrometers"
+            },
+            {
+                "name": "Spectrophotometers",
+                "url": "https://www.machinio.com/spectrophotometers"
+            },
+            {
+                "name": "Spectroscopy",
+                "url": "https://www.machinio.com/spectroscopy"
+            },
+            {
+                "name": "Spectrum Analyzers",
+                "url": "https://www.machinio.com/spectrum-analyzers"
+            },
+            {
+                "name": "Test Generators",
+                "url": "https://www.machinio.com/test-generators"
+            },
+            {
+                "name": "Thermal Cyclers (PCR Machines)",
+                "url": "https://www.machinio.com/thermal-cyclers"
+            },
+            {
+                "name": "Time-Domain Reflectometers (TDR)",
+                "url": "https://www.machinio.com/time-domain-reflectometers"
+            },
+            {
+                "name": "Tissue Processors",
+                "url": "https://www.machinio.com/tissue-processors"
+            },
+            {
+                "name": "Titrators",
+                "url": "https://www.machinio.com/titrators"
+            },
+            {
+                "name": "Ventilators",
+                "url": "https://www.machinio.com/ventilators"
+            },
+            {
+                "name": "Water Baths",
+                "url": "https://www.machinio.com/water-baths"
+            },
+            {
+                "name": "X-Ray Analytical Equipment",
+                "url": "https://www.machinio.com/x-ray-analytical-equipment"
+            },
+            {
+                "name": "pH Meters",
+                "url": "https://www.machinio.com/ph-meters"
+            }
+        ]
+    },
+    {
+        "name": "Textile and leather manufacturing",
+        "url": "https://www.machinio.com/textile-and-leather-manufacturing",
+        "subcategories": [
+            {
+                "name": "Calendering",
+                "url": "https://www.machinio.com/calendering"
+            },
+            {
+                "name": "Carding Machines",
+                "url": "https://www.machinio.com/carding-machines"
+            },
+            {
+                "name": "Dyeing & Finishing",
+                "url": "https://www.machinio.com/dyeing-and-finishing"
+            },
+            {
+                "name": "Industrial Laundry Equipment",
+                "url": "https://www.machinio.com/industrial-laundry-equipment"
+            },
+            {
+                "name": "Knitting",
+                "url": "https://www.machinio.com/knitting"
+            },
+            {
+                "name": "Leather",
+                "url": "https://www.machinio.com/leather"
+            },
+            {
+                "name": "Mattress Manufacturing",
+                "url": "https://www.machinio.com/mattress-manufacturing"
+            },
+            {
+                "name": "Medical Masks & Respiratory Protection Manufacturing",
+                "url": "https://www.machinio.com/medical-face-mask-manufacturing"
+            },
+            {
+                "name": "Monofilament Extrusion Lines",
+                "url": "https://www.machinio.com/monofilament-extrusion-lines"
+            },
+            {
+                "name": "Needle Looms",
+                "url": "https://www.machinio.com/needle-looms"
+            },
+            {
+                "name": "Non Woven",
+                "url": "https://www.machinio.com/non-woven-fabric"
+            },
+            {
+                "name": "Preparation",
+                "url": "https://www.machinio.com/preparation"
+            },
+            {
+                "name": "Rope Making Machines",
+                "url": "https://www.machinio.com/rope-making-machines"
+            },
+            {
+                "name": "Sewing Machines",
+                "url": "https://www.machinio.com/sewing-machines"
+            },
+            {
+                "name": "Shoe Machines",
+                "url": "https://www.machinio.com/shoe-machines"
+            },
+            {
+                "name": "Weaving",
+                "url": "https://www.machinio.com/weaving"
+            },
+            {
+                "name": "Winders & Unwinders",
+                "url": "https://www.machinio.com/winders-unwinders"
+            },
+            {
+                "name": "Yarn Manufacturing",
+                "url": "https://www.machinio.com/yarn-manufacturing"
+            }
+        ]
+    },
+    {
+        "name": "Trucks",
+        "url": "https://www.machinio.com/trucks",
+        "subcategories": [
+            {
+                "name": "Agricultural Trailers",
+                "url": "https://www.machinio.com/agricultural-trailers"
+            },
+            {
+                "name": "Ambulance Vehicles",
+                "url": "https://www.machinio.com/ambulance-vehicles"
+            },
+            {
+                "name": "Automotive Equipment",
+                "url": "https://www.machinio.com/automotive-equipment"
+            },
+            {
+                "name": "Beverage Trucks",
+                "url": "https://www.machinio.com/cat/beverage-trucks"
+            },
+            {
+                "name": "Booster Trailers",
+                "url": "https://www.machinio.com/booster-trailers"
+            },
+            {
+                "name": "Box Trailers",
+                "url": "https://www.machinio.com/box-trailers"
+            },
+            {
+                "name": "Box trucks",
+                "url": "https://www.machinio.com/box-straight-trucks"
+            },
+            {
+                "name": "Bucket (boom) trucks",
+                "url": "https://www.machinio.com/bucket-boom-crane-trucks"
+            },
+            {
+                "name": "Buses",
+                "url": "https://www.machinio.com/buses"
+            },
+            {
+                "name": "Cab Chassis trucks",
+                "url": "https://www.machinio.com/cab-chassis-trucks"
+            },
+            {
+                "name": "Campers, Caravans, Motorhomes",
+                "url": "https://www.machinio.com/campers-caravans"
+            },
+            {
+                "name": "Coach Buses",
+                "url": "https://www.machinio.com/coach-buses"
+            },
+            {
+                "name": "Concession Trailers",
+                "url": "https://www.machinio.com/concession-trailers"
+            },
+            {
+                "name": "Concrete Mixers",
+                "url": "https://www.machinio.com/concrete-mixers"
+            },
+            {
+                "name": "Conventional trucks",
+                "url": "https://www.machinio.com/conventional-trucks"
+            },
+            {
+                "name": "Crawler Carriers & Dumpers",
+                "url": "https://www.machinio.com/crawler-carriers-dumpers"
+            },
+            {
+                "name": "Curtainsider Trailers",
+                "url": "https://www.machinio.com/curtainsider-trailers"
+            },
+            {
+                "name": "Dry Bulk & Pneumatic Trailers",
+                "url": "https://www.machinio.com/dry-bulk-pneumatic-trailers"
+            },
+            {
+                "name": "Dump Trailers",
+                "url": "https://www.machinio.com/dump-trailers"
+            },
+            {
+                "name": "Dump trucks",
+                "url": "https://www.machinio.com/dump-trucks"
+            },
+            {
+                "name": "Fire Trucks",
+                "url": "https://www.machinio.com/fire-trucks"
+            },
+            {
+                "name": "Flatbed Trailers",
+                "url": "https://www.machinio.com/flatbed-trailers"
+            },
+            {
+                "name": "Flatbed Trucks",
+                "url": "https://www.machinio.com/flatbed-trucks"
+            },
+            {
+                "name": "Food Trucks",
+                "url": "https://www.machinio.com/food-trucks"
+            },
+            {
+                "name": "Forestry Trailers",
+                "url": "https://www.machinio.com/forestry-trailers"
+            },
+            {
+                "name": "Fuel & Lube Trucks",
+                "url": "https://www.machinio.com/fuel-lube-trucks"
+            },
+            {
+                "name": "Garbage trucks",
+                "url": "https://www.machinio.com/garbage-trucks"
+            },
+            {
+                "name": "Grain Hopper Trailers",
+                "url": "https://www.machinio.com/grain-hopper-trailers"
+            },
+            {
+                "name": "Grain Trucks",
+                "url": "https://www.machinio.com/grain-trucks"
+            },
+            {
+                "name": "Hooklifts & Roll-Offs",
+                "url": "https://www.machinio.com/hooklifts-roll-offs"
+            },
+            {
+                "name": "Livestock Trailers",
+                "url": "https://www.machinio.com/livestock-trailers"
+            },
+            {
+                "name": "Lowboy Trailers",
+                "url": "https://www.machinio.com/lowboy-trailers"
+            },
+            {
+                "name": "Minibuses",
+                "url": "https://www.machinio.com/minibuses"
+            },
+            {
+                "name": "Modular Trailers & SPMT",
+                "url": "https://www.machinio.com/spmt"
+            },
+            {
+                "name": "Pickup Trucks",
+                "url": "https://www.machinio.com/pickup-trucks"
+            },
+            {
+                "name": "Reefer Trailers",
+                "url": "https://www.machinio.com/reefer-trailers"
+            },
+            {
+                "name": "Reefer Trucks",
+                "url": "https://www.machinio.com/refrigerated-reefer-trucks"
+            },
+            {
+                "name": "School Buses",
+                "url": "https://www.machinio.com/school-buses"
+            },
+            {
+                "name": "Septic/Sewer/Vacuum Trucks",
+                "url": "https://www.machinio.com/septic-sewer-vacuum-trucks"
+            },
+            {
+                "name": "Service & Utility Trucks",
+                "url": "https://www.machinio.com/service-utility-trucks"
+            },
+            {
+                "name": "Swap Bodies",
+                "url": "https://www.machinio.com/swap-bodies"
+            },
+            {
+                "name": "Tanker Trailers",
+                "url": "https://www.machinio.com/tanker-trailers"
+            },
+            {
+                "name": "Tanker trucks",
+                "url": "https://www.machinio.com/tanker-trucks"
+            },
+            {
+                "name": "Timber Trucks",
+                "url": "https://www.machinio.com/timber-trucks"
+            },
+            {
+                "name": "Tow trucks",
+                "url": "https://www.machinio.com/tow-trucks"
+            },
+            {
+                "name": "Towable Heaters",
+                "url": "https://www.machinio.com/towable-heaters"
+            },
+            {
+                "name": "Trailers",
+                "url": "https://www.machinio.com/trailers"
+            },
+            {
+                "name": "Transit Buses",
+                "url": "https://www.machinio.com/transit-buses"
+            },
+            {
+                "name": "Truck Engines",
+                "url": "https://www.machinio.com/truck-engines"
+            },
+            {
+                "name": "Vans",
+                "url": "https://www.machinio.com/vans"
+            },
+            {
+                "name": "Winch Trucks",
+                "url": "https://www.machinio.com/winch-trucks"
+            }
+        ]
+    },
+    {
+        "name": "Waste & Recycling",
+        "url": "https://www.machinio.com/waste-recycling",
+        "subcategories": [
+            {
+                "name": "Construction Waste Recycling",
+                "url": "https://www.machinio.com/construction-waste-recycling"
+            },
+            {
+                "name": "Industrial Balers",
+                "url": "https://www.machinio.com/industrial-balers"
+            },
+            {
+                "name": "Industrial Shredders",
+                "url": "https://www.machinio.com/industrial-shredders"
+            },
+            {
+                "name": "Recycling & Disposal",
+                "url": "https://www.machinio.com/recycling-and-disposal"
+            },
+            {
+                "name": "Waste Compactors",
+                "url": "https://www.machinio.com/waste-compactors"
+            },
+            {
+                "name": "Wastewater Recycling",
+                "url": "https://www.machinio.com/wastewater-recycling"
+            }
+        ]
+    },
+    {
+        "name": "Woodworking",
+        "url": "https://www.machinio.com/woodworking-machinery",
+        "subcategories": [
+            {
+                "name": "Boring, Dowel inserting, Gluing",
+                "url": "https://www.machinio.com/boring-dowel-inserting-gluing"
+            },
+            {
+                "name": "CNC Wood Routers",
+                "url": "https://www.machinio.com/cnc-wood-routers"
+            },
+            {
+                "name": "Chainsaws",
+                "url": "https://www.machinio.com/chainsaws"
+            },
+            {
+                "name": "Edgebanders",
+                "url": "https://www.machinio.com/edgebanders"
+            },
+            {
+                "name": "Mortisers and Tenoners",
+                "url": "https://www.machinio.com/mortisers-and-tenoners"
+            },
+            {
+                "name": "Planers and Moulders",
+                "url": "https://www.machinio.com/planers-and-moulders"
+            },
+            {
+                "name": "Sanders",
+                "url": "https://www.machinio.com/sanders"
+            },
+            {
+                "name": "Veneer Machines",
+                "url": "https://www.machinio.com/veneer-machines"
+            },
+            {
+                "name": "Window Production",
+                "url": "https://www.machinio.com/window-production"
+            },
+            {
+                "name": "Wood CNC Machining Centers",
+                "url": "https://www.machinio.com/wood-cnc-machining-centers"
+            },
+            {
+                "name": "Wood Finishing Equipment",
+                "url": "https://www.machinio.com/wood-finishing-equipment"
+            },
+            {
+                "name": "Wood Lathes",
+                "url": "https://www.machinio.com/wood-lathes"
+            },
+            {
+                "name": "Wood Milling machines",
+                "url": "https://www.machinio.com/wood-milling-machines"
+            },
+            {
+                "name": "Wood Presses",
+                "url": "https://www.machinio.com/wood-presses"
+            },
+            {
+                "name": "Wood Sawmills",
+                "url": "https://www.machinio.com/wood-sawmills"
+            },
+            {
+                "name": "Wood Saws",
+                "url": "https://www.machinio.com/wood-saws"
+            }
+        ]
+    },
+    {
+        "name": "Other",
+        "url": "https://www.machinio.com/other",
+        "subcategories": [
+            {
+                "name": "ATV & UTV",
+                "url": "https://www.machinio.com/atv-utv"
+            },
+            {
+                "name": "Audiovisual/Broadcast",
+                "url": "https://www.machinio.com/audiovisual-broadcast"
+            },
+            {
+                "name": "Centrifugal Pumps",
+                "url": "https://www.machinio.com/centrifugal-pumps"
+            },
+            {
+                "name": "Floor Scrubbers & Sweepers",
+                "url": "https://www.machinio.com/floor-scrubbers-and-sweepers"
+            },
+            {
+                "name": "Golf Carts",
+                "url": "https://www.machinio.com/golf-carts"
+            },
+            {
+                "name": "Positive Displacement Pumps",
+                "url": "https://www.machinio.com/positive-displacement-pumps"
+            },
+            {
+                "name": "Pressure Washers",
+                "url": "https://www.machinio.com/pressure-washers"
+            },
+            {
+                "name": "Rail Machinery",
+                "url": "https://www.machinio.com/rail-machinery"
+            },
+            {
+                "name": "Salt/Sand Spreaders",
+                "url": "https://www.machinio.com/salt-sand-spreaders"
+            },
+            {
+                "name": "Snow Blowers",
+                "url": "https://www.machinio.com/snow-blowers"
+            },
+            {
+                "name": "Street Sweepers",
+                "url": "https://www.machinio.com/street-sweepers"
+            },
+            {
+                "name": "Stump Grinders",
+                "url": "https://www.machinio.com/stump-grinders"
+            },
+            {
+                "name": "Vacuum Pumps",
+                "url": "https://www.machinio.com/vacuum-pumps"
+            },
+            {
+                "name": "Water Pumps",
+                "url": "https://www.machinio.com/water-pumps"
+            }
+        ]
+    }
+]

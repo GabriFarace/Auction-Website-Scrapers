@@ -33,14 +33,14 @@ class MachinioTaxonomyScraper:
     def get_first_level_categories(self, response):
         soup = BeautifulSoup(response, "html.parser")
         first_categories_tags = soup.select("#hierarchy-nav > ul.h-nav__menu > li.h-nav__cat")
-
         first_level_categories = []
         for first_categories_tag in first_categories_tags:
-            name = first_categories_tag.find("a.has-submenu").text
-            url = first_categories_tag.find("a")["href"]
+            print(first_categories_tag)
+            name = first_categories_tag.select_one("a.has-submenu").text
+            url = first_categories_tag.select_one("a")["href"]
             first_level_category = {"name": name, "url": URL + url}
             second_category_tags = first_categories_tag.select("ul li")
-            first_level_category["subcategories"] = [{"name" : second_category_tag.find("a").text, "url" : URL + second_category_tag.find("a")["href"]} for second_category_tag in second_category_tags]
+            first_level_category["subcategories"] = [{"name" : second_category_tag.select_one("a").text, "url" : URL + second_category_tag.select_one("a")["href"]} for second_category_tag in second_category_tags[:-1]]
             first_level_categories.append(first_level_category)
         return first_level_categories
 
