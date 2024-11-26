@@ -43,7 +43,7 @@ def get_recursive_subcategories(all_categories, index, parent_value):
         new_index, sub_categories = get_recursive_subcategories(all_categories, index + 1, all_categories[index]["Value"])
         category = { "name" : all_categories[index]["CleanName"],
                     "value" : all_categories[index]["Value"],
-                      "url" : f"{URL}/listings/search?Category={all_categories[index]["Value"]}&ListingType=Auction%20Results&page=1"}
+                      "url" : f"{URL}/listings/search?Category={all_categories[index]['Value']}&ListingType=Auction%20Results&page=1"}
 
         if len(sub_categories) > 0:
             category["sub_categories"] = sub_categories
