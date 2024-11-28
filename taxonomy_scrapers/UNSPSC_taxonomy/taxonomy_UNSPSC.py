@@ -6,8 +6,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-from taxonomy_scrapers.machinery_trader_taxonomy.tractor_house_taxonomy.taxonomy_tractor_house import \
-    get_recursive_subcategories
 
 URL = "https://www.ungm.org/public/unspsc"
 
@@ -56,7 +54,7 @@ class UnitedNationsTaxonomyScraper:
         categories = []
         for category_tag in category_tags:
             span_tag = category_tag.find_element(By.CSS_SELECTOR, "span.nodeName")
-            category = {"name": span_tag.find_elements(By.TAG_NAME, "span")[2].text}
+            category = {"name": span_tag.find_elements(By.TAG_NAME, "span")[2].text, "code" : span_tag.find_elements(By.TAG_NAME, "span")[0].text}
             self.driver.execute_script("arguments[0].click();", span_tag)
             time.sleep(0.5)
             subcategories_tag = category_tag.find_elements(By.CSS_SELECTOR, "div.unspscChildren > div.unspscNode")
