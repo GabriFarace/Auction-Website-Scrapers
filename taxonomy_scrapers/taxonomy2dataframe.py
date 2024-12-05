@@ -79,3 +79,75 @@ if __name__ == "__main__":
     convert_taxonomy("gov_deals_taxonomy/taxonomy.json")
     convert_taxonomy("exapro_taxonomy/taxonomy.json")
     convert_taxonomy("bid_on_equipment_taxonomy/taxonomy.json")'''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'''
+    # Load the workbook for grouping and formatting
+    workbook = load_workbook(excel_filename)
+    sheet = workbook.active
+
+    # Programmatically group rows based on hierarchy depth
+    def build_group(rows_list, base, depth):
+        if depth == 5:
+            return
+        check = False
+        current_ind = 0
+        row_ind = 1
+        for i, row in enumerate(rows_list):
+            row_ind = base + i
+            if row[depth + 1] == '':# Check for the first non-empty level in the hierarchy
+                if check:
+                    if not row_ind == current_ind + 1:
+                        sheet.row_dimensions.group(start=current_ind + 1 + 1, end=row_ind - 1 + 1, outline_level=depth)
+                        build_group(rows_list[current_ind + 1 : row_ind], current_ind + 1, depth + 1)
+                    current_ind = row_ind
+                else:
+                    check = True
+                    current_ind = row_ind
+        if check:
+            if not row_ind == current_ind:
+                sheet.row_dimensions.group(start=current_ind + 1 + 1, end=row_ind + 1, outline_level=depth)
+
+    rows_as_list = df.values.tolist()
+    build_group(rows_as_list, 0, 1)
+    # Auto-resize columns to fit content
+    for col in sheet.columns:
+        max_length = 0
+        col_letter = col[0].column_letter  # Get the column letter
+        for cell in col:
+            try:
+                if cell.value:
+                    max_length = max(max_length, len(str(cell.value)))
+            except:
+                pass
+        adjusted_width = max_length + 2
+        sheet.column_dimensions[col_letter].width = adjusted_width
+
+    # Save the final grouped and formatted Excel file
+    final_excel_filename = name
+    workbook.save(final_excel_filename)
+
+    print(f"Excel file created and saved as '{final_excel_filename}'.")
+'''

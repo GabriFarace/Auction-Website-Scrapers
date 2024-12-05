@@ -1,0 +1,30 @@
+{
+  "length": {
+    "min": 365,
+    "max": 7300
+  },
+  "base_slope": {
+  "min": -0.001,
+  "max": 0.001
+  },
+  "seasonal_period": {
+    "min": 7,
+    "max": 365
+  },
+  "num_change_points": {
+    "min": 1,
+    "max": 100
+  },
+  "num_spikes": {
+    "min": 0,
+    "max": 50
+  },
+  "sum_mean": {
+    "min": 100000,
+    "max": 1000000
+  },
+  "sum_std": {
+    "min": 10000,
+    "max": 100000
+  }
+}

@@ -1,10 +1,10 @@
-import json
-from bs4 import BeautifulSoup, Tag
 import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+import pandas as pd
+import json
 
 
 URL = "https://www.ungm.org/public/unspsc"
@@ -56,12 +56,12 @@ class UnitedNationsTaxonomyScraper:
             span_tag = category_tag.find_element(By.CSS_SELECTOR, "span.nodeName")
             category = {"name": span_tag.find_elements(By.TAG_NAME, "span")[2].text, "code" : span_tag.find_elements(By.TAG_NAME, "span")[0].text}
             self.driver.execute_script("arguments[0].click();", span_tag)
-            time.sleep(0.5)
+            time.sleep(1)
             subcategories_tag = category_tag.find_elements(By.CSS_SELECTOR, "div.unspscChildren > div.unspscNode")
             if len(subcategories_tag) > 0:
                 category["subcategories"] = self.get_recursive_subcategories(subcategories_tag, level + 1)
             if level == 1:
-                with open("taxonomy.json", "r+") as file:
+                with open("taxonomy1.json", "r+") as file:
                     # Step 1: Read and parse the JSON content
                     data = json.load(file)
 
@@ -92,9 +92,49 @@ class UnitedNationsTaxonomyScraper:
             json.dump(categories, outfile, indent=4)
 
 
+class ExcelScraper:
+    def __init__(self, file_path):
+        self.input_excel_path = file_path
+
+    def get_taxonomy(self, output_json_path):
+
+        def build_taxonomy_tree(data, parent_key=None):
+            """Recursively build the taxonomy tree based on parent-child relationships."""
+            tree = []
+            if parent_key is not None:
+                children = data[data['Parent key'] == parent_key]
+            else:
+                children = data[data["Code"].isin(["A", "B", "C", "D", "E", "F", "G", "H", "I", "J"])]
+
+            for _, row in children.iterrows():
+                node = {
+                    "title": row["Title"],
+                    "code": row["Code"],
+                    "subcategories": build_taxonomy_tree(data, row["Key"])
+                }
+                tree.append(node)
+
+            return tree
+
+
+        # Read the Excel file
+        df = pd.read_excel(self.input_excel_path)
+        print(df.keys())
+
+        # Create the taxonomy tree starting from the root (parent_key=None)
+        taxonomy_tree = build_taxonomy_tree(df)
+
+        # Write the result to a JSON file
+        with open(output_json_path, 'w') as json_file:
+            json.dump(taxonomy_tree, json_file, indent=4)
+
+    def quit(self):
+        return
+
+
 
 if __name__ == '__main__':
-    scraper = UnitedNationsTaxonomyScraper()
+    scraper = ExcelScraper("website_UNSPSC.xlsx")
     try:
         scraper.get_taxonomy(TAXONOMY)
     except Exception as e:
